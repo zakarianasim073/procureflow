@@ -63,3 +63,4 @@ backend/app/sor/*/*.pdf
 
 # SOR extracted data (regenerated from PDFs)
 backend/app/sor/*/rates.json
+"backend/database/seed.sql" 
