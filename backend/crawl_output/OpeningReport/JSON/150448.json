@@ -1,0 +1,33 @@
+{
+  "tender_id": "150448",
+  "ref_no": "T-6/2218 Date: 31-12-2017",
+  "closing_date": "01-Feb-2018 12:25",
+  "opening_date": "01-Feb-2018 12:25",
+  "procuring_entity": "Tangail O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W-BL-05/2017-18",
+  "lot_no": "& River bank protective work along the left bank of Dhaleswari river in c/w Babupur-Lauhati FCD Project for a length of 530m from km 12.520 to km. 13.050 in Upazila-Delduar of Tangail district during the year 2017-18.",
+  "zone": "Tangail",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dolly Construction Ltd-Infratech (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M.M Builders & Engineers Ltd & M/S. A.S Construction -JV(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Khandaker Shahin Ahmed"
+    }
+  ],
+  "estimated_cost": null
+}

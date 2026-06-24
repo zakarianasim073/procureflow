@@ -1,0 +1,99 @@
+╔══════════════════════════════════════════════════════════════╗
+║   Procurement Flow Specialist BD                            ║
+║   Windows 11 — Quick Start Guide                            ║
+╚══════════════════════════════════════════════════════════════╝
+
+PREREQUISITES
+─────────────
+1. Python 3.10+  → https://www.python.org/downloads/
+   ✓ Check "Add Python to PATH" during installation
+
+2. Node.js 18+   → https://nodejs.org/
+
+3. Git (optional)→ https://git-scm.com/downloads/
+
+ONE-TIME SETUP
+──────────────
+Option A — Automatic (Recommended)
+  1. Extract this ZIP to a folder with NO spaces (e.g. C:\TenderSuite)
+  2. Double-click:  START_ENTERPRISE_TENDER_SUITE.bat
+  3. Choose option 1 → setup runs automatically → system starts
+
+Option B — Manual
+  Open Command Prompt or PowerShell in the project folder:
+    setup.bat
+    start.bat
+
+WHAT HAPPENS DURING SETUP
+─────────────────────────
+✅ Python virtual environment (.venv) created
+✅ All Python packages installed (FastAPI, SQLAlchemy, etc.)
+✅ All Node.js packages installed (React, Vite, etc.)
+✅ Storage directories created:
+   • runtime\           → Database, uploads, logs
+   • runtime\db\        → SQLite database (no PostgreSQL needed!)
+   • runtime\uploads\   → Uploaded BOQ/SOR files
+   • Documents\tenderai\→ Generated reports & exports
+✅ .env configuration created
+✅ SOR rate data verified (BWDB/LGED/PWD)
+
+STARTING THE SYSTEM
+───────────────────
+  Double-click:  start.bat
+  or
+  Open two terminals:
+    Terminal 1:  cd backend && .venv\Scripts\activate && python run.py
+    Terminal 2:  cd frontend && npm run dev
+
+  Then open:  http://localhost:5173
+
+STORAGE & DATA LOCATIONS
+────────────────────────
+  Reports & Exports:
+    %USERPROFILE%\Documents\tenderai\
+
+  SQLite Database:
+    backend\runtime\db\procureflow.db
+
+  SOR Rate Data (built-in):
+    backend\app\sor\bwdb\rates.csv
+    backend\app\sor\lged\rates.csv
+    backend\app\sor\pwd\rates.csv
+
+  Uploaded Files:
+    backend\runtime\uploads\
+
+  Application Logs:
+    backend\runtime\logs\
+
+TROUBLESHOOTING
+───────────────
+  "Python is not recognized"
+    → Reinstall Python, check "Add Python to PATH"
+
+  "pip is not recognized"
+    → Run: python -m ensurepip --upgrade
+
+  "Port 8000 already in use"
+    → Run: netstat -ano | findstr :8000
+    → Then: taskkill /f /pid <PID>
+
+  "ModuleNotFoundError: No module named 'aiosqlite'"
+    → Run: pip install aiosqlite
+
+  "Database error" or "no such table"
+    → Delete runtime\db\procureflow.db and restart
+
+  "OpenAI API key not configured"
+    → Edit .env and set OPENAI_API_KEY=your-key
+    → Or just use demo mode (ENABLE_DEMO_MODE=true)
+
+  Want PostgreSQL instead of SQLite?
+    → Install PostgreSQL, update DATABASE_URL in .env
+
+TESTING THE SYSTEM
+──────────────────
+  Backend Health:  http://127.0.0.1:8000/api/health
+  API Docs:        http://127.0.0.1:8000/docs
+  Agent List:      http://127.0.0.1:8000/api/agents
+  Frontend UI:     http://localhost:5173

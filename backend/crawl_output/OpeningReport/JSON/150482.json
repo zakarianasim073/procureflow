@@ -1,0 +1,41 @@
+{
+  "tender_id": "150482",
+  "ref_no": "T-6/2223 dated : 31-12-2017",
+  "closing_date": "06-Feb-2018 12:15",
+  "opening_date": "06-Feb-2018 12:15",
+  "procuring_entity": "Tangail O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Work-Shakharia-08/17-18",
+  "lot_no": "& River Bank Protective work at the left bank of Jamuna river at Shakharia from km. 1.550 to km. 1.680 130.00 m. in C/W Protection project of left bank of Jamuna River from Kaolibari to Shakharia Bharua-Bottala in Gopalpur & Bhuapur Upazila of Tangail District under Tangail O&M Divisin BWDB Tangail during the year 2017-2018.",
+  "zone": "Tangail",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. A.S Construction & Rana Builders (Pvt) Ltd-JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. BHAWAL CONSTRUCTION- WESTERN ENGINEERING (PVT.) LTD -M.M. BUILDERS & ENGINNERS LTD. - Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "Md. Liaquat Ali"
+    },
+    {
+      "serial": 5,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 6,
+      "name": "Techbay International"
+    }
+  ],
+  "estimated_cost": 40445376.18
+}

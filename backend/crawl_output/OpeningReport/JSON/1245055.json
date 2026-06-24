@@ -1,0 +1,140 @@
+{
+  "tender_id": "1245055",
+  "ref_no": "WDB/EE/T-12/1547 Date:29/03/2026",
+  "closing_date": "22-Apr-2026 13:00",
+  "opening_date": "22-Apr-2026 13:00",
+  "procuring_entity": "Sylhet WD Division, BWDB",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "SUR/PW-15",
+  "lot_no": "& Bank Protective work along the R/B of Surma River at Kanishail from km. 124.450 to km 125.000 = 550m in Upazila-Sylhet Sadar, District-Sylhet under Sylhet WD Division, BWDB, Sylhet.",
+  "zone": "Sylhet",
+  "bidder_count": 10,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "M/S Goodman Enterprise"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. M.A. Enterprise"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Shahid Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 8,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 9,
+      "name": "Noona- Ashim JV(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 10,
+      "name": "NT - EB JV(JVCA - View Details)"
+    }
+  ],
+  "price_bid_count": 10,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "214107737.082",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "214107737.082"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. A. S. Construction",
+      "quoted_amount": "233092878.304",
+      "discount_pct": "6.510",
+      "discount_amount": "15174346.377",
+      "net_quoted": "217918531.927"
+    },
+    {
+      "serial": 3,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "233092878.304",
+      "discount_pct": "6.270",
+      "discount_amount": "14614923.469",
+      "net_quoted": "218477954.835"
+    },
+    {
+      "serial": 4,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "233092878.304",
+      "discount_pct": "6.260",
+      "discount_amount": "14591614.181",
+      "net_quoted": "218501264.123"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN",
+      "quoted_amount": "233089526.102",
+      "discount_pct": "6.200",
+      "discount_amount": "14451550.618",
+      "net_quoted": "218637975.484"
+    },
+    {
+      "serial": 6,
+      "name": "NT - EB JV",
+      "quoted_amount": "218827513.894",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "218827513.894"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Shahid Brothers",
+      "quoted_amount": "233092878.301",
+      "discount_pct": "5.890",
+      "discount_amount": "13729170.531",
+      "net_quoted": "219363707.770"
+    },
+    {
+      "serial": 8,
+      "name": "M/S Goodman Enterprise",
+      "quoted_amount": "233098833.000",
+      "discount_pct": "5.870",
+      "discount_amount": "13682901.497",
+      "net_quoted": "219415931.503"
+    },
+    {
+      "serial": 9,
+      "name": "Noona- Ashim JV",
+      "quoted_amount": "220417803.906",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "220417803.906"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. M.A. Enterprise",
+      "quoted_amount": "233592878.304",
+      "discount_pct": "5.150",
+      "discount_amount": "12030033.232",
+      "net_quoted": "221562845.072"
+    }
+  ],
+  "estimated_cost": 233098832.69
+}

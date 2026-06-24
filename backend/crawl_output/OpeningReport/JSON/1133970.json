@@ -1,0 +1,77 @@
+{
+  "tender_id": "1133970",
+  "ref_no": "ET-1/2337 Date 27-07-2025",
+  "closing_date": "25-Aug-2025 16:20",
+  "opening_date": "25-Aug-2025 16:20",
+  "procuring_entity": "Gaibandha WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Holdia-09/2021-22.",
+  "lot_no": "& Bank Protection work along the Right bank of Jamuna River from BRE km. 94.923 to km 95.298 = 375.00 m at Holdia in Upazilla: Shaghata, Dist. Gaibandha in connection with the project \"Protection of Katlamari area at Fulchari Upazilla, Gobindi & Holdia area at Saghata Upazilla from erosion of the Right Bank of Jamuna River in Gaibandha District (1st Revised)(inter item cost adjustment)\" under Gaibandha WD Division, BWDB Gaibandha (Remaining Part).",
+  "zone": "Gaibandha",
+  "bidder_count": 14,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "adnos-techbay JV 06 (JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "DC-HF JV(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 4,
+      "name": "M-A JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "M/S Goodman Enterprise"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Aradhana Enterprise"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 9,
+      "name": "MATIN CONSTRUCTION LIMITED"
+    },
+    {
+      "serial": 10,
+      "name": "MCE-MAM-SB (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 11,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 12,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 13,
+      "name": "MTI-CEL JV01(JVCA - View Details)"
+    },
+    {
+      "serial": 14,
+      "name": "UI SR (JV)(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "MOHAMMED EUNUS & BROTHERS (PVT.) LTD.",
+  "award_amount": 152320000.0,
+  "estimated_cost": 169240835.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

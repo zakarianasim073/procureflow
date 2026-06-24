@@ -1,0 +1,164 @@
+{
+  "tender_id": "1184082",
+  "ref_no": "37.07.0000.008.14.237.25.46, dt: 13/10/2025",
+  "closing_date": "24-Dec-2025 12:00",
+  "opening_date": "24-Dec-2025 12:00",
+  "procuring_entity": "Office of the Executive Engineer, EED, Sunamganj District.",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Education",
+  "agency_name": "Education Engineering Department",
+  "package_no": "WD_230_23_Polytechnic_EED_SUN_2025-26_1",
+  "lot_no": "& Construction of Retaining wall, Boundary wall and Main gate of Sunamganj Polytechnic Institute Under Sadar upazila, Sunamganj.",
+  "zone": "Sunamganj",
+  "bidder_count": 12,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dhaly Construction Ltd.-Baset Prokousholi Limited JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Green Constraction"
+    },
+    {
+      "serial": 3,
+      "name": "M/S A&B TRADERS(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Abdul Goni"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. MYSHA TRADERS"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 8,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 9,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 10,
+      "name": "RM Construction"
+    },
+    {
+      "serial": 11,
+      "name": "SSL- ALI JV(JVCA - View Details)"
+    },
+    {
+      "serial": 12,
+      "name": "Zara Construction and Radif Enterprise JV(JVCA - View Details)"
+    }
+  ],
+  "price_bid_count": 12,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Abdul Goni",
+      "quoted_amount": "68821232.923",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "68821232.923"
+    },
+    {
+      "serial": 2,
+      "name": "RM Construction",
+      "quoted_amount": "83928827.324",
+      "discount_pct": "11.150",
+      "discount_amount": "9358064.247",
+      "net_quoted": "74570763.077"
+    },
+    {
+      "serial": 3,
+      "name": "Zara Construction and Radif Enterprise JV",
+      "quoted_amount": "75619424.220",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "75619424.220"
+    },
+    {
+      "serial": 4,
+      "name": "Noona Traders",
+      "quoted_amount": "83928355.062",
+      "discount_pct": "9.100",
+      "discount_amount": "7637480.311",
+      "net_quoted": "76290874.751"
+    },
+    {
+      "serial": 5,
+      "name": "Green Constraction",
+      "quoted_amount": "76879142.284",
+      "discount_pct": "0.001",
+      "discount_amount": "768.791",
+      "net_quoted": "76878373.493"
+    },
+    {
+      "serial": 6,
+      "name": "M/S A&B TRADERS",
+      "quoted_amount": "83928355.192",
+      "discount_pct": "8.330",
+      "discount_amount": "6991231.987",
+      "net_quoted": "76937123.205"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Niaz Traders",
+      "quoted_amount": "83928355.062",
+      "discount_pct": "8.150",
+      "discount_amount": "6840160.938",
+      "net_quoted": "77088194.124"
+    },
+    {
+      "serial": 8,
+      "name": "Dhaly Construction Ltd.-Baset Prokousholi Limited JV",
+      "quoted_amount": "77608284.999",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "77608284.999"
+    },
+    {
+      "serial": 9,
+      "name": "M/S. MYSHA TRADERS",
+      "quoted_amount": "83928355.062",
+      "discount_pct": "7.250",
+      "discount_amount": "6084805.742",
+      "net_quoted": "77843549.320"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "83928355.192",
+      "discount_pct": "7.000",
+      "discount_amount": "5874984.863",
+      "net_quoted": "78053370.329"
+    },
+    {
+      "serial": 11,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "86000000.000",
+      "discount_pct": "8.500",
+      "discount_amount": "7310000.000",
+      "net_quoted": "78690000.000"
+    },
+    {
+      "serial": 12,
+      "name": "SSL- ALI JV",
+      "quoted_amount": "78994125.510",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "78994125.510"
+    }
+  ],
+  "estimated_cost": null
+}

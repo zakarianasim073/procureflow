@@ -1,0 +1,33 @@
+{
+  "tender_id": "139330",
+  "ref_no": "T-1/BWDB/Kishore/6531 , Date: 19/11/2017",
+  "closing_date": "07-Jan-2018 14:30",
+  "opening_date": "07-Jan-2018 14:30",
+  "procuring_entity": "Kishoreganj WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BWDB/Kish/HFMLIP/PW-26",
+  "lot_no": "& Re-excavation of Khal a Phules swari khal from km 0.000 to km 3.960 3.960 km b Goalkhali Khal from km 0.500 to km 2.600 2.100 km c Kalna Khal from km 0.800 to km 1.940 1.140 km d Suti Nadi from km 2.200 to km 17.700 15.500 km Total 22.700 km and Construction of sub-mergible embankment in between km 8.200 to km 18.030 0.540 km of Sunai Haor sub-project in C/W Haor Flood Management and Livelihood Improvement Project under Kishoreganj WD Division BWDB Kishoreganj during the financial year 2017-18 & 2018-19. Package No. BWDB/Kish/HFMLIP/PW-26",
+  "zone": "Kishoreganj",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "MRC-GE JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "MRC-GE JV",
+  "award_amount": 50930000.0,
+  "estimated_cost": 56587238.7,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

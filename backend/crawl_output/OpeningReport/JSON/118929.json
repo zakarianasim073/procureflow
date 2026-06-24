@@ -1,0 +1,41 @@
+{
+  "tender_id": "118929",
+  "ref_no": "T-2/412 Dated: 05-09-2017",
+  "closing_date": "09-Oct-2017 12:00",
+  "opening_date": "09-Oct-2017 12:00",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Dau-RBP- 13",
+  "lot_no": "& Bank Revetment Work from km 32.732 to km 33.386 0.654 km in connection with Protection of Embankment from km 29.462 to km 39.000 of Polder No. 56/57 from Erosion of the Meghna River at Daulatkhan & Borhanuddin Upazila in Bhola District under Bhola O & M Division-I BWDB Bhola during the year 2017-2018",
+  "zone": "Bhola",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "BCCL-BCEL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "LA-TTSL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "NZK-WEL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "S. S. Engineering & Construction Ltd."
+    }
+  ],
+  "award_winner": "LA-TTSL JOINT VENTURE",
+  "award_amount": 341380000.0,
+  "estimated_cost": 313777553.57,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

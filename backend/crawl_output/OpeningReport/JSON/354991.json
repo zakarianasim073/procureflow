@@ -1,0 +1,41 @@
+{
+  "tender_id": "354991",
+  "ref_no": "Barisal/ADP/T-3/1856, dt:05/09/2019",
+  "closing_date": "24-Sep-2019 12:15",
+  "opening_date": "24-Sep-2019 12:15",
+  "procuring_entity": "Barisal O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BSL/2019-20/CC/WD-05",
+  "lot_no": "& River Bank Protection from Km 0.00 to Km 0.300300m from erosion of the Kirtonkhola River for Charkawa Fazil Madrasha Union Parishad Bus stand Bazar and adjacent area in Barishal Sadar Upazila under Barishal District under Barishal O&M Division BWDB Barishal during the year 2019-2020 & 2020-2021",
+  "zone": "Barisal",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Abul Kalam Azad-Maan International-Water Conservancy International Construction (BD) Ltd. (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "BISWAS TRADING & CONSTRUCTION"
+    },
+    {
+      "serial": 3,
+      "name": "M. M. Builders & Engineers Ltd-M/S. Amir Engineering Corporation(JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "MD. LIAQUAT ALI &TAJWAR TRADE SYSTEMS LTD JV. ( LA-TTSL Joint venture)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    }
+  ],
+  "estimated_cost": 250642710.0
+}

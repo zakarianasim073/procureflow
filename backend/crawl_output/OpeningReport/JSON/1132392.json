@@ -1,0 +1,53 @@
+{
+  "tender_id": "1132392",
+  "ref_no": "42.01.5100.599.07.003.25-220, Date: 31-07-2025",
+  "closing_date": "04-Sep-2025 14:00",
+  "opening_date": "04-Sep-2025 14:00",
+  "procuring_entity": "Laksmipur WD Division, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W-35/Lot-01",
+  "lot_no": "& Construction of Malibari Khal Regulator (2 Vent) & Raghunathpur Sluice Khal Regulator (2 Vent) in Upazila-Ramgati, Dist.-Lakshmipur under Lakshmipur WD Division, BWDB, Lakshmipur (Package No:W-35/Lot-01).",
+  "zone": "Laksmipur WD",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dockyard & Engineering Works Limited"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Jewel Electronics"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Al-Mamun Enterprise LTD"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "Md. Jamal Hossain - MS Noor Construction JV(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "MMA-SBL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "SIGMA ENGINEERS LTD."
+    }
+  ],
+  "award_winner": "DOCKYARD & ENGINEERING WORKS LIMITED",
+  "award_amount": 154970000.0,
+  "estimated_cost": 176000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

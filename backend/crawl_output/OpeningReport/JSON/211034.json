@@ -1,0 +1,37 @@
+{
+  "tender_id": "211034",
+  "ref_no": "T-1/22 Date:03-07-2018",
+  "closing_date": "14-Aug-2018 14:00",
+  "opening_date": "14-Aug-2018 14:00",
+  "procuring_entity": "Bhola O&M Division-2",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BBP-06/2018-2019",
+  "lot_no": "& Slope Protection of Embankment and River Bank Protective Work from Km 151.500 to Km 151.800 300 m of Polder 56/57 in connection with Protection from Bokshi Launchghat to Baburhat Launchghat area from the Erosion of Tentulia River including Dredging Work and Flood Protection in Kukri-Mukri Island at Charfession Upazila under Bhola District . Package No. BBP-06/2018-2019.",
+  "zone": "Bhola",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Amena Enterprise & M/s. Aradhona Enterprise JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "NATIONTECH-KKENT (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "SR-BJGTL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "Western Engineering ( Pvt.) Ltd."
+    }
+  ],
+  "estimated_cost": null
+}

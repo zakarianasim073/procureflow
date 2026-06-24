@@ -1,0 +1,65 @@
+{
+  "tender_id": "125631",
+  "ref_no": "Memo No-475 Date 07/10/2017.",
+  "closing_date": "01-Nov-2017 12:00",
+  "opening_date": "01-Nov-2017 12:00",
+  "procuring_entity": "Meghna-Dhonagoda O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "MDIP/OM /W-12/ 2017-18",
+  "lot_no": "& Repair & Maintenance work of irrigation canal dyke in DU-1 Main irrigation canal in between from km 0.050 to km 0.150 71m DU1-1 irrigation canal in between from km 3.200 to km 3.500 122 m water structure turn out no- 4 & 5 in U1-1 irrigation canal water structure turn out no- 3 & 6 in U1-11 irrigation canal",
+  "zone": null,
+  "bidder_count": 12,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M.A. Mannan"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Sabura enterprise"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Akas Enterprise"
+    },
+    {
+      "serial": 4,
+      "name": "M/S M. A. K. Enterprise"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Chowdhury & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Five Star International"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Shahid Brothers"
+    },
+    {
+      "serial": 9,
+      "name": "M/S. Sumon Traders"
+    },
+    {
+      "serial": 10,
+      "name": "MD. AYET ALI"
+    },
+    {
+      "serial": 11,
+      "name": "Md. Monir Hossain"
+    },
+    {
+      "serial": 12,
+      "name": "Techbay International"
+    }
+  ],
+  "estimated_cost": null
+}

@@ -1,0 +1,41 @@
+{
+  "tender_id": "259836",
+  "ref_no": "T-9/576, date:03.12.2018",
+  "closing_date": "14-Jan-2019 14:10",
+  "opening_date": "14-Jan-2019 14:10",
+  "procuring_entity": "Manikganj WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Manikganj/W-07/2018-19",
+  "lot_no": "& Re-excavation of Dhaleshwari River from km.100.000 to km.110.50010.500 km. in Upazilla-Saturia Manikganj Sadar & Singair District- Manikganj under Manikganj WD Division BWDB Manikganj during the FY 2018-19 Package No. Manikganj/W-07/2018-19.",
+  "zone": "Manikganj",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "ADL-NT-IH-JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "JAMUNA DREDGING AND ENGINEERING COMPANY LTD."
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Md. Jamil Iqbal"
+    },
+    {
+      "serial": 5,
+      "name": "Western Engineering (Pvt.) Ltd-The Pipeline Engineers & Associates Ltd JV (JVCA - View Details)"
+    }
+  ],
+  "award_winner": "ADL-NT-IH-JV",
+  "award_amount": 180370000.0,
+  "estimated_cost": 237940000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

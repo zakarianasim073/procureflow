@@ -1,0 +1,29 @@
+{
+  "tender_id": "133405",
+  "ref_no": "T-1/310, Date : 31/10/2017",
+  "closing_date": "30-Nov-2017 12:00",
+  "opening_date": "30-Nov-2017 12:00",
+  "procuring_entity": "Laksmipur O&M Division",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Lax/W-04/2017-18",
+  "lot_no": "& RIVER BANK PROTECTIVE WORKS ON THE LEFT BANK OF MEGHNA RIVER FROM KM.135.500 TO KM.136.200 0.700 KM AT Upstream of location-2 AT UPAZILLA RAMGATI DISTRICT- LAKSHMIPUR OF POLDER 59/2 IN C/W PROTECTION OF RAMGOTI AND KAMAL NAGAR UPAZILA AND ADJACENT AREAS UNDER LAKSHMIPUR DISTRICT FROM THE CONTINUING EROSION OF MEGHNA RIVER PHASE-1 PROJECT UNDER LAKSHMIPUR O&M DIVISION BWDB LAKSHMIPUR DURING THE YEAR 2017-2018.",
+  "zone": "Laksmipur",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Saleh Ahmed-M/S Hassan Builders (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "Western Engineering ( Pvt.) Ltd."
+    }
+  ],
+  "estimated_cost": 241311674.0
+}

@@ -1,0 +1,69 @@
+{
+  "tender_id": "488583",
+  "ref_no": "EE/WDB/Chapainawabganj/Da-2/1034; Date: 01-09-2020",
+  "closing_date": "12-Oct-2020 13:30",
+  "opening_date": "12-Oct-2020 13:30",
+  "procuring_entity": "Nawabganj O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "CWP -15",
+  "lot_no": "& Bank Revetment work on the left bank of the Padma River at Charbagdanga from Km.11.072 to Km. 11.292 220m in connection with Protection of Charbandanga and Shajahanpur area in sadar Upazilla of Chapainawabganj District from the erosion of the Padma River under Nawabganj O&M Division BWDB Chapainawabganj during FY 2020-2021 & 2021-2022.",
+  "zone": "Nawabganj",
+  "bidder_count": 13,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "LA-TTSL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M. M. Builders & Engineers Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "M/S Abul Kalam Azad"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Goodman Enterprise"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Nuruzzaman Khan"
+    },
+    {
+      "serial": 8,
+      "name": "NATIONTECH COMMUNICATIONS LTD(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 10,
+      "name": "SA & AB Conostruction JV(JVCA - View Details)"
+    },
+    {
+      "serial": 11,
+      "name": "SA-SI & ADL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 12,
+      "name": "Shekh Emdadul Hauqe Al Mamun"
+    },
+    {
+      "serial": 13,
+      "name": "Starlite Services Limited - M/S Udayan Builders (JV)(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 157303000.0
+}

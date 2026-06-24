@@ -1,0 +1,29 @@
+{
+  "tender_id": "119305",
+  "ref_no": "T-1/439 Date:07-09-2017",
+  "closing_date": "09-Oct-2017 12:00",
+  "opening_date": "09-Oct-2017 12:00",
+  "procuring_entity": "Bhola O&M Division-2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "RRBP-02/2016-2017 EGP",
+  "lot_no": "& River Bank Revetment work at from km 11.290 to 11.890 0.600 Km & Slope Protection of Embankment of 475M under polder No. 58/1 in connection with Protection of Ramneoaz Launchghat area of Monpura Upazila from the erosion of Meghna River and Gosherhat Launchghat area of Charfession Upazila from the erosion of Tentulia River in Bhola District during the year 2017-2018 Package No-RRBP-02/2016-2017.",
+  "zone": "Bhola",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "MA-SA-BJGTL (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "NATIONTECH-KKENT (JV)(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

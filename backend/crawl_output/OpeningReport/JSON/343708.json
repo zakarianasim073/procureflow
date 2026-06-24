@@ -1,0 +1,45 @@
+{
+  "tender_id": "343708",
+  "ref_no": "T-01/2596, Date: 30/07/2019",
+  "closing_date": "29-Aug-2019 11:20",
+  "opening_date": "29-Aug-2019 11:20",
+  "procuring_entity": "Kurigram O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Kuri/ADP/Chilmari/P-03/01",
+  "lot_no": "& Bank Revetment Work on the Right Bank of Brahmaputra River from KM 66.440 to KM 67.040 600m at Jorgach Area in Union Romna Upazila Chilmari District Kurigram during 2019-2020 & 2020-2021.",
+  "zone": "Kurigram",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Saleh Ahmed"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Khandaker Shahin Ahmed"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Md. Jamil Iqbal"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. TAZ MONZIL (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "Orient Trading & Builders Ltd. and B. J. Geo-Textile Ltd. JV(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "Tazul-Noona(JV)(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

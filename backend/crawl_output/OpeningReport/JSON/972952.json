@@ -1,0 +1,61 @@
+{
+  "tender_id": "972952",
+  "ref_no": "T-2/3444; 08/04/2024",
+  "closing_date": "16-May-2024 13:30",
+  "opening_date": "16-May-2024 13:30",
+  "procuring_entity": "Shariatpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Zajira/RBP-24",
+  "lot_no": "& Protective Work along the Right Bank of Padma River from Km (-)14.125 to Km (-)14.635=0.510 Km at Barokandi Area in Zajira Upazila of Shariatpur District under Shariatpur O&M Division, BWDB, Shariatpur.",
+  "zone": "Shariatpur",
+  "bidder_count": 10,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dockyard & Engineering Works Limited"
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "M. M. Builders & Engineers Ltd."
+    },
+    {
+      "serial": 4,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "MRN-KCEL (JV)(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "PROPERTY DEVELOPMENT LIMITED"
+    },
+    {
+      "serial": 9,
+      "name": "TTSL-LASL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 10,
+      "name": "WEPL-MDL JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "GOLAM RABBANI CONSTRUCTION LTD.",
+  "award_amount": 275380000.0,
+  "estimated_cost": 297358000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

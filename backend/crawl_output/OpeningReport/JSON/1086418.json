@@ -1,0 +1,49 @@
+{
+  "tender_id": "1086418",
+  "ref_no": "DIN/CSAWM-WDB-NZ-WD-08/Lot-01/439, Date: 11 March",
+  "closing_date": "16-Apr-2025 12:00",
+  "opening_date": "16-Apr-2025 12:00",
+  "procuring_entity": "Dinajpur WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "CSAWM-WDB-NZ-WD-08/Lot-01",
+  "lot_no": "& Rehabilitation of Dhepa right F.C embankment from km. 0.00 to km. 3.006, km. 4.706 to km. 12.760 & km. 12.865 to km. 15.225 = 13.420 km. and Punarbhaba right F.C embankment from km. 8.100 to km. 10.100 = 2.00 km. & km. 16.00 to km. 22.00 = 8.00 km. Total= 21.420 km. & Bank protection work along the right bank of Punarbhaba river from Km. 23.100 to km. 23.420 = 320 m & km. 24.660 to km. 24.940 = 280 m, Total = 600 m at Farakkabadh Dohogram of Dhepa-Punarbhaba water Management Project in Upazila : Birol & Kaharole, Dist: Dinajpur in c/w Climate Smart Agricultural Water Management Project (CSAWM) (BWDB Part) under Dinajpur WD Division, BWDB, Dinajpur.",
+  "zone": "Dinajpur",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Ataur Rahman Khan Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Shahid Brothers-Md. Jamal Hossain JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "Md. Moyenuddin (Bashi) Limited - M/S Jewel Electronics (JV) (JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "PCL-MMH JV(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "Rahman-Belal JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "ATAUR RAHMAN KHAN LTD.",
+  "award_amount": 191439999.99999997,
+  "estimated_cost": 273800000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

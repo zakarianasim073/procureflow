@@ -1,0 +1,33 @@
+{
+  "tender_id": "962988",
+  "ref_no": "T-1/1344, Date: 28-03-2024.",
+  "closing_date": "28-Apr-2024 20:20",
+  "opening_date": "28-Apr-2024 20:20",
+  "procuring_entity": "Habiganj O&M Division",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Habi/Bibiyana/WD-25/2023-24",
+  "lot_no": "& River Bank Protective work at the Left Bank of Kushiyara River from km. 74.100 to km. 74.430 total 0.33 km. at Markuli Bazar of Baniyachong Upazilla in Habiganj District under Habiganj O&M Division, BWDB, Habiganj in FY 2023-24.",
+  "zone": "Habiganj",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Khokan Construction & Engineering Ltd-Baset Prokousholi Limited JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. M.A. Enterprise"
+    },
+    {
+      "serial": 4,
+      "name": "PROPERTY DEVELOPMENT LIMITED"
+    }
+  ],
+  "estimated_cost": 293792000.0
+}

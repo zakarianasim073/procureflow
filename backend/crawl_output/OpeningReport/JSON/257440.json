@@ -1,0 +1,37 @@
+{
+  "tender_id": "257440",
+  "ref_no": "T-1/1463, Date: 29/11/2018",
+  "closing_date": "07-Jan-2019 12:30",
+  "opening_date": "07-Jan-2019 12:30",
+  "procuring_entity": "Panchgarh O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Panchagarh/W-04/2018-19",
+  "lot_no": "& Re-excavation of Korotoya River by dredging from Km.75.500 to Km. 83.000 7.500 Km. under Re-excavation of small river khal and water bodies in 64 districts 1st Phase at Debigonj Upazila District-Panchagarh under BWDB Panchagarh during the year 2018-19",
+  "zone": "Panchgarh",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Jewel Electronics"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "Md.Shamimur Rahman-Md. Jamal Hossain JV(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    }
+  ],
+  "award_winner": "MOHAMMED EUNUS & BROTHERS (PVT.) LTD.",
+  "award_amount": 115120000.0,
+  "estimated_cost": 127912158.44,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

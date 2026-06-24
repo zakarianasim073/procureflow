@@ -1,0 +1,41 @@
+{
+  "tender_id": "647375",
+  "ref_no": "T-1/1107 Dated: 11-01-2022",
+  "closing_date": "10-Feb-2022 12:00",
+  "opening_date": "10-Feb-2022 12:00",
+  "procuring_entity": "Dhaka O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "PW_3/2021-22",
+  "lot_no": "& Protective work at Brammongaon area along the left bank of the Padma river from km. 14.325 to km. 15.025 = 700 m in Louhajong Upazila of Munshiganj District under Dhaka O & M Division-1, BWDB, Dhaka during the Year 2021-2022, 2022-2023.",
+  "zone": "Dhaka",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Khokan Construction & Engineering Ltd - M/S. Niaz Traders (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Tazul Islam(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "NATIONTECH COMMUNICATIONS LTD-M/s. M.R. Construction JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "SSL - UNNAYAN JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "KHOKAN CONSTRUCTION & ENGINEERING LTD - M/S. NIAZ TRADERS (JV)",
+  "award_amount": 375150000.0,
+  "estimated_cost": 385836000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

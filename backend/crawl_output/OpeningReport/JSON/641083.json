@@ -1,0 +1,45 @@
+{
+  "tender_id": "641083",
+  "ref_no": "T-1/1717 Dt.-21/12/2021",
+  "closing_date": "20-Jan-2022 15:00",
+  "opening_date": "20-Jan-2022 15:00",
+  "procuring_entity": "Chattogram O&M Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "e-GP-51/Lot-01/ADP/63-1A/Reg./Ctg-1",
+  "lot_no": "& Construction of a 1-Vent regulatore (1.5m x 1.8m ) at the out fall of Mataleb khal at km.31.600 of polder no - 63/1A at Raipur Union in Anowara upazila, Dist.-Chittagong, connection with \" Rehabilitation of Coastal Polder NO: 62(Patenga), 63/1A (Anowara) & 63/1B (Anowara & Patiya) in Chittagong District\" under Chittagong O&M Division-I, BWDB, Chittagong during the year 2021-2022.",
+  "zone": "Chattogram",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Alam and Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "MAKAZ-GARIBENEWAZ (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "SA-NEB-UB (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "SA-SI & AE JV (JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 55250000.0,
+  "estimated_cost": 61400000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

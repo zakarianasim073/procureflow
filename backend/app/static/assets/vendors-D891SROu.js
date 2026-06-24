@@ -1,0 +1,1 @@
+import{v as s}from"./index-BQ9XA__x.js";const r={list:async e=>(await s.get("/vendors/",{params:e})).data,get:async e=>(await s.get(`/vendors/${e}`)).data,create:async e=>(await s.post("/vendors/",e)).data,update:async(e,t)=>(await s.put(`/vendors/${e}`,t)).data,delete:async e=>{await s.delete(`/vendors/${e}`)}};export{r as v};

@@ -1,0 +1,29 @@
+{
+  "tender_id": "565095",
+  "ref_no": "EE/CTG-2/T-6/872; Dated:25/04/2021",
+  "closing_date": "09-May-2021 15:45",
+  "opening_date": "09-May-2021 15:45",
+  "procuring_entity": "Chattogram O&M Division -2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BR/CTG-2-12",
+  "lot_no": "& Bank Protective work at the left bank of Feni river (Border River) from km. 11.350 to km. 11.600 = 250m near Karalachara BGB camp (East side) in Upazilla- Matiranga, Dist- Khagrachari in connection with Border River Bank Protection & Development Project, Phase-2, Under Chittagong O&M Division-II, BWDB, Chittagong during the year 2020-2021.(Package No: BR/CTG-2-12).(Remaining part)",
+  "zone": "Chattogram",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "S. Ananta Bikash Tripura"
+    }
+  ],
+  "award_winner": "S. ANANTA BIKASH TRIPURA",
+  "award_amount": 31210000.0,
+  "estimated_cost": 32000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

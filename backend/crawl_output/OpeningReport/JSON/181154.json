@@ -1,0 +1,41 @@
+{
+  "tender_id": "181154",
+  "ref_no": "T-6/3998 Dated 04-04-2018",
+  "closing_date": "07-May-2018 12:20",
+  "opening_date": "07-May-2018 12:20",
+  "procuring_entity": "Tangail O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "PWA-06 /2017-18",
+  "lot_no": "& Bank Protection project work for protection of Arjuna areas km. 3.260 to km. 3.720 460 m from erosion of the left bank of Jamuna river in Bhuapur Upazila of Tangail district under Tangail O&M Division BWDB Tangail during the year 2017-2018.",
+  "zone": "Tangail",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dolly Construction Ltd-Infratech (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M.M. BUILDERS &ENGINEERS LTD. -M/S. BHAWAL CONSTRUCTION.-ORIENT TRADING & BUILDERS LTD.-Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. A.S Construction-Rana Builders (Pvt) Ltd-Hassan Techno Builders Ltd-JV(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "SSECL-KSA-TI JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M.M. BUILDERS &ENGINEERS LTD. -M/S. BHAWAL CONSTRUCTION.-ORIENT TRADING & BUILDERS LTD.-JOINT VENTURE",
+  "award_amount": 147450000.0,
+  "estimated_cost": 163834171.5,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

@@ -1,0 +1,33 @@
+{
+  "tender_id": "541339",
+  "ref_no": "T-1/1757 Dated: 25/01/2021",
+  "closing_date": "25-Feb-2021 13:00",
+  "opening_date": "25-Feb-2021 13:00",
+  "procuring_entity": "Chattogram O&M Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "e-GP-50/PW/Anowara/Sea-Dyke",
+  "lot_no": "& Slope Protection Work of Sea-Dyke from KM 34.420 to KM 34.720 300m. in connection with Rehabilitation of Coastal Polder No. 62 Patenga Polder No. 63/1A Anowara Polder No. 63/1B Anowara & Patiya in Chittagong District during the FY 2020-2021 & 2021-2022.",
+  "zone": "Chattogram",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "LA-TI JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Saleh Ahmed"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": null
+}

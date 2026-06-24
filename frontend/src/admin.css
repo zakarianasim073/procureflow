@@ -1,0 +1,8 @@
+.layout { display: flex; min-height: 100vh; background: #f8fafc; }
+.sidebar { width: 260px; background: #1e293b; color: #fff; display: flex; flex-direction: column; flex-shrink: 0; }
+.sidebar-logo { padding: 1.25rem; display: flex; align-items: center; gap: 0.75rem; font-weight: 700; font-size: 1.125rem; border-bottom: 1px solid rgba(255,255,255,0.1); }
+.sidebar-nav { flex: 1; padding: 1rem 0.75rem; display: flex; flex-direction: column; gap: 0.25rem; }
+.sidebar-link { display: flex; align-items: center; gap: 0.75rem; padding: 0.625rem 0.75rem; border-radius: 0.5rem; color: #94a3b8; font-size: 0.875rem; font-weight: 500; text-decoration: none; transition: all 0.15s; }
+.sidebar-link:hover { background: rgba(255,255,255,0.08); color: #fff; }
+.sidebar-link.active { background: rgba(59,130,246,0.2); color: #60a5fa; }
+.main-content { flex: 1; overflow: auto; padding: 1.5rem; }

@@ -1,0 +1,29 @@
+{
+  "tender_id": "798228",
+  "ref_no": "T-26/2177 Dated: 12-03-2023",
+  "closing_date": "11-Apr-2023 13:50",
+  "opening_date": "11-Apr-2023 13:50",
+  "procuring_entity": "Dhaka O&M Division-2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "KRBPW-18",
+  "lot_no": "& Bank Protection work along the right bank of Kaligonga River at Malikanda from km. 95.050 to km. 95.900 = 850.00 m. by 175 kg Geo-Bag & C.C. Block in c/w \"River Bank protection work at kaliganga river to protect Nababganj Upazila in Dhaka District and Saturia, Ghior, Manikganj Sadar and Singair Upazila in Manikganj District from Erosion of Kaliganga River\" in Upazila: Nababganj, District: Dhaka under Dhaka O&M Division- 2, BWDB, Dhaka during the year 2022-23 to 2024-25.",
+  "zone": "Dhaka",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "TAJWAR TRADE SYSTEMS LIMITED"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 302960000.0,
+  "estimated_cost": 314765000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

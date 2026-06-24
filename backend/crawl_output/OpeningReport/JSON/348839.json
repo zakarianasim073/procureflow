@@ -1,0 +1,85 @@
+{
+  "tender_id": "348839",
+  "ref_no": "T-1/1309, Date-07/08/2019",
+  "closing_date": "09-Sep-2019 12:25",
+  "opening_date": "09-Sep-2019 12:25",
+  "procuring_entity": "Panchgarh O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BR-Pan-08",
+  "lot_no": "& Bank Protection of Korotoya River at Shekhgoch near segment -A to protect Mainaguri BGB BOP & Border Inspection Road Mainaguri to Mirgarh from Km. 13.576 to km.13.726 150.00m & Km.14.076 to Km.14.426 350m total 500.00m in Upazila Tentulia dist. Panchagarh under Panchagarh O&M Division.",
+  "zone": "Panchgarh",
+  "bidder_count": 17,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Jewel Electronics-M/S Rupantor (JV) (JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Dolly Construction Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "Goodman-M.Rahman (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Shahriar Ahmed"
+    },
+    {
+      "serial": 5,
+      "name": "M/s. Farjana Khan-Rana Builders (Pvt.) Ltd.-M/S. Amin & Co.(JVCA)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Khandaker Shahin Ahmed"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. M.A. Enterprise"
+    },
+    {
+      "serial": 9,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. Shahid Brothers"
+    },
+    {
+      "serial": 11,
+      "name": "Md. Hasibul Hasan (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 12,
+      "name": "Md.Shamimur Rahman-Md. Jamal Hossain JV(JVCA - View Details)"
+    },
+    {
+      "serial": 13,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 14,
+      "name": "Moshiur Rahman Chowdhury"
+    },
+    {
+      "serial": 15,
+      "name": "PVL- TI (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 16,
+      "name": "S. S. Engineering & Construction Ltd."
+    },
+    {
+      "serial": 17,
+      "name": "Western Engineering ( Pvt.) Ltd."
+    }
+  ],
+  "estimated_cost": null
+}

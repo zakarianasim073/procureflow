@@ -1,0 +1,29 @@
+{
+  "tender_id": "151166",
+  "ref_no": "APP ID: 77473",
+  "closing_date": "06-Mar-2018 15:00",
+  "opening_date": "06-Mar-2018 15:00",
+  "procuring_entity": "Office of the Executive Engineer, LGED, Naogaon",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Local Government, Rural Development and Co-operatives",
+  "agency_name": "Local Government Engineering Department (LGED)",
+  "package_no": "TULO/NAO/W-05",
+  "lot_no": "& a Construction of 1one storied Bisha Bhumi Office Building with 2two storied foundationwith 76m Boundary Wall & b Construction of 1one storied Kalikapur Bhumi Office Building with 2 two storied foundation with 58m Boundary Wall in Atrai Upazila of Naogaon District under Construction of Town and Union Land office across the Country Project. Atrai",
+  "zone": "Naogaon",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dhrubo Construction Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "Liton Traders"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": null
+}

@@ -1,0 +1,41 @@
+{
+  "tender_id": "983069",
+  "ref_no": "EE/Chandpur/T-2/943,Date:08.05.2024",
+  "closing_date": "11-Jun-2024 14:30",
+  "opening_date": "11-Jun-2024 14:30",
+  "procuring_entity": "Chandpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "RTPP/Natun/W-08",
+  "lot_no": "& Rehabilitation of River Bank Protection work along the Right bank of Dakatia River from KM 0.018 to KM 0.480=462m Total = 462 m at Natun Bazar area i/c \" Rehabilitation of Chandpur Town Protection Project\" under Chandpur O&M Division, BWDB, Chandpur",
+  "zone": "Chandpur",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "JV SKEM-ML(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Khulna Shipyard Limited(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "TTSL-LASL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "Western Engineering ( Pvt.) Ltd."
+    }
+  ],
+  "award_winner": "KHULNA SHIPYARD LIMITED",
+  "award_amount": 641520000.0,
+  "estimated_cost": 676900000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

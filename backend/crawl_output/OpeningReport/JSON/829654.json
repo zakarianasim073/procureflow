@@ -1,0 +1,33 @@
+{
+  "tender_id": "829654",
+  "ref_no": "MQ-52/1200, Date: 14-05-2023.",
+  "closing_date": "20-Jun-2023 12:45",
+  "opening_date": "20-Jun-2023 12:45",
+  "procuring_entity": "Barguna O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BTBPW-10/2022-23",
+  "lot_no": "& Slope protection of embankment and riverbank protective work at Fuljhuri Launch Ghat under Polder 41/6B from Km 17.800 to Km 18.100 Total 0.300 Km in connection with \"Rehabilitation of Polder 41/6A, 41/6B & 41/7A and protection of vulnerable portion including Betagi town from the erosion of Bishkhali & Payra river under Barguna district.\" under Barguna O&M Division, BWDB, Barguna.",
+  "zone": "Barguna",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "KK-UI (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "MEBL-SEL (JV)(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 317560000.0,
+  "estimated_cost": 328300000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

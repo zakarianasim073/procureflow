@@ -1,0 +1,145 @@
+{
+  "tender_id": "1203031",
+  "ref_no": "Memo No: T-2/1257",
+  "closing_date": "16-Feb-2026 12:00",
+  "opening_date": "16-Feb-2026 12:00",
+  "procuring_entity": "Shariatpur WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Zajira/RBP-38",
+  "lot_no": "& Protective Work along the Right Bank of Padma River from Km (-) 23.660 to Km (-) 23.812 = 0.152 Km & U/S End Termination =0.188 Km (Total Length 340m) at BBA Project Area, Purbo Naodoba Union Upazila: Zajira, District: Shariatpur under Shariatpur WD Division, BWDB, Shariatpur.",
+  "zone": "Shariatpur",
+  "bidder_count": 10,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "M. M. Builders & Engineers Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "M/S K.K. Enterprise"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 7,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 8,
+      "name": "NIAZ-KSAL JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 10,
+      "name": "Starlite Services Limited"
+    }
+  ],
+  "price_bid_count": 10,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S K.K. Enterprise",
+      "quoted_amount": "456252335.000",
+      "discount_pct": "10.870",
+      "discount_amount": "49594628.814",
+      "net_quoted": "406657706.186"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Tazul Islam",
+      "quoted_amount": "456252335.000",
+      "discount_pct": "10.770",
+      "discount_amount": "49138376.479",
+      "net_quoted": "407113958.521"
+    },
+    {
+      "serial": 3,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "411036659.860",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "411036659.860"
+    },
+    {
+      "serial": 4,
+      "name": "M. M. Builders & Engineers Ltd.",
+      "quoted_amount": "413362238.590",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "413362238.590"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Amir Engineering Corporation",
+      "quoted_amount": "415582658.800",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "415582658.800"
+    },
+    {
+      "serial": 6,
+      "name": "Noona Traders",
+      "quoted_amount": "456252335.000",
+      "discount_pct": "8.750",
+      "discount_amount": "39922079.312",
+      "net_quoted": "416330255.688"
+    },
+    {
+      "serial": 7,
+      "name": "NIAZ-KSAL JV.",
+      "quoted_amount": "456252335.000",
+      "discount_pct": "8.650",
+      "discount_amount": "39465826.977",
+      "net_quoted": "416786508.023"
+    },
+    {
+      "serial": 8,
+      "name": "Starlite Services Limited",
+      "quoted_amount": "456252334.744",
+      "discount_pct": "7.555",
+      "discount_amount": "34469863.889",
+      "net_quoted": "421782470.855"
+    },
+    {
+      "serial": 9,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "456252335.000",
+      "discount_pct": "7.500",
+      "discount_amount": "34218925.125",
+      "net_quoted": "422033409.875"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "426281850.554",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "426281850.554"
+    }
+  ],
+  "award_winner": "STARLITE SERVICES LIMITED",
+  "award_amount": 421780000.0,
+  "estimated_cost": 506529000.0,
+  "winner_quoted": 456252334.744,
+  "winner_discount": 9.93,
+  "winner_discount_pct": 7.555
+}

@@ -1,0 +1,3 @@
+# Agent-DB Disconnect (Critical Finding)
+
+- 2026-06-14 — [Analyzed all 34 agent files for database usage. Only 3 agents touch PostgreSQL: Agent 14 (award_records_v2), Agent 25 (knowledge_entries), Agent 26 (learning_outcomes). **31 agents operate entirely on in-memory dicts** — no awareness of contractor_dna, app_records, procurement_lifecycle, eexperience_completed, ecms_ongoing, contractors. The PostgreSQL intelligence layer (300k+ records across 10 tables) was built separately from the agent pipeline. The two systems don't talk. get_agent_feed() service was never called by any agent.](dc://w/procurementflow/c/eexperience-crawl/m/all)

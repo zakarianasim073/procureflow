@@ -1,0 +1,33 @@
+{
+  "tender_id": "256989",
+  "ref_no": "T-8/302; Date:28-11-2018",
+  "closing_date": "10-Jan-2019 13:00",
+  "opening_date": "10-Jan-2019 13:00",
+  "procuring_entity": "Chuadanga O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Chuadanga-W-03/2018-19",
+  "lot_no": "& Re-Excavation of Chitra River from Km. 6.000 to Km. 16.000 at Damurhuda and ChuadangaSadarUpazilla of Chuadanga District i/c with the Project Re-excavation of Small Rivers Khal& Water bodies in 64 Districts Phase-1 under Chuadanga O&M Division BWDB Chuadanga during The FY 2018-19.",
+  "zone": "Chuadanga",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Amin-Natural (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 4,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    }
+  ],
+  "estimated_cost": 71787000.0
+}

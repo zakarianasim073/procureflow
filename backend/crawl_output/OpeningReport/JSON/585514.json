@@ -1,0 +1,45 @@
+{
+  "tender_id": "585514",
+  "ref_no": "T-2/2025, Dated: 08-6-2021",
+  "closing_date": "12-Jul-2021 11:45",
+  "opening_date": "12-Jul-2021 11:45",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "DCP-Bor-RBP-05",
+  "lot_no": "& Bank Protection work from km 44.350 to km 44.450 equal to 0.100 km in connection with \"Protection of Daulatkhan Pourashava, Chokighat and other more vulnerable area from the erosion of the Meghna river in Bhola District\" project under Bhola O&M Division-I, BWDB, Bhola.",
+  "zone": "Bhola",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "LIAQUAT ALI & SONS LIMITED"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Mohiuddin Ahmed"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Kohinoor Enterprise"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 6,
+      "name": "Md. Eunus Al Mamun"
+    },
+    {
+      "serial": 7,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    }
+  ],
+  "estimated_cost": 113600000.0
+}

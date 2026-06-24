@@ -1,0 +1,57 @@
+{
+  "tender_id": "858821",
+  "ref_no": "ET/LAK/RKBLK/322, Date: 03-08-2023",
+  "closing_date": "14-Sep-2023 12:30",
+  "opening_date": "14-Sep-2023 12:30",
+  "procuring_entity": "Laksmipur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Lak/W-12/Lot-03",
+  "lot_no": "& River bank protective work along the left bank of Meghna river from km 138.167 to 138.467 = 300 m in c/w \"Protection work at the bank of Meghna river at Borokheri, Ludhuabazar and Kaderponditer hat areas in Ramgati and Kamal Nagar upazila under Lakshmipur District\" Project in Upazila-Kamalnagar, Dist.-Lakshmipur under Lakshmipur O&M Division, BWDB, Lakshmipur (Package No.- Lak/W-12/Lot-3).",
+  "zone": "Laksmipur",
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "BJGTL - AE ( JV )(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "JV MMBL-SKEM(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "KCEL-MNHCL(JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 7,
+      "name": "SA-MCPL(JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "SSECL-MHA JV(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "VCPL-SSRI JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. NIAZ TRADERS",
+  "award_amount": 295190000.0,
+  "estimated_cost": 309805000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

@@ -1,0 +1,53 @@
+{
+  "tender_id": "1133973",
+  "ref_no": "ET-1/2337 Date 27-07-2025",
+  "closing_date": "25-Aug-2025 16:00",
+  "opening_date": "25-Aug-2025 16:00",
+  "procuring_entity": "Gaibandha WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Holdia-16/2020-21.",
+  "lot_no": "& Bank Protection work along the Right bank of Jamuna River from BRE km. 96.773 to km 96.973 = 200.00 m at Holdia in Upazilla: Shaghata, Dist. Gaibandha in connection with the project \" Protection of Katlamari area at Fulchari Upazilla, Gobindi & Holdia area at Saghata Upazilla from erosion of the Right Bank of Jamuna River in Gaibandha District (1st Revised)(inter item cost adjustment)\" under Gaibandha WD Division, BWDB Gaibandha (Remaining Part).",
+  "zone": "Gaibandha",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GE-NK JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Aradhana Enterprise"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 6,
+      "name": "MATIN CONSTRUCTION LIMITED"
+    },
+    {
+      "serial": 7,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 8,
+      "name": "UI SR (JV)(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. AMIN & CO.",
+  "award_amount": 97449999.99999999,
+  "estimated_cost": 108280385.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

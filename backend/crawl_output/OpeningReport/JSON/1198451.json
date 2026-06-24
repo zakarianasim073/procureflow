@@ -1,0 +1,205 @@
+{
+  "tender_id": "1198451",
+  "ref_no": "T-2/1111, Dated- 17-12-2025",
+  "closing_date": "08-Jan-2026 12:10",
+  "opening_date": "08-Jan-2026 12:10",
+  "procuring_entity": "Khulna WD Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Khilna-1/Salta/2025-26/W-02",
+  "lot_no": "& Re-excavation of Salta River from km. 5.000 to Km. 9.100=4.100km in connection with the project Re-excavation of Salta River for mitigation of pollution, eviction of illegal Structures & Rejuvenation of Salta River under Khulna District under Khulna Water Development Division-1, BWDB, Khulna.",
+  "zone": "Khulna",
+  "bidder_count": 15,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dockyard & Engineering Works Limited"
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "M/S Abul Kalam Azad"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Goodman Enterprise"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 8,
+      "name": "Md.Shamimur Rahman"
+    },
+    {
+      "serial": 9,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 10,
+      "name": "Natural"
+    },
+    {
+      "serial": 11,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 12,
+      "name": "SAB (PVT.) LTD"
+    },
+    {
+      "serial": 13,
+      "name": "SASI-SB JV(JVCA - View Details)"
+    },
+    {
+      "serial": 14,
+      "name": "SNBPL-NHL (JV) (JVCA - View Details)"
+    },
+    {
+      "serial": 15,
+      "name": "UI-MKB (JV)(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    }
+  ],
+  "price_bid_count": 15,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "72957306.700",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "72957306.700"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Amin & Co.",
+      "quoted_amount": "73135683.846",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "73135683.846"
+    },
+    {
+      "serial": 3,
+      "name": "Md.Shamimur Rahman",
+      "quoted_amount": "73314065.475",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "73314065.475"
+    },
+    {
+      "serial": 4,
+      "name": "Noona Traders",
+      "quoted_amount": "73447851.651",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "73447851.651"
+    },
+    {
+      "serial": 5,
+      "name": "Natural",
+      "quoted_amount": "73938395.887",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "73938395.887"
+    },
+    {
+      "serial": 6,
+      "name": "M/S Abul Kalam Azad",
+      "quoted_amount": "77131392.355",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "77131392.355"
+    },
+    {
+      "serial": 7,
+      "name": "SAB (PVT.) LTD",
+      "quoted_amount": "89189862.146",
+      "discount_pct": "11.999",
+      "discount_amount": "10701891.559",
+      "net_quoted": "78487970.587"
+    },
+    {
+      "serial": 8,
+      "name": "UI-MKB (JV)",
+      "quoted_amount": "88654007.147",
+      "discount_pct": "11.150",
+      "discount_amount": "9884921.797",
+      "net_quoted": "78769085.350"
+    },
+    {
+      "serial": 9,
+      "name": "Dockyard & Engineering Works Limited",
+      "quoted_amount": "89189862.146",
+      "discount_pct": "11.222",
+      "discount_amount": "10008886.330",
+      "net_quoted": "79180975.816"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "89189862.146",
+      "discount_pct": "10.760",
+      "discount_amount": "9596829.167",
+      "net_quoted": "79593032.979"
+    },
+    {
+      "serial": 11,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "89189862.000",
+      "discount_pct": "10.750",
+      "discount_amount": "9587910.165",
+      "net_quoted": "79601951.835"
+    },
+    {
+      "serial": 12,
+      "name": "M/S Goodman Enterprise",
+      "quoted_amount": "89189862.146",
+      "discount_pct": "10.750",
+      "discount_amount": "9587910.181",
+      "net_quoted": "79601951.965"
+    },
+    {
+      "serial": 13,
+      "name": "SNBPL-NHL (JV)",
+      "quoted_amount": "79735736.734",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "79735736.734"
+    },
+    {
+      "serial": 14,
+      "name": "SASI-SB JV",
+      "quoted_amount": "89189862.146",
+      "discount_pct": "9.860",
+      "discount_amount": "8794120.408",
+      "net_quoted": "80395741.738"
+    },
+    {
+      "serial": 15,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "98099928.635",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "98099928.635"
+    }
+  ],
+  "award_winner": "M/S ABUL KALAM AZAD",
+  "award_amount": 77130000.0,
+  "estimated_cost": 89189861.0,
+  "winner_quoted": 77131392.355,
+  "winner_discount": 13.52,
+  "winner_discount_pct": 0.0
+}

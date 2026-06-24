@@ -1,0 +1,21 @@
+{
+  "tender_id": "258873",
+  "ref_no": "T-1/ 1270 Date 02.12.2018",
+  "closing_date": "06-Jan-2019 15:00",
+  "opening_date": "06-Jan-2019 15:00",
+  "procuring_entity": "Syedpur O&M Division",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Saidpur-W-08/2018-19/Nilphamari District",
+  "lot_no": "& Re-Excavation of Dewnai-Charalkata-Jamuneswari River from Km. 55.00 to Km 66.00 in Kishoreganj Upazilla of Nilphamari District",
+  "zone": "Syedpur",
+  "bidder_count": 1,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": null
+}

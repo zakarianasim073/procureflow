@@ -1,0 +1,25 @@
+{
+  "tender_id": "193308",
+  "ref_no": "EE/WDB/Chapai/Da-2/623; Date: 30-04-2018",
+  "closing_date": "14-May-2018 12:30",
+  "opening_date": "14-May-2018 12:30",
+  "procuring_entity": "Nawabganj O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "NDR/05.",
+  "lot_no": "& Protective Work on the Right bank of the River Mohananda from Km. 53.4544 to Km. 53.4874 equal to 33 M. at Chaytonnapur Baro Mosque in connection with Morichar Dara sub-project in Upazilla Shibganj under Nawabganj O&M Division BWDB Chapai Nawabganj during 2017-2018.",
+  "zone": "Nawabganj",
+  "bidder_count": 1,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 6160000.0,
+  "estimated_cost": 6846000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

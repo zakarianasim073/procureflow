@@ -1,0 +1,29 @@
+{
+  "tender_id": "591188",
+  "ref_no": "Da-1/1871 Date :30-06-2021",
+  "closing_date": "01-Aug-2021 11:22",
+  "opening_date": "01-Aug-2021 11:22",
+  "procuring_entity": "Moulvibazar O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "ML-PW-01",
+  "lot_no": "& Bank Revetment work along the left bank at chatlapur from km 0.100 to 0.750 = 650m. in c/w \"Protection Project at Moulvibazar Sadar, Rajnagor & Kulaura Upazila from erosion of Manu River\" under Moulvibazar O&M Division, BWDB, Moulvibazar during the FY 2020-21, 2021-22 & 2022-23.",
+  "zone": "Moulvibazar",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "SA-AE&ZC (JV)(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    }
+  ],
+  "award_winner": "SA-AE&ZC (JV)",
+  "award_amount": 147940000.0,
+  "estimated_cost": 148500000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

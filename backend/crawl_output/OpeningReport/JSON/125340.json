@@ -1,0 +1,53 @@
+{
+  "tender_id": "125340",
+  "ref_no": "Memo No-460 Date 05/10/2017.",
+  "closing_date": "30-Oct-2017 11:00",
+  "opening_date": "30-Oct-2017 11:00",
+  "procuring_entity": "Meghna-Dhonagoda O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "MDIP/OM /W-01/ 2017-18",
+  "lot_no": "& Repair & Maintenance work of irrigation canal dyke water structure turn out no-11 12 & 13 in U2 main irrigation canal in between from km 3.000 to km 6.000 & Manufacturing & Placing of Ferro cement Lining in irrigation canal U2-2 in between from km 0.145 to km 0.167 22.00 m",
+  "zone": null,
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M.A. Mannan"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Sabura enterprise"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Chowdhury & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Sumon Traders"
+    },
+    {
+      "serial": 6,
+      "name": "MD. ABDUL HAI"
+    },
+    {
+      "serial": 7,
+      "name": "Md. Monir Hossain"
+    },
+    {
+      "serial": 8,
+      "name": "TANIA & CO."
+    },
+    {
+      "serial": 9,
+      "name": "Techbay International"
+    }
+  ],
+  "estimated_cost": null
+}

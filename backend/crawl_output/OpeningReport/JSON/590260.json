@@ -1,0 +1,33 @@
+{
+  "tender_id": "590260",
+  "ref_no": "T-1/2433 Date:21-06-21",
+  "closing_date": "28-Jul-2021 17:00",
+  "opening_date": "28-Jul-2021 17:00",
+  "procuring_entity": "Habiganj O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Habi/Bibiyana/WD-13/2019-20",
+  "lot_no": "& Re-excavation of Ratna-Bijna-Gopla river from km 44.000 to Km 66.000 total 22.000 km in Upazilla Nabigan Dist Habiganj in C/W with bank Protection work along the both bank of Kushiyara river in front of Bibiyana power plants in Habiganj District under Habiganj O&M Division, BWDB, Habiganj during the year 2020-21 to 2021-22.",
+  "zone": "Habiganj",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Kohinoor Enterprise (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "Nabarun Traders Limited"
+    }
+  ],
+  "award_winner": "M/S. KOHINOOR ENTERPRISE (JV)",
+  "award_amount": 150140000.0,
+  "estimated_cost": 165000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

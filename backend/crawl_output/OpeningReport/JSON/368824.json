@@ -1,0 +1,41 @@
+{
+  "tender_id": "368824",
+  "ref_no": "T-01/3661, Date: 21/10/2019",
+  "closing_date": "20-Nov-2019 11:15",
+  "opening_date": "20-Nov-2019 11:15",
+  "procuring_entity": "Kurigram O&M Division",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "KURI/ADP/RAJIBPUR/P-02",
+  "lot_no": "& Revetment Work in Brahmaputra River Left Bank from KM37.250 to KM 37.700 450.00m at UP-Mohongonj Hajipara area in upazila Rajibpur of Kurigram District during 2019-2020 & 2020-2021.",
+  "zone": "Kurigram",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dolly Construction Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "M/S. BHAWAL CONSTRUCTION"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "Orient Trading & Builders Ltd. and B. J. Geo-Textile Ltd. JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "STANDARD-SASI JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "Tazul-Noona(JV)(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

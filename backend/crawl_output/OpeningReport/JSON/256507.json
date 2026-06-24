@@ -1,0 +1,25 @@
+{
+  "tender_id": "256507",
+  "ref_no": "T-26/1017 Dated: 27-11-2018",
+  "closing_date": "24-Dec-2018 12:30",
+  "opening_date": "24-Dec-2018 12:30",
+  "procuring_entity": "Dhaka O&M Division-2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "DHAKA-W-03/2018-19",
+  "lot_no": "& Re-excavation of Ainta khal from km 0.00 to km 4.800 4.800m. at Keraniganj Upzilla Dist-Dhaka under Dhaka O&M Division-2 BWDB Dhaka during the year 2018-19.",
+  "zone": "Dhaka",
+  "bidder_count": 1,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 32630000.0,
+  "estimated_cost": 33148000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

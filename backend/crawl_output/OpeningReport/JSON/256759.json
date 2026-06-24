@@ -1,0 +1,45 @@
+{
+  "tender_id": "256759",
+  "ref_no": "T-9/2566 dt-28-11-2018",
+  "closing_date": "24-Dec-2018 13:00",
+  "opening_date": "24-Dec-2018 13:00",
+  "procuring_entity": "Rangpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Rangpur-W-11/2018-19",
+  "lot_no": "& Re-Excavation Of Akhira River From Km. 0.000 To Km. 12.000 12000 M At Uz Pirganj Dist. Rangpur Under Rangpur O&M Division Bwdb Rangpur.",
+  "zone": "Rangpur",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Shara Enterprise - S.M. Rashed Hossain & Sheikh Construction (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. RAKIB BROTHERS"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 5,
+      "name": "Md.Shamimur Rahman"
+    },
+    {
+      "serial": 6,
+      "name": "SA & GME = JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S SHARA ENTERPRISE - S.M. RASHED HOSSAIN & SHEIKH CONSTRUCTION (JV)",
+  "award_amount": 37070000.0,
+  "estimated_cost": 41194108.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

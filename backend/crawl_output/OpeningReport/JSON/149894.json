@@ -1,0 +1,29 @@
+{
+  "tender_id": "149894",
+  "ref_no": "1140 date- 27/12/17",
+  "closing_date": "28-Jan-2018 13:00",
+  "opening_date": "28-Jan-2018 13:00",
+  "procuring_entity": "Habiganj O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W/HAB-2/2017-2018",
+  "lot_no": "& Constraction of Chargaondhala 4 vent Regulator at the left bank of bibiyana River in Upazila- Nabiganj District-Habiganj in connection with Makalkandi Haor sub-project under Pre-mon soon Flood Protection and DrainageImprovement Project in haor area under Habiganj O&M Division BWDB Habiganj.during the year - 2017-2018 & 2018-2019.",
+  "zone": "Habiganj",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Liton Traders"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    }
+  ],
+  "estimated_cost": 54979227.59
+}

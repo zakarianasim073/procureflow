@@ -1,0 +1,97 @@
+{
+  "tender_id": "TEST-BUNDLE-001",
+  "tender_info": {},
+  "filled_fields": {},
+  "validation_reports": {},
+  "uploaded_files": {
+    "boq": "uploads\\TEST-BUNDLE-001\\boq.xlsx"
+  },
+  "artifacts": [
+    {
+      "kind": "excel",
+      "path": "runtime\\TEST-BUNDLE-001\\BOQ_Analysis_TEST-BUNDLE-001.xlsx",
+      "filename": "BOQ_Analysis_TEST-BUNDLE-001.xlsx"
+    },
+    {
+      "kind": "docx",
+      "path": "runtime\\TEST-BUNDLE-001\\BOQ_Analysis_TEST-BUNDLE-001.docx",
+      "filename": "BOQ_Analysis_TEST-BUNDLE-001.docx"
+    },
+    {
+      "kind": "workplan",
+      "path": "outputs\\TEST-BUNDLE-001\\WorkPlan_TEST-BUNDLE-001.xlsx",
+      "filename": "WorkPlan_TEST-BUNDLE-001.xlsx"
+    }
+  ],
+  "comparison": {
+    "success": true,
+    "data": [
+      {
+        "item_no": "1",
+        "code": "1001",
+        "agency": "BWDB",
+        "work_type": "Earthwork",
+        "desc": "Earthwork excavation",
+        "unit": "cum",
+        "qty": 10.0,
+        "rate": 500.0,
+        "sor_rate": null,
+        "sor_source": null,
+        "diff": null,
+        "pct_diff": null,
+        "flag": "SOR MISSING",
+        "section": "Earthwork"
+      },
+      {
+        "item_no": "2",
+        "code": "1002",
+        "agency": "BWDB",
+        "work_type": "Concrete",
+        "desc": "Plain cement concrete",
+        "unit": "cum",
+        "qty": 5.0,
+        "rate": 8000.0,
+        "sor_rate": null,
+        "sor_source": null,
+        "diff": null,
+        "pct_diff": null,
+        "flag": "SOR MISSING",
+        "section": "CC Blocks & Concrete"
+      }
+    ],
+    "summary": {
+      "by_work_type": [
+        {
+          "work_type": "Earthwork",
+          "items": 1,
+          "sor_amount": 0.0,
+          "quoted_amount": 5000.0,
+          "saving": -5000.0,
+          "discount_pct": 0,
+          "pct_of_total": 0.1111111111111111
+        },
+        {
+          "work_type": "Concrete",
+          "items": 1,
+          "sor_amount": 0.0,
+          "quoted_amount": 40000.0,
+          "saving": -40000.0,
+          "discount_pct": 0,
+          "pct_of_total": 0.8888888888888888
+        }
+      ],
+      "total_sor": 0.0,
+      "total_quoted": 45000.0,
+      "discount_pct": 0
+    },
+    "flagged": [],
+    "excel_path": "runtime\\TEST-BUNDLE-001\\BOQ_Analysis_TEST-BUNDLE-001.xlsx",
+    "docx_path": "runtime\\TEST-BUNDLE-001\\BOQ_Analysis_TEST-BUNDLE-001.docx",
+    "tenderai_dir": "runtime\\TEST-BUNDLE-001",
+    "total_items": 2,
+    "mismatches": 0,
+    "variances": 0,
+    "matches": 0,
+    "below_sor": 0
+  }
+}

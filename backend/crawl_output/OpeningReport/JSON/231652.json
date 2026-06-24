@@ -1,0 +1,25 @@
+{
+  "tender_id": "231652",
+  "ref_no": "T-6/1268, Dated: 02-10-2018",
+  "closing_date": "18-Oct-2018 12:00",
+  "opening_date": "18-Oct-2018 12:00",
+  "procuring_entity": "Chittagong O&M Division -2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "CTG2/W- 36",
+  "lot_no": "& Additional Work of Sea-side Slope Protective work by C.C Block of Embankment from km 0.000 to km. 1.500 1500m & km. 104.600 to km.107.0002400mTotal Length 3.900 km. at Moulabipara Kadamrasul & Premasia in the Coastal area of Polder No- 64/1A in Banskhali upazila Dist. Chittagong during the year 2017-2018.",
+  "zone": "Chittagong",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dolly Construction Ltd-SASI (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": null
+}

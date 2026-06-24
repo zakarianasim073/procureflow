@@ -1,0 +1,241 @@
+{
+  "tender_id": "1236540",
+  "ref_no": "42.01.0600.000.112.07.0001.25-2115, Date-29/01/26",
+  "closing_date": "15-Mar-2026 14:00",
+  "opening_date": "15-Mar-2026 14:00",
+  "procuring_entity": "Barishal WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BSL/MHDJ/WD-26",
+  "lot_no": "& River bank protection work of Sultania Khal (Right Bank) from Km 1.000 to Km 1.500 = 0.500 Km at Mehendigonj upazila of Barishal district in c/w \"River bank protection work at different location of Mehendigonj upazilla from erosion of Tetulia river in Barishal district\" under Barishal WD Division, BWDB, Barishal.",
+  "zone": "Barishal",
+  "bidder_count": 18,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "B. J. Geo-Textile Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "Khokan Construction & Engineering Ltd"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Jewel Electronics"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Aradhana Enterprise"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 9,
+      "name": "M/S. Md. Jamil Iqbal"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 11,
+      "name": "M/S. Shahid Brothers-SADIKA AFIA SIMI JV(JVCA - View Details)"
+    },
+    {
+      "serial": 12,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 13,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 14,
+      "name": "MRN-NE JV(JVCA - View Details)"
+    },
+    {
+      "serial": 15,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 16,
+      "name": "Noor Hossain Limited"
+    },
+    {
+      "serial": 17,
+      "name": "Techbay International"
+    },
+    {
+      "serial": 18,
+      "name": "Unnayan International"
+    }
+  ],
+  "price_bid_count": 18,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "193785532.404",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "193785532.404"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. A. S. Construction",
+      "quoted_amount": "216676655.370",
+      "discount_pct": "9.300",
+      "discount_amount": "20150928.949",
+      "net_quoted": "196525726.421"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Niaz Traders",
+      "quoted_amount": "216646665.738",
+      "discount_pct": "8.990",
+      "discount_amount": "19476535.249",
+      "net_quoted": "197170130.489"
+    },
+    {
+      "serial": 4,
+      "name": "Unnayan International",
+      "quoted_amount": "216676655.368",
+      "discount_pct": "8.960",
+      "discount_amount": "19414228.320",
+      "net_quoted": "197262427.048"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Amir Engineering Corporation",
+      "quoted_amount": "197590023.370",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "197590023.370"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Aradhana Enterprise",
+      "quoted_amount": "216676655.361",
+      "discount_pct": "8.690",
+      "discount_amount": "18829201.350",
+      "net_quoted": "197847454.011"
+    },
+    {
+      "serial": 7,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "216676655.361",
+      "discount_pct": "8.660",
+      "discount_amount": "18764198.354",
+      "net_quoted": "197912457.007"
+    },
+    {
+      "serial": 8,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "198264754.970",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "198264754.970"
+    },
+    {
+      "serial": 9,
+      "name": "Techbay International",
+      "quoted_amount": "216676655.361",
+      "discount_pct": "8.490",
+      "discount_amount": "18395848.040",
+      "net_quoted": "198280807.321"
+    },
+    {
+      "serial": 10,
+      "name": "Khokan Construction & Engineering Ltd",
+      "quoted_amount": "216674278.553",
+      "discount_pct": "8.250",
+      "discount_amount": "17875627.980",
+      "net_quoted": "198798650.573"
+    },
+    {
+      "serial": 11,
+      "name": "M/S. Md. Jamil Iqbal",
+      "quoted_amount": "198957220.020",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "198957220.020"
+    },
+    {
+      "serial": 12,
+      "name": "MRN-NE JV",
+      "quoted_amount": "199303892.726",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "199303892.726"
+    },
+    {
+      "serial": 13,
+      "name": "Noona Traders",
+      "quoted_amount": "216646665.744",
+      "discount_pct": "7.990",
+      "discount_amount": "17310068.592",
+      "net_quoted": "199336597.152"
+    },
+    {
+      "serial": 14,
+      "name": "Noor Hossain Limited",
+      "quoted_amount": "216676529.865",
+      "discount_pct": "7.900",
+      "discount_amount": "17117445.859",
+      "net_quoted": "199559084.006"
+    },
+    {
+      "serial": 15,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "216676655.370",
+      "discount_pct": "7.720",
+      "discount_amount": "16727437.794",
+      "net_quoted": "199949217.576"
+    },
+    {
+      "serial": 16,
+      "name": "B. J. Geo-Textile Ltd.",
+      "quoted_amount": "216676731.705",
+      "discount_pct": "7.250",
+      "discount_amount": "15709063.048",
+      "net_quoted": "200967668.657"
+    },
+    {
+      "serial": 17,
+      "name": "M/S. Shahid Brothers-SADIKA AFIA SIMI JV",
+      "quoted_amount": "202701011.099",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "202701011.099"
+    },
+    {
+      "serial": 18,
+      "name": "M/S Jewel Electronics",
+      "quoted_amount": "212282757.771",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "212282757.771"
+    }
+  ],
+  "award_winner": "MD. NASIR UDDIN MOLLA",
+  "award_amount": 197910000.0,
+  "estimated_cost": 216676655.37,
+  "winner_quoted": 216676655.361,
+  "winner_discount": 0.0,
+  "winner_discount_pct": 8.66
+}

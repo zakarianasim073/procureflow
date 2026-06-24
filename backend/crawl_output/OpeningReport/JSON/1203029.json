@@ -1,0 +1,109 @@
+{
+  "tender_id": "1203029",
+  "ref_no": "Memo No: T-2/1255",
+  "closing_date": "16-Feb-2026 12:00",
+  "opening_date": "16-Feb-2026 12:00",
+  "procuring_entity": "Shariatpur WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Zajira/RBP-36",
+  "lot_no": "& Protective Work along the Right Bank of Padma River from KM (-)22.760 to KM (-)23.260 =0.500 KM at BBA Project Area, Purbo Naodoba Union Upazila: Zajira, District: Shariatpur under Shariatpur WD Division, BWDB, Shariatpur",
+  "zone": "Shariatpur",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "M. M. Builders & Engineers Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 6,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 7,
+      "name": "NIAZ-KSAL JV.(JVCA - View Details)"
+    }
+  ],
+  "price_bid_count": 7,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Tazul Islam",
+      "quoted_amount": "662227152.665",
+      "discount_pct": "10.110",
+      "discount_amount": "66951165.134",
+      "net_quoted": "595275987.531"
+    },
+    {
+      "serial": 2,
+      "name": "NIAZ-KSAL JV.",
+      "quoted_amount": "662227152.665",
+      "discount_pct": "9.770",
+      "discount_amount": "64699592.815",
+      "net_quoted": "597527559.850"
+    },
+    {
+      "serial": 3,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "599319641.400",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "599319641.400"
+    },
+    {
+      "serial": 4,
+      "name": "M. M. Builders & Engineers Ltd.",
+      "quoted_amount": "601875907.200",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "601875907.200"
+    },
+    {
+      "serial": 5,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "662227152.665",
+      "discount_pct": "6.500",
+      "discount_amount": "43044764.923",
+      "net_quoted": "619182387.742"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "625478166.919",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "625478166.919"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Amir Engineering Corporation",
+      "quoted_amount": "631659423.225",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "631659423.225"
+    }
+  ],
+  "award_winner": "GOLAM RABBANI CONSTRUCTION LTD.",
+  "award_amount": 619180000.0,
+  "estimated_cost": 691406000.0,
+  "winner_quoted": 662227152.665,
+  "winner_discount": 4.22,
+  "winner_discount_pct": 6.5
+}

@@ -1,0 +1,33 @@
+{
+  "tender_id": "1024191",
+  "ref_no": "42.01.1500.582.07.020.24.1446, Date: 06-10-2024",
+  "closing_date": "17-Nov-2024 13:00",
+  "opening_date": "17-Nov-2024 13:00",
+  "procuring_entity": "Chattogram WD Division -2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "CTG-2/ W-B-11",
+  "lot_no": "& Resectioning of embankment (Sea-Dyke) with slope protection from KM 13.150 to KM 13.600 = 450m at Polder No. 64/1C, Union: Chanua, Upazila: Bankskhali, Dist: Chittagong in c/w \"Sustainable Water Management Project at Banshkhali and Anwara Upazila in South Chattogram (1st Phase)\" at under Chattogram WD Division-2, BWDB, Chattogram during FY 2024-25.",
+  "zone": "Chattogram",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Md. Jamil Iqbal"
+    },
+    {
+      "serial": 3,
+      "name": "RFL Plastics Limited"
+    }
+  ],
+  "award_winner": "RFL PLASTICS LIMITED",
+  "award_amount": 174430000.00000003,
+  "estimated_cost": 191800000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

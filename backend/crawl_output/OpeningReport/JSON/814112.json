@@ -1,0 +1,33 @@
+{
+  "tender_id": "814112",
+  "ref_no": "T-2/3103; Dated: 17-04-2023",
+  "closing_date": "25-May-2023 14:30",
+  "opening_date": "25-May-2023 14:30",
+  "procuring_entity": "Shariatpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Tarabonia/RBP-13",
+  "lot_no": "& Protective Work along the Right Bank of Padma Branch River from Km (+) 9.512 to Km (+) 9.600 = 0.088 Km & U/S End Termination & 01 no. Filter Drain (Length = 200m) at Uttar Tarabonia area in Vederganj upazila of Shariatpur District under Shariatpur O&M Division, BWDB, Shariatpur.",
+  "zone": "Shariatpur",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M. M. Builders & Engineers Ltd.-M/S. Amir Engineering Corporation (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "RDEL -TECHBAY JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "RDEL -TECHBAY JV",
+  "award_amount": 174070000.0,
+  "estimated_cost": 199000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

@@ -1,0 +1,41 @@
+{
+  "tender_id": "192404",
+  "ref_no": "T-1/4951 dated 25.04.2018",
+  "closing_date": "27-May-2018 12:30",
+  "opening_date": "27-May-2018 12:30",
+  "procuring_entity": "Chittagong O&M Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "e-GP-05/ADP/RPW/Tulatali/Sangu/2017-18",
+  "lot_no": "& Bank Protection work on the Left Bank of Sangu river at Tulatali village in U.P. Charati from Km 32.110 to Km 32.410 300.00m. and Km 32.660 to Km 33.260 600.00m. Total 900.00m. in Satkania Upazilla under the Project Bank Protection work on the both banks of Sangu & Dalu river in Lohagara and Satkania Upazillas of Chittagong District during the year 2017-2018.",
+  "zone": "Chittagong",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "AKA-ALML JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Garib-E-Newaz - Trum International (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 6,
+      "name": "Moshiur Rahman Chowdhury"
+    }
+  ],
+  "estimated_cost": null
+}

@@ -1,0 +1,125 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e6]:
+      - img [ref=e7]
+      - generic [ref=e10]:
+        - generic [ref=e11]: Procurement Flow
+        - generic [ref=e12]: Bid Assist
+    - generic [ref=e13]:
+      - link "Agents" [ref=e14] [cursor=pointer]:
+        - /url: /
+        - img [ref=e15]
+        - text: Agents
+      - link "Dashboard" [ref=e19] [cursor=pointer]:
+        - /url: /dashboard
+        - img [ref=e20]
+        - text: Dashboard
+      - link "Executive" [ref=e25] [cursor=pointer]:
+        - /url: /executive
+        - img [ref=e26]
+        - text: Executive
+      - link "Live Tenders" [ref=e29] [cursor=pointer]:
+        - /url: /live-tenders
+        - img [ref=e30]
+        - text: Live Tenders
+      - link "eGP Alerts" [ref=e35] [cursor=pointer]:
+        - /url: /egp-alerts
+        - img [ref=e36]
+        - text: eGP Alerts
+      - link "Tender Doc AI" [ref=e39] [cursor=pointer]:
+        - /url: /tender-document-ai
+        - img [ref=e40]
+        - text: Tender Doc AI
+      - link "SLT Dashboard" [ref=e43] [cursor=pointer]:
+        - /url: /slt-dashboard
+        - img [ref=e44]
+        - text: SLT Dashboard
+      - link "PPR 2025" [ref=e46] [cursor=pointer]:
+        - /url: /ppr2025
+        - img [ref=e47]
+        - text: PPR 2025
+      - link "Analytics" [ref=e49] [cursor=pointer]:
+        - /url: /analytics
+        - img [ref=e50]
+        - text: Analytics
+      - link "VAT / Tax" [ref=e53] [cursor=pointer]:
+        - /url: /tax-calculator
+        - img [ref=e54]
+        - text: VAT / Tax
+      - link "Upload" [ref=e56] [cursor=pointer]:
+        - /url: /upload
+        - img [ref=e57]
+        - text: Upload
+      - link "Results" [ref=e60] [cursor=pointer]:
+        - /url: /results
+        - img [ref=e61]
+        - text: Results
+      - link "AI Chat" [ref=e64] [cursor=pointer]:
+        - /url: /chat
+        - img [ref=e65]
+        - text: AI Chat
+      - link "Data Intel" [ref=e67] [cursor=pointer]:
+        - /url: /data-intelligence
+        - img [ref=e68]
+        - text: Data Intel
+      - link "BWDB Monitor" [ref=e72] [cursor=pointer]:
+        - /url: /bwdb-monitor
+        - img [ref=e73]
+        - text: BWDB Monitor
+      - link "Watchdog & Engineer" [ref=e75] [cursor=pointer]:
+        - /url: /watchdog-engineer
+        - img [ref=e76]
+        - text: Watchdog & Engineer
+      - link "Team" [ref=e78] [cursor=pointer]:
+        - /url: /team
+        - img [ref=e79]
+        - text: Team
+      - link "Admin" [ref=e84] [cursor=pointer]:
+        - /url: /admin/dashboard
+        - img [ref=e85]
+        - text: Admin
+      - link "Settings" [ref=e87] [cursor=pointer]:
+        - /url: /settings
+        - img [ref=e88]
+        - text: Settings
+    - generic [ref=e91]:
+      - button "Owner Login" [ref=e92] [cursor=pointer]:
+        - img [ref=e93]
+        - text: Owner Login
+      - button "Dark Mode" [ref=e96] [cursor=pointer]:
+        - img [ref=e97]
+        - text: Dark Mode
+  - main [ref=e99]:
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - heading "Live Tenders — Notice-First View" [level=1] [ref=e103]:
+          - img [ref=e104]
+          - text: Live Tenders — Notice-First View
+        - paragraph [ref=e109]: Browse live tenders by tender ID, then open a notice panel for primary data and APP estimate.
+      - generic [ref=e110]:
+        - heading "Ministries" [level=3] [ref=e112]:
+          - img [ref=e113]
+          - text: Ministries
+        - generic [ref=e127]:
+          - img [ref=e128]
+          - paragraph [ref=e133]: Select a ministry to view its procuring entities and packages
+        - generic [ref=e134]:
+          - heading "Tender Notice Detail" [level=3] [ref=e136]:
+            - img [ref=e137]
+            - text: Tender Notice Detail
+          - generic [ref=e139]: Click a tender ID to see the primary notice data and APP estimate.
+    - generic [ref=e142]:
+      - generic [ref=e143]:
+        - generic [ref=e144]:
+          - img [ref=e145]
+          - generic [ref=e148]: Procurement Flow Bid Assist v2.0
+          - generic [ref=e149]: •
+          - generic [ref=e150]: © 2026 All rights reserved
+        - generic [ref=e152]: "@zmnasim"
+      - generic [ref=e153]:
+        - link "Terms of Service" [ref=e154] [cursor=pointer]:
+          - /url: /terms
+        - link "Privacy Policy" [ref=e155] [cursor=pointer]:
+          - /url: /privacy
+        - link "Contact" [ref=e156] [cursor=pointer]:
+          - /url: mailto:support@procurementflow.com.bd

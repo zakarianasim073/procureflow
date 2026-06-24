@@ -1,0 +1,16 @@
+INFO:     127.0.0.1:8696 - "GET /api/health HTTP/1.1" 200 OK
+  pdfplumber table extraction: 64 items
+  Excel generation skipped: [Errno 13] Permission denied: 'runtime\\1290886\\BOQ_Analysis_1290886.xlsx'
+  DOCX report saved: runtime\1290886\BOQ_Analysis_1290886.docx
+  DOCX report saved: outputs\boq_comparison_20260623_090424.docx
+INFO:     127.0.0.1:8700 - "POST /api/boq/compare HTTP/1.1" 200 OK
+  pdfplumber table extraction: 64 items
+  Excel generation skipped: [Errno 13] Permission denied: 'runtime\\1290886\\BOQ_Analysis_1290886.xlsx'
+  DOCX report saved: runtime\1290886\BOQ_Analysis_1290886.docx
+  DOCX report saved: outputs\boq_comparison_20260623_090749.docx
+INFO:     127.0.0.1:5307 - "POST /api/boq/compare HTTP/1.1" 200 OK
+  pdfplumber table extraction: 64 items
+  Excel generation skipped: [Errno 13] Permission denied: 'runtime\\1290886\\BOQ_Analysis_1290886.xlsx'
+  DOCX report saved: runtime\1290886\BOQ_Analysis_1290886.docx
+  DOCX report saved: outputs\boq_comparison_20260623_090825.docx
+INFO:     127.0.0.1:4914 - "POST /api/boq/compare HTTP/1.1" 200 OK

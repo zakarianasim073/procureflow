@@ -1,0 +1,61 @@
+{
+  "tender_id": "413489",
+  "ref_no": "18.11.0000.314.14.40.17/Part-1-2/",
+  "closing_date": "26-Feb-2020 14:30",
+  "opening_date": "26-Feb-2020 14:30",
+  "procuring_entity": "Office of the Superintending Engineer (Civil)-2, Dredging Department",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Shipping",
+  "agency_name": "Bangladesh Inland Water transport Authority (BIWTA)",
+  "package_no": "Package10-002",
+  "lot_no": "& Dredging / Excavation of Tulai River CH19.671 KM to 29.601 KM",
+  "zone": null,
+  "bidder_count": 11,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Ataur Rahman Khan Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "Liton Traders - M/S MA Zaher (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Hamim International & Abdul Mannan Laskar Ltd. (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Hossain Enterprise"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. MD. JAMIL IQBAL - M/S. TANIA ENTERPRISE (JI-TE JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 8,
+      "name": "NIAZ-NOONA-ADL (JV.)(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "Rana Builders (Pvt.) Ltd."
+    },
+    {
+      "serial": 10,
+      "name": "SSRI-JE(JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 11,
+      "name": "The Builders Engineers Associates Ltd"
+    }
+  ],
+  "estimated_cost": null
+}

@@ -1,0 +1,33 @@
+{
+  "tender_id": "637489",
+  "ref_no": "T-1/1580, Dated- 09/12/2021",
+  "closing_date": "12-Jan-2022 11:00",
+  "opening_date": "12-Jan-2022 11:00",
+  "procuring_entity": "Chattogram O&M Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "e-GP-05/ADP/RPW/Tulatoli/Sangu/2021-22",
+  "lot_no": "& Remaining Bank Protection work on the left bank of Sangu river at Tulatali village in U.P.Charati from KM 32.110 to KM 32.410 (=300.00m.) and KM 32.660 to KM 33.260 (=600.00m.) total =900.00m. in Satkania Upazila under the Project \"Bank Protection work on the both banks of Sangu & Dalu river in Lohagara and Satkania Upazillas of Chittagong District\" during the year 2021-2022.",
+  "zone": "Chattogram",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M. M. Builders & Engineers Ltd. -M/S. Royal Associates (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Mostafa & Sons"
+    }
+  ],
+  "estimated_cost": null
+}

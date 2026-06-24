@@ -1,0 +1,29 @@
+{
+  "tender_id": "655298",
+  "ref_no": "M No.42.01.2700.294.07.002.22-104,Dt:01/02/2022",
+  "closing_date": "03-Mar-2022 11:00",
+  "opening_date": "03-Mar-2022 11:00",
+  "procuring_entity": "Dinajpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Din/Reg/W-1",
+  "lot_no": "& Construction of 6-Vent Regulator (1.50m x 1.80m) at off-take of Gorveswari River at Gosterdanga in Upazila Sadar, District Dinajpur in c/w Rehabilitation of Dinajpur town protection project and dredging/excavation of Dinajpur town adjacent Dhepa & Gorveswari river system.",
+  "zone": "Dinajpur",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "Noona Traders-Marco International (Jv.)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "Toma Construction & Co. Limited"
+    }
+  ],
+  "estimated_cost": null
+}

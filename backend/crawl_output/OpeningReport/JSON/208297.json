@@ -1,0 +1,53 @@
+{
+  "tender_id": "208297",
+  "ref_no": "T-9/1217; Date- 18/06/2018.",
+  "closing_date": "25-Jul-2018 13:30",
+  "opening_date": "25-Jul-2018 13:30",
+  "procuring_entity": "Rangpur O&M Division",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Egp/RAN/TRE-39",
+  "lot_no": "& Repairing of Bank Revetment work on the Right Bank of the River Teesta from km. 38.600 to 38.980 380.00m at Kachua in Upazilla- Gangachara Dist. Rangpur under Rangpur O&M Division BWDB Rangpur during year 2017-2018.",
+  "zone": "Rangpur",
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dolly Construction Ltd - Infratech Company (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "LA -TTSL Joint Venture (JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Rupantor (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Shahriar Ahmed"
+    },
+    {
+      "serial": 5,
+      "name": "M/S Shara Enterprise - Md. Ashraful Alam & Md. Badrul Islam Bulbul JV(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Techno International"
+    },
+    {
+      "serial": 8,
+      "name": "MD. ANISUR RAHMAN CHOWDHURY - MD. HARUN-OR- RASHID & S.M. RASHED HOSSAIN (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "SA & GME = JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 52082236.67
+}

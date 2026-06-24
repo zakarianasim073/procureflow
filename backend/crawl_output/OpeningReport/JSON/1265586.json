@@ -1,0 +1,116 @@
+{
+  "tender_id": "1265586",
+  "ref_no": "T-06/556; Date:14-05-2026",
+  "closing_date": "15-Jun-2026 14:00",
+  "opening_date": "15-Jun-2026 14:00",
+  "procuring_entity": "Rangamati WD Division",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "ADP/Ranga/D-01/25-26",
+  "lot_no": "& Dredging Work of Kachalong River from Km. 22+750 to Km. 32+900 = 10.150 Km under Rangamati WD Division, BWDB, Kaptai.",
+  "zone": "Rangamati",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "BSDL-CEL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "DEWL-RPL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "KARNAFULY SHIP BUILDERS LTD."
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "MRST-ARKLTD (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "Nabarun Traders Limited-Sammyak enterprise (JV)(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD."
+    },
+    {
+      "serial": 8,
+      "name": "Shah River Dredging Limited(Sub Contractor/Consultant - View Details)"
+    }
+  ],
+  "price_bid_count": 8,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "KARNAFULY SHIP BUILDERS LTD.",
+      "quoted_amount": "146098960.275",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "146098960.275"
+    },
+    {
+      "serial": 2,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD.",
+      "quoted_amount": "146688029.400",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "146688029.400"
+    },
+    {
+      "serial": 3,
+      "name": "BSDL-CEL JV",
+      "quoted_amount": "155274309.128",
+      "discount_pct": "5.350",
+      "discount_amount": "8307175.538",
+      "net_quoted": "146967133.590"
+    },
+    {
+      "serial": 4,
+      "name": "DEWL-RPL JV",
+      "quoted_amount": "147493757.143",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "147493757.143"
+    },
+    {
+      "serial": 5,
+      "name": "Nabarun Traders Limited-Sammyak enterprise (JV)",
+      "quoted_amount": "148381891.600",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "148381891.600"
+    },
+    {
+      "serial": 6,
+      "name": "Shah River Dredging Limited",
+      "quoted_amount": "150381168.168",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "150381168.168"
+    },
+    {
+      "serial": 7,
+      "name": "MRST-ARKLTD (JV)",
+      "quoted_amount": "155274309.128",
+      "discount_pct": "2.000",
+      "discount_amount": "3105486.182",
+      "net_quoted": "152168822.946"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "153388830.125",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "153388830.125"
+    }
+  ],
+  "estimated_cost": 155483000.0
+}

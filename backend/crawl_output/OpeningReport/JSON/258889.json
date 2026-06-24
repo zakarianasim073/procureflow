@@ -1,0 +1,33 @@
+{
+  "tender_id": "258889",
+  "ref_no": "T-4/764, Dated: 02-12-2018.",
+  "closing_date": "03-Jan-2019 12:20",
+  "opening_date": "03-Jan-2019 12:20",
+  "procuring_entity": "Kushtia O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Kushtia-W-08/2018-19",
+  "lot_no": "& Re-Excavation of D7BK Drainage Khal from km. 8.000 to km. 17.200 in c/w Re-excavation of small river khal & water bodies in 64 Districts Phase-1 Project under Kushtia O&M Division BWDB Kushtia during the year 2018-19 & 2019-20.",
+  "zone": "Kushtia",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Amin-Natural (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "SR-SE Joint Venture(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "AMIN-NATURAL (JV)",
+  "award_amount": 43700000.0,
+  "estimated_cost": 48552924.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

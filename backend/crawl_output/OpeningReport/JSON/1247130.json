@@ -1,0 +1,152 @@
+{
+  "tender_id": "1247130",
+  "ref_no": "WDB/EE/T-12/ 1547 Date:29/03/2026",
+  "closing_date": "22-Apr-2026 13:00",
+  "opening_date": "22-Apr-2026 13:00",
+  "procuring_entity": "Sylhet WD Division, BWDB",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "SUR/PW-14",
+  "lot_no": "& Bank Protective work at Right Bank of Surma River from km. 117.600 to km 118.000 = 400m at Sylhet City Corporation Area Mandibag in Upazila-Sylhet Sadar, Dist.-Sylhet.",
+  "zone": "Sylhet",
+  "bidder_count": 11,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Ashim Singh"
+    },
+    {
+      "serial": 2,
+      "name": "B. J. Geo-Textile Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 4,
+      "name": "M/S Goodman Enterprise"
+    },
+    {
+      "serial": 5,
+      "name": "M/S Jewel Electronics"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 9,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 10,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 11,
+      "name": "SA-SI (Pvt) Limited"
+    }
+  ],
+  "price_bid_count": 11,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "157681364.996",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "157681364.996"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Jewel Electronics",
+      "quoted_amount": "157789427.001",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "157789427.001"
+    },
+    {
+      "serial": 3,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "169794630.512",
+      "discount_pct": "6.520",
+      "discount_amount": "11070609.909",
+      "net_quoted": "158724020.603"
+    },
+    {
+      "serial": 4,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "169794630.512",
+      "discount_pct": "6.270",
+      "discount_amount": "10646123.333",
+      "net_quoted": "159148507.179"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. A. S. Construction",
+      "quoted_amount": "169794630.512",
+      "discount_pct": "6.270",
+      "discount_amount": "10646123.333",
+      "net_quoted": "159148507.179"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN",
+      "quoted_amount": "169746082.502",
+      "discount_pct": "6.200",
+      "discount_amount": "10524257.115",
+      "net_quoted": "159221825.387"
+    },
+    {
+      "serial": 7,
+      "name": "Noona Traders",
+      "quoted_amount": "169794630.512",
+      "discount_pct": "6.170",
+      "discount_amount": "10476328.702",
+      "net_quoted": "159318301.810"
+    },
+    {
+      "serial": 8,
+      "name": "SA-SI (Pvt) Limited",
+      "quoted_amount": "159999999.004",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "159999999.004"
+    },
+    {
+      "serial": 9,
+      "name": "Ashim Singh",
+      "quoted_amount": "160156735.685",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "160156735.685"
+    },
+    {
+      "serial": 10,
+      "name": "M/S Goodman Enterprise",
+      "quoted_amount": "169796071.000",
+      "discount_pct": "5.670",
+      "discount_amount": "9627437.225",
+      "net_quoted": "160168633.775"
+    },
+    {
+      "serial": 11,
+      "name": "B. J. Geo-Textile Ltd.",
+      "quoted_amount": "168824138.616",
+      "discount_pct": "5.000",
+      "discount_amount": "8441206.930",
+      "net_quoted": "160382931.686"
+    }
+  ],
+  "estimated_cost": null
+}

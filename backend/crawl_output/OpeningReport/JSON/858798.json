@@ -1,0 +1,29 @@
+{
+  "tender_id": "858798",
+  "ref_no": "ET/LAK/RKBLK/312, Date: 03-08-2023",
+  "closing_date": "14-Sep-2023 12:00",
+  "opening_date": "14-Sep-2023 12:00",
+  "procuring_entity": "Laksmipur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Lak/W-02/Lot-03/2021-2022",
+  "lot_no": "& River bank protective work along the left bank of Meghna river from km 125.617 to km 125.917 = 300 m in c/w \"Protection work at the bank of Meghna river at Borokheri, Ludhuabazar and Kaderponditer hat areas in Ramgati and Kamal Nagar upazila under Lakshmipur District\" Project in Upazila-Ramgati, Dist.-Lakshmipur under Lakshmipur O & M Division, BWDB, Lakshmipur (Package No: Lak/W-02/Lot-3/2021-22).",
+  "zone": "Laksmipur",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "WEL-YUSRA JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 299190000.0,
+  "estimated_cost": 277392150.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

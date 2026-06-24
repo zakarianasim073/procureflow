@@ -1,0 +1,25 @@
+{
+  "tender_id": "149854",
+  "ref_no": "T-44/756 Date : 27/12/2017",
+  "closing_date": "22-Jan-2018 14:15",
+  "opening_date": "22-Jan-2018 14:15",
+  "procuring_entity": "Chandpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "HAIM/NDR/W2/2017-18",
+  "lot_no": "& Repair & Re-construction of Bank Protective work from km. 74.161 to km. 74.291 130.00m km. 74.344 to km. 74.393 49.00m Total 179.00m in connection with Protection of Chandpur Irrigation Project from the erosion of left bank of Meghna river 1st Phase at Gazinagar Upazilla Haimchar under Chandpur O&M Division BWDB Chandpur during the year 2017-18.",
+  "zone": "Chandpur",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "SABT_SECL.JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 27837236.28
+}

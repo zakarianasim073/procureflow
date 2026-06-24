@@ -1,0 +1,53 @@
+{
+  "tender_id": "256933",
+  "ref_no": "Lal/T-1/1829, Date: 28-11-2018",
+  "closing_date": "23-Dec-2018 12:30",
+  "opening_date": "23-Dec-2018 12:30",
+  "procuring_entity": "Lalmonirhat O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Lalmonirhat-W-02/2018-2019",
+  "lot_no": "& Re-excavation of Suti Dar/ Panakorir Beel Khal from Km 0.00 to Km 10.80 in UZ-Hatibandha Dist-Lalmonirhat under Lalmonirhat O&M Division BWDB Lalmonirhat.",
+  "zone": "Lalmonirhat",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Saleh Ahmed"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Shara Enterprise - S.M. Rashed Hossain & Sheikh Construction (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. BELAL CONSTRUCTION"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Khandaker Shahin Ahmed"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. TAZ MONZIL"
+    },
+    {
+      "serial": 7,
+      "name": "Moshiur Rahman Chowdhury"
+    },
+    {
+      "serial": 8,
+      "name": "SA-SI (Pvt) Limited"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 35540000.0,
+  "estimated_cost": 42682000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

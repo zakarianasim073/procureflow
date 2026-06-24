@@ -1,0 +1,61 @@
+{
+  "tender_id": "647512",
+  "ref_no": "Nil/T-1(Part-27)/84, Date: 11-01-2022",
+  "closing_date": "10-Feb-2022 12:30",
+  "opening_date": "10-Feb-2022 12:30",
+  "procuring_entity": "Nilphamari O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Nilphamari/Secondary-14",
+  "lot_no": "& Rehabilitation & Strengthening of Both Dyke of S5D Irrigation Canal in Connection with Rehabilitation and Extension of Command Area of Teesta Irrigation Project at Upazilla: Nilphamari Sadar, District: Nilphamari under Nilphamari O&M Division, BWDB, Nilphamari During FY 2021-22 & 2022-23.",
+  "zone": "Nilphamari",
+  "bidder_count": 10,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "AS - PE (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Kke-Shah & Belal JV(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Goodman Enterprise"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. KOHINOOR & AKA (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Mohiuddin & AC (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Tazul Islam(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "Md.Shamimur Rahman"
+    },
+    {
+      "serial": 9,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 10,
+      "name": "RE-UB (JV)(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. MOHIUDDIN & AC (JV)",
+  "award_amount": 112440000.0,
+  "estimated_cost": 124933000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

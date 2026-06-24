@@ -1,0 +1,49 @@
+{
+  "tender_id": "358318",
+  "ref_no": "T-5/366;Date-17-09-2019",
+  "closing_date": "24-Oct-2019 12:00",
+  "opening_date": "24-Oct-2019 12:00",
+  "procuring_entity": "Bogra O&M Division",
+  "tender_status": "Rejected",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "PWB-06.",
+  "lot_no": "& Bank Protection work of Length 1.500 km along the Left/Right bank of Bangali river at Bothuabari & Mohisnoti in Dhunat Upazila of Bogura District in c/w Dredging/Re-excavation of Bangali-Karotoa-Fuljor-Hurasagor River System with Bank Protection Project under Bogura O&M Division BWDB Bogura during the FY 2019-2020 to 2021-22.",
+  "zone": "Bogra",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Ataur Rahman Khan Ltd-M/S. Masuma Begum (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Dolly Construction Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 4,
+      "name": "JV M A ENTERPRISE-MAZID SONS CONSTRUCTION LTD (JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "JV Western Engineering (Pvt) Ltd-Sk Emdadul Haque Al Mamun(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "Md. Liaquat Ali"
+    },
+    {
+      "serial": 8,
+      "name": "Moshiur Rahman Chowdhury-M/S Khondoker Construction (JV)(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 291458700.0
+}

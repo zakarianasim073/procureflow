@@ -1,0 +1,41 @@
+{
+  "tender_id": "192109",
+  "ref_no": "T-1/4950 dated 25.04.2018",
+  "closing_date": "27-May-2018 12:45",
+  "opening_date": "27-May-2018 12:45",
+  "procuring_entity": "Chittagong O&M Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "e-GP-06/ADP/RPW/Brahmmondanga/Sangu/2017-18",
+  "lot_no": "& Bank Protection work on the Left Bank of Sangu River at North Brahmmondanga village of South Charati in U.P Charati from Km 34.265 to Km. 35.065 800.00m in Satkania Upazilla under the Project Bank Protection Work of the Sangu and Dalu Rivers in Satkania and Lohagara Upazilas of Chittagong District during the year 2017-18.",
+  "zone": "Chittagong",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "AKA-ALML JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 5,
+      "name": "Moshiur Rahman Chowdhury"
+    },
+    {
+      "serial": 6,
+      "name": "Shekh Emdadul Hauqe Al Mamun"
+    }
+  ],
+  "estimated_cost": null
+}

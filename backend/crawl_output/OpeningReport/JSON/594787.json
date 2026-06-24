@@ -1,0 +1,49 @@
+{
+  "tender_id": "594787",
+  "ref_no": "1T-22/50 (Re-Tender), Dated: 19/07/2021",
+  "closing_date": "09-Aug-2021 11:00",
+  "opening_date": "09-Aug-2021 11:00",
+  "procuring_entity": "Patuakhali O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Dhu-PW-15",
+  "lot_no": "& River Bank Protection of Dhulia launchghat at Bauphal Upazila Patuakhali District to Durgapasa of Bakergonj Upazila in Barisal District from km 7.000 to km 7.500 0.500 km from erosion of Tetulia river under Patuakhali O&M Division BWDB Patuakhali during the year 2020-2021.",
+  "zone": "Patuakhali",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "KCEL & AKA (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M. M. Builders & Engineers Ltd."
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    },
+    {
+      "serial": 7,
+      "name": "Vincen Consultancy (Pvt.) Ltd."
+    }
+  ],
+  "award_winner": "GOLAM RABBANI CONSTRUCTION LTD.",
+  "award_amount": 383820000.0,
+  "estimated_cost": 426469000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

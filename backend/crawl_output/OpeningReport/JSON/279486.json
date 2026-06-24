@@ -1,0 +1,25 @@
+{
+  "tender_id": "279486",
+  "ref_no": "39.02.3847.5006.40.021.18.283",
+  "closing_date": "17-Feb-2019 14:30",
+  "opening_date": "17-Feb-2019 14:30",
+  "procuring_entity": "Establishment of Mineral Processing Center at IMMM of BCSIR",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Science and Technology",
+  "agency_name": "Bangladesh Council of Scientific and Industrial Research (BCSIR)",
+  "package_no": "39.02.3847.5006.18-19.20",
+  "lot_no": "& Dredging mining extraction and supply of sands from different sand bars of the Kurigram district fixed co-ordinate to Joypurhat district under the project Establishment of Mineral Processing Center at IMMM of BCSIR Joypurhat Bangladesh Council of Scientific and Industrial Research BCSIR",
+  "zone": null,
+  "bidder_count": 1,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 69370000.0,
+  "estimated_cost": 69450000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

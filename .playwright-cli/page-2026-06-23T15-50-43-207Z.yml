@@ -1,0 +1,205 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e6]:
+      - img [ref=e7]
+      - generic [ref=e10]:
+        - generic [ref=e11]: Procurement Flow
+        - generic [ref=e12]: Bid Assist
+    - generic [ref=e13]:
+      - link "Agents" [ref=e14] [cursor=pointer]:
+        - /url: /
+        - img [ref=e15]
+        - text: Agents
+      - link "Dashboard" [ref=e19] [cursor=pointer]:
+        - /url: /dashboard
+        - img [ref=e20]
+        - text: Dashboard
+      - link "Executive" [ref=e25] [cursor=pointer]:
+        - /url: /executive
+        - img [ref=e26]
+        - text: Executive
+      - link "Live Tenders" [ref=e29] [cursor=pointer]:
+        - /url: /live-tenders
+        - img [ref=e30]
+        - text: Live Tenders
+      - link "eGP Alerts" [ref=e35] [cursor=pointer]:
+        - /url: /egp-alerts
+        - img [ref=e36]
+        - text: eGP Alerts
+      - link "Tender Doc AI" [ref=e39] [cursor=pointer]:
+        - /url: /tender-document-ai
+        - img [ref=e40]
+        - text: Tender Doc AI
+      - link "SLT Dashboard" [ref=e43] [cursor=pointer]:
+        - /url: /slt-dashboard
+        - img [ref=e44]
+        - text: SLT Dashboard
+      - link "PPR 2025" [ref=e46] [cursor=pointer]:
+        - /url: /ppr2025
+        - img [ref=e47]
+        - text: PPR 2025
+      - link "Analytics" [ref=e49] [cursor=pointer]:
+        - /url: /analytics
+        - img [ref=e50]
+        - text: Analytics
+      - link "VAT / Tax" [ref=e53] [cursor=pointer]:
+        - /url: /tax-calculator
+        - img [ref=e54]
+        - text: VAT / Tax
+      - link "Upload" [ref=e56] [cursor=pointer]:
+        - /url: /upload
+        - img [ref=e57]
+        - text: Upload
+      - link "Results" [ref=e60] [cursor=pointer]:
+        - /url: /results
+        - img [ref=e61]
+        - text: Results
+      - link "AI Chat" [ref=e64] [cursor=pointer]:
+        - /url: /chat
+        - img [ref=e65]
+        - text: AI Chat
+      - link "Data Intel" [ref=e67] [cursor=pointer]:
+        - /url: /data-intelligence
+        - img [ref=e68]
+        - text: Data Intel
+      - link "BWDB Monitor" [ref=e72] [cursor=pointer]:
+        - /url: /bwdb-monitor
+        - img [ref=e73]
+        - text: BWDB Monitor
+      - link "Watchdog & Engineer" [ref=e75] [cursor=pointer]:
+        - /url: /watchdog-engineer
+        - img [ref=e76]
+        - text: Watchdog & Engineer
+      - link "Team" [ref=e78] [cursor=pointer]:
+        - /url: /team
+        - img [ref=e79]
+        - text: Team
+      - link "Admin" [ref=e84] [cursor=pointer]:
+        - /url: /admin/dashboard
+        - img [ref=e85]
+        - text: Admin
+      - link "Settings" [ref=e87] [cursor=pointer]:
+        - /url: /settings
+        - img [ref=e88]
+        - text: Settings
+    - generic [ref=e91]:
+      - button "Owner Login" [ref=e92] [cursor=pointer]:
+        - img [ref=e93]
+        - text: Owner Login
+      - button "Dark Mode" [ref=e96] [cursor=pointer]:
+        - img [ref=e97]
+        - text: Dark Mode
+  - main [ref=e99]:
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - paragraph [ref=e103]: Enterprise Tender Automation
+        - heading "BWDB / LGED / PWD Tender Processing Suite" [level=1] [ref=e104]
+        - paragraph [ref=e105]: Upload tender PDFs, SOR, BOQ and templates once; generate filled DOCX, BOQ workbook, work plan, validation reports and ZIP package.
+      - generic [ref=e106]:
+        - generic [ref=e107]:
+          - img [ref=e108]
+          - strong [ref=e112]: "SOR Rates loaded:"
+          - text: Loading...
+        - generic [ref=e113]:
+          - generic [ref=e114]: BOQ File (PDF from e-GP system)
+          - generic [ref=e115] [cursor=pointer]:
+            - button "Choose File" [ref=e116]
+            - img [ref=e117]
+            - paragraph [ref=e120]: Upload BOQ PDF
+            - paragraph [ref=e121]: Drop file or click to browse
+            - paragraph [ref=e122]: PDF, XLSX, XLS supported
+        - generic [ref=e123]:
+          - generic [ref=e124]:
+            - generic [ref=e125]:
+              - img [ref=e126]
+              - text: Zone
+            - combobox [ref=e129]:
+              - option "Zone A — Dhaka, Mymensingh"
+              - option "Zone B — Chattogram, Sylhet"
+              - option "Zone C — Rajshahi, Rangpur"
+              - option "Zone D — Khulna, Barishal" [selected]
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - img [ref=e132]
+              - text: Compare SOR Sources
+            - generic [ref=e136]: BWDB, PWD and LGED are compared together on every run.
+        - button "Run Rate Comparison" [disabled] [ref=e137]:
+          - img [ref=e138]
+          - text: Run Rate Comparison
+        - generic [ref=e140]:
+          - generic [ref=e141]:
+            - generic [ref=e142]:
+              - img [ref=e144]
+              - generic [ref=e147]:
+                - heading "Full Tender Bundle" [level=2] [ref=e148]
+                - paragraph [ref=e149]: Single process button for upload → extract → match → fill → package.
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - strong [ref=e152]: 47/47
+                - text: BOQ rows
+              - generic [ref=e153]:
+                - strong [ref=e154]: "3"
+                - text: SOR agencies
+              - generic [ref=e155]:
+                - strong [ref=e156]: ZIP
+                - text: audit output
+          - generic [ref=e157]:
+            - generic [ref=e158]: Tender ID (optional)
+            - textbox "Tender ID (optional)" [ref=e159]:
+              - /placeholder: "1264860"
+          - generic [ref=e160]:
+            - generic [ref=e161] [cursor=pointer]:
+              - button "Choose File" [ref=e162]
+              - img [ref=e163]
+              - paragraph [ref=e166]: Upload Notice PDF
+              - paragraph [ref=e167]: Drop file or click to browse
+              - paragraph [ref=e168]: PDF, XLSX, XLS supported
+            - generic [ref=e169] [cursor=pointer]:
+              - button "Choose File" [ref=e170]
+              - img [ref=e171]
+              - paragraph [ref=e174]: Upload TDS PDF
+              - paragraph [ref=e175]: Drop file or click to browse
+              - paragraph [ref=e176]: PDF, XLSX, XLS supported
+            - generic [ref=e177] [cursor=pointer]:
+              - button "Choose File" [ref=e178]
+              - img [ref=e179]
+              - paragraph [ref=e182]: Upload TDS-2 PDF
+              - paragraph [ref=e183]: Drop file or click to browse
+              - paragraph [ref=e184]: PDF, XLSX, XLS supported
+            - generic [ref=e185] [cursor=pointer]:
+              - button "Choose File" [ref=e186]
+              - img [ref=e187]
+              - paragraph [ref=e190]: Upload BOQ PDF
+              - paragraph [ref=e191]: Drop file or click to browse
+              - paragraph [ref=e192]: PDF, XLSX, XLS supported
+            - generic [ref=e193] [cursor=pointer]:
+              - button "Choose File" [ref=e194]
+              - img [ref=e195]
+              - paragraph [ref=e198]: Upload SOR PDF
+              - paragraph [ref=e199]: Drop file or click to browse
+              - paragraph [ref=e200]: PDF, XLSX, XLS supported
+          - generic [ref=e201]:
+            - generic [ref=e202]:
+              - generic [ref=e203]: DOCX Templates
+              - button "DOCX Templates" [ref=e204]
+            - generic [ref=e205]:
+              - generic [ref=e206]: XLSX Templates
+              - button "XLSX Templates" [ref=e207]
+          - button "Process Full Bundle" [ref=e208] [cursor=pointer]:
+            - img [ref=e209]
+            - text: Process Full Bundle
+    - generic [ref=e214]:
+      - generic [ref=e215]:
+        - generic [ref=e216]:
+          - img [ref=e217]
+          - generic [ref=e220]: Procurement Flow Bid Assist v2.0
+          - generic [ref=e221]: •
+          - generic [ref=e222]: © 2026 All rights reserved
+        - generic [ref=e224]: "@zmnasim"
+      - generic [ref=e225]:
+        - link "Terms of Service" [ref=e226] [cursor=pointer]:
+          - /url: /terms
+        - link "Privacy Policy" [ref=e227] [cursor=pointer]:
+          - /url: /privacy
+        - link "Contact" [ref=e228] [cursor=pointer]:
+          - /url: mailto:support@procurementflow.com.bd

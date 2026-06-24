@@ -1,0 +1,33 @@
+{
+  "tender_id": "191864",
+  "ref_no": "T-1/4949 dated 25.04.2018",
+  "closing_date": "27-May-2018 12:00",
+  "opening_date": "27-May-2018 12:00",
+  "procuring_entity": "Chittagong O&M Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "e-GP-13/ADP/RPW/Amilaish/Sangu/2017-18",
+  "lot_no": "& Bank Protection work on the Left bank of Sangu river at Amilaish village of Amilaish U.P. from KM 39.669 to KM 40.819 1150.00m. in Satkania Upazila under the Project Bank Protection Work of the Sangu and Dalu Rivers in Satkania and Lohagara Upazilas of Chittagong District during the year 2017-18.",
+  "zone": "Chittagong",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "AKA-ALML JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "Moshiur Rahman Chowdhury"
+    },
+    {
+      "serial": 4,
+      "name": "Rahaman Engineering-S.Ananta (jv)(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

@@ -1,0 +1,56 @@
+{
+  "tender_id": "1226312",
+  "ref_no": "T-2/936, Dated:05/02/26",
+  "closing_date": "07-May-2026 16:00",
+  "opening_date": "07-May-2026 16:00",
+  "procuring_entity": "Bhola WD Division-1",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BS-EIlisha-ESP-05/Remaining",
+  "lot_no": "& Re-sectioning of embankment with slope protection work from km 3.000 to km 4.000 = 1.000 km of Polder no 56/57 in Bhola Sadar upazila in c/w \"Protection of Bhola Sadar Upazila from erosion of the Meghna River\" under Bhola O&M Division-I, BWDB, Bhola.",
+  "zone": "Bhola",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S K.K. Enterprise"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Mostafa & Sons and MS Eli Enterprise (JV)(JVCA - View Details)"
+    }
+  ],
+  "price_bid_count": 3,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "221220776.634",
+      "discount_pct": "0.000",
+      "discount_amount": "0.000",
+      "net_quoted": "221220776.634"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Mostafa & Sons and MS Eli Enterprise (JV)",
+      "quoted_amount": "236438617.440",
+      "discount_pct": "2.170",
+      "discount_amount": "5130717.998",
+      "net_quoted": "231307899.442"
+    },
+    {
+      "serial": 3,
+      "name": "M/S K.K. Enterprise",
+      "quoted_amount": "236500000.001",
+      "discount_pct": "0.250",
+      "discount_amount": "591250.000",
+      "net_quoted": "235908750.001"
+    }
+  ],
+  "estimated_cost": 236500000.0
+}

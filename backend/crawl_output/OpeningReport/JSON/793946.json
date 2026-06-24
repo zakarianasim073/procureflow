@@ -1,0 +1,37 @@
+{
+  "tender_id": "793946",
+  "ref_no": "MQ-52/328; Date: 19/02/2023",
+  "closing_date": "13-Mar-2023 12:50",
+  "opening_date": "13-Mar-2023 12:50",
+  "procuring_entity": "Barguna O&M Division",
+  "tender_status": "Rejected",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "ATBPW-13",
+  "lot_no": "& Slope protection of embankment and riverbank protective work at Poshurbunia under Polder 44B from Km 20.400 to Km 20.700 = 0.300 Km in connection with \"Rehabilitation of Polder 43/1 and 44B and protection of vulnerable portion from erosion of the Payra river under Barguna District\" project under Barguna O&M division BWDB, Barguna",
+  "zone": "Barguna",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "M. M. Builders & Engineers Ltd-M/S. Amir Engineering Corporation(JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "MIZANUR-AZAD-MOHIUDDIN (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    }
+  ],
+  "estimated_cost": 333800000.0
+}

@@ -1,0 +1,53 @@
+{
+  "tender_id": "610556",
+  "ref_no": "T-2/266, Dated: 21-09-2021",
+  "closing_date": "11-Oct-2021 10:00",
+  "opening_date": "11-Oct-2021 10:00",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "DCP-DP-SRBP-08",
+  "lot_no": "& Strengthening of Bank Protection work from km 27.440 to km 27.790 equal to 0.350 km in connection with \"Protection of Daulatkhan Pourashava, Chokighat and other more vulnerable area from the erosion of the Meghna river in Bhola District\" project under Bhola O&M Division-I, BWDB, Bhola.",
+  "zone": "Bhola",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "LASL-KSAL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Abul Kalam Azad"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 5,
+      "name": "MMB.Ltd-MS.EliJV(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "Nabarun Traders Limited"
+    },
+    {
+      "serial": 7,
+      "name": "S. S. Engineering & Construction Ltd."
+    },
+    {
+      "serial": 8,
+      "name": "VCPL-SSRI JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "S. S. ENGINEERING & CONSTRUCTION LTD.",
+  "award_amount": 258960000.0,
+  "estimated_cost": 251000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

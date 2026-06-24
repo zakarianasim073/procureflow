@@ -1,0 +1,33 @@
+{
+  "tender_id": "797359",
+  "ref_no": "1T-4/2136",
+  "closing_date": "04-Apr-2023 12:00",
+  "opening_date": "04-Apr-2023 12:00",
+  "procuring_entity": "Satkhira O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W Sat-1./17",
+  "lot_no": "& Permanent Protective work with rehabilitation of Embankment at Gabura from Km 20.180 to km 20.580 =0.400km in polder no 15 under Rehabilitation of Polder -15 at Satkhira District under Satkhira O&M Division-1, BWDB, Satkhira during the year 2022-2023.",
+  "zone": "Satkhira",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "KSA & AMEL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    }
+  ],
+  "award_winner": "NATIONTECH COMMUNICATIONS LTD",
+  "award_amount": 230870000.0,
+  "estimated_cost": 231500000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

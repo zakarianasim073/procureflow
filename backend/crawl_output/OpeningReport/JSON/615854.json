@@ -1,0 +1,61 @@
+{
+  "tender_id": "615854",
+  "ref_no": "T-2/315, Dated: 04-10-2021",
+  "closing_date": "04-Nov-2021 10:00",
+  "opening_date": "04-Nov-2021 10:00",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "DCP-DP-SRBP-10",
+  "lot_no": "& Strengthening of Bank Protection work from km 28.140 to km 28.490 equal to 0.350 km in connection with \"Protection of Daulatkhan Pourashava, Chokighat and other more vulnerable area from the erosion of the Meghna river in Bhola District\" project under Bhola O&M Division-I, BWDB, Bhola.",
+  "zone": "Bhola",
+  "bidder_count": 10,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "SS-NATIONTECH (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Khokan Construction & Engineering Ltd-Noona Traders (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "KOHINOOR-MIZANUR-AEC (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "LIAQUAT ALI & SONS LIMITED"
+    },
+    {
+      "serial": 5,
+      "name": "M. M. Builders & Engineers Ltd."
+    },
+    {
+      "serial": 6,
+      "name": "M/S K.K. Enterprise(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "M/S Mohiuddin Ahmed"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 9,
+      "name": "Nabarun Traders Limited"
+    },
+    {
+      "serial": 10,
+      "name": "S. S. Engineering & Construction Ltd."
+    }
+  ],
+  "award_winner": "KHOKAN CONSTRUCTION & ENGINEERING LTD-NOONA TRADERS (JV)",
+  "award_amount": 235000000.0,
+  "estimated_cost": 236500000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

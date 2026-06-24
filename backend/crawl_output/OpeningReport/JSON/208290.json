@@ -1,0 +1,49 @@
+{
+  "tender_id": "208290",
+  "ref_no": "T-9/1210; Date- 18/06/2018.",
+  "closing_date": "25-Jul-2018 12:00",
+  "opening_date": "25-Jul-2018 12:00",
+  "procuring_entity": "Rangpur O&M Division",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Egp/RAN/TRE-32",
+  "lot_no": "& Repairing of Bank Revetment work on the Right Bank of the River Teesta in between km. 30.00 to 31.000 700.00m at Godowner Hat in Upazilla- Gangachara Dist. Rangpur under Rangpur O&M Division BWDB Rangpur during the year 2017-2018.",
+  "zone": "Rangpur",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dolly Construction Ltd - Infratech Company (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "LA -TTSL Joint Venture (JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Jewel Electronics"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Rupantor (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/s. M.R. Construction"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 8,
+      "name": "MSA-RCCL JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 96023721.5
+}

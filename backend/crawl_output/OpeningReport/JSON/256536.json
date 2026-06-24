@@ -1,0 +1,41 @@
+{
+  "tender_id": "256536",
+  "ref_no": "Dalia/T-1(Ka)/1268, Date: 28/11/2018",
+  "closing_date": "20-Dec-2018 16:00",
+  "opening_date": "20-Dec-2018 16:00",
+  "procuring_entity": "Dalia O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Dalia-W-05/2018-2019/District Nilphamari",
+  "lot_no": "& Re-Excavation of Dhum River from Km. 11.00 to Km 19.00 in Jaldhaka Upazilla under Dalia O & M Division BWDB Dalia Nilphamari.",
+  "zone": "Dalia",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Aradhana Enterprise"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. BELAL CONSTRUCTION"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 5,
+      "name": "SA-SI (Pvt) Limited"
+    }
+  ],
+  "award_winner": "M/S. ARADHANA ENTERPRISE",
+  "award_amount": 20070000.0,
+  "estimated_cost": 22948815.54,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

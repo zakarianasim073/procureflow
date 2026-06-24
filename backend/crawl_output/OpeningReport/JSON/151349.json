@@ -1,0 +1,33 @@
+{
+  "tender_id": "151349",
+  "ref_no": "APP ID-76962",
+  "closing_date": "05-Feb-2018 15:00",
+  "opening_date": "05-Feb-2018 15:00",
+  "procuring_entity": "Office of the Upazila Engineer, LGED, Badalgachi, Naogaon",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Local Government, Rural Development and Co-operatives",
+  "agency_name": "Local Government Engineering Department (LGED)",
+  "package_no": "e-Tender/NBIDNNGPS/NGN/BAD/2017-18/W1.00018",
+  "lot_no": "& Construction of class room INDROSHGONA Government primary school under NBIDNNGPS Project-1",
+  "zone": "Naogaon",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dhaly Construction Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "Dhrubo Construction Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "M/S Jewel Electronics"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": null
+}

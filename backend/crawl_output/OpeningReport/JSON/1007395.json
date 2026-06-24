@@ -1,0 +1,53 @@
+{
+  "tender_id": "1007395",
+  "ref_no": "T-1/345 Dated: 06/08/2024",
+  "closing_date": "09-Sep-2024 12:00",
+  "opening_date": "09-Sep-2024 12:00",
+  "procuring_entity": "Chattogram O&M Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "e-GP-22/ADP/RPW/Rashidia-Madrasa/Sangu/2024-25",
+  "lot_no": "& Bank Protection work along the Right Bank of Sangu River from Km. 0.000 to Km.0.300 (=300.00m.) at Boiltali Rashidia Madrasha in Boiltali Union, Upazilla- Chandanaish, Dist- Chattogram under \"Bank Protection Work of the Sangu and Dalu Rivers in Satkania and Lohagara Upazilas of Chattogram District (2nd Revised)\" under Chattogram W D Division-1, BWDB, Chattogram during FY 2024-25.",
+  "zone": "Chattogram",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Babar-Zaman (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Aradhana Enterprise"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. BELAL CONSTRUCTION"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S.IB-SJC(JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 7,
+      "name": "RA-Alam & Brothers (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "S. Ananta Bikash Tripura Limited"
+    }
+  ],
+  "award_winner": "RA-ALAM & BROTHERS (JV)",
+  "award_amount": 98210000.0,
+  "estimated_cost": 105700000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

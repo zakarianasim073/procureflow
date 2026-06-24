@@ -1,0 +1,404 @@
+{
+  "tender_id": "1247407",
+  "ref_no": "EE/WDB/Chapainawabganj/Da-2/466; Dated:16-03-2026",
+  "closing_date": "07-Apr-2026 13:00",
+  "opening_date": "07-Apr-2026 13:00",
+  "procuring_entity": "Nawabganj WD Division",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "MDWP-06",
+  "lot_no": "& Bank Revetment work on the left bank of the Padma River from Km. 4.060 To Km. 4.180 = 120 m. at Shibganj Upazila in Chapainawabganj District in cw ''Riverbank Protective Work of both banks of the Padma River in Chapainawabganj District (1st Part)'' project under Nawabganj WD Division, BWDB, Chapainawabganj.(Package No: MDWP-06)",
+  "zone": "Nawabganj",
+  "bidder_count": 32,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Ashim Singh(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Ataur Rahman Khan Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "KHANDAKER SHAHIN AHMED LIMITED"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Goodman Enterprise"
+    },
+    {
+      "serial": 5,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 8,
+      "name": "M/S. BELAL CONSTRUCTION"
+    },
+    {
+      "serial": 9,
+      "name": "M/S. Dawn Corporation"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 11,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 12,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 13,
+      "name": "M/S. Shahid Brothers"
+    },
+    {
+      "serial": 14,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 15,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 16,
+      "name": "MARCO.INTERNATIONAL"
+    },
+    {
+      "serial": 17,
+      "name": "MATIN CONSTRUCTION LIMITED"
+    },
+    {
+      "serial": 18,
+      "name": "Md. Hasibul Hassan"
+    },
+    {
+      "serial": 19,
+      "name": "Md. Jamal Hossain"
+    },
+    {
+      "serial": 20,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 21,
+      "name": "Md.Shamimur Rahman"
+    },
+    {
+      "serial": 22,
+      "name": "MIR AKHTER HOSSAIN LIMITED"
+    },
+    {
+      "serial": 23,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 24,
+      "name": "Natural"
+    },
+    {
+      "serial": 25,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 26,
+      "name": "PROPERTY DEVELOPMENT LIMITED"
+    },
+    {
+      "serial": 27,
+      "name": "Rupantor ventures Ltd.(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 28,
+      "name": "SA-SI (Pvt) Limited"
+    },
+    {
+      "serial": 29,
+      "name": "SE JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 30,
+      "name": "Sun Flower Construction Ltd."
+    },
+    {
+      "serial": 31,
+      "name": "Techbay International"
+    },
+    {
+      "serial": 32,
+      "name": "UI-KT (JV)(JVCA - View Details)"
+    }
+  ],
+  "price_bid_count": 32,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "KHANDAKER SHAHIN AHMED LIMITED",
+      "quoted_amount": "131988154.868",
+      "discount_pct": "14.330",
+      "discount_amount": "18913902.592",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering",
+      "quoted_amount": "131988155.866",
+      "discount_pct": "13.300",
+      "discount_amount": "17554424.730",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 3,
+      "name": "Rupantor ventures Ltd.",
+      "quoted_amount": "131988155.866",
+      "discount_pct": "11.036",
+      "discount_amount": "14566212.881",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 4,
+      "name": "Ashim Singh",
+      "quoted_amount": "131988155.866",
+      "discount_pct": "10.926",
+      "discount_amount": "14421025.909",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Dawn Corporation",
+      "quoted_amount": "131988155.866",
+      "discount_pct": "10.789",
+      "discount_amount": "14240202.136",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. A. S. Construction",
+      "quoted_amount": "131988155.868",
+      "discount_pct": "9.881",
+      "discount_amount": "13041749.681",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "119497919.031",
+      "discount_pct": "0.000",
+      "discount_amount": "0.000",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 8,
+      "name": "MIR AKHTER HOSSAIN LIMITED",
+      "quoted_amount": "121430799.995",
+      "discount_pct": "1.000",
+      "discount_amount": "1214307.999",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 9,
+      "name": "Noona Traders",
+      "quoted_amount": "131987714.666",
+      "discount_pct": "8.850",
+      "discount_amount": "11680912.747",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. Niaz Traders",
+      "quoted_amount": "131972450.366",
+      "discount_pct": "8.550",
+      "discount_amount": "11283644.506",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 11,
+      "name": "M/S. Mostafa & Sons",
+      "quoted_amount": "131997849.506",
+      "discount_pct": "8.500",
+      "discount_amount": "11219817.208",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 12,
+      "name": "M/S Goodman Enterprise",
+      "quoted_amount": "131988155.866",
+      "discount_pct": "8.140",
+      "discount_amount": "10743835.887",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 13,
+      "name": "Md.Shamimur Rahman",
+      "quoted_amount": "131988155.868",
+      "discount_pct": "8.140",
+      "discount_amount": "10743835.887",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 14,
+      "name": "Md. Jamal Hossain",
+      "quoted_amount": "131988155.868",
+      "discount_pct": "7.999",
+      "discount_amount": "10557732.587",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 15,
+      "name": "M/S. BELAL CONSTRUCTION",
+      "quoted_amount": "131988154.867",
+      "discount_pct": "7.501",
+      "discount_amount": "9900431.496",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 16,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN",
+      "quoted_amount": "132396818.730",
+      "discount_pct": "7.370",
+      "discount_amount": "9757645.540",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 17,
+      "name": "Techbay International",
+      "quoted_amount": "131988155.866",
+      "discount_pct": "7.000",
+      "discount_amount": "9239170.910",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 18,
+      "name": "MATIN CONSTRUCTION LIMITED",
+      "quoted_amount": "131996918.462",
+      "discount_pct": "6.930",
+      "discount_amount": "9147386.449",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 19,
+      "name": "MARCO.INTERNATIONAL",
+      "quoted_amount": "123905608.378",
+      "discount_pct": "0.000",
+      "discount_amount": "0.000",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 20,
+      "name": "SA-SI (Pvt) Limited",
+      "quoted_amount": "131988155.867",
+      "discount_pct": "5.955",
+      "discount_amount": "7859894.681",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 21,
+      "name": "PROPERTY DEVELOPMENT LIMITED",
+      "quoted_amount": "124243519.280",
+      "discount_pct": "0.000",
+      "discount_amount": "0.000",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 22,
+      "name": "UI-KT (JV)",
+      "quoted_amount": "131988154.868",
+      "discount_pct": "5.333",
+      "discount_amount": "7038928.299",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 23,
+      "name": "SE JV.",
+      "quoted_amount": "131988155.866",
+      "discount_pct": "5.231",
+      "discount_amount": "6904300.433",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 24,
+      "name": "Sun Flower Construction Ltd.",
+      "quoted_amount": "131988154.868",
+      "discount_pct": "4.081",
+      "discount_amount": "5386436.600",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 25,
+      "name": "Ataur Rahman Khan Ltd.",
+      "quoted_amount": "131988155.868",
+      "discount_pct": "3.620",
+      "discount_amount": "4777971.242",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 26,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "131988155.866",
+      "discount_pct": "3.001",
+      "discount_amount": "3960964.557",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 27,
+      "name": "M/S. Amin & Co.",
+      "quoted_amount": "131988155.868",
+      "discount_pct": "2.710",
+      "discount_amount": "3576879.024",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 28,
+      "name": "Md. Hasibul Hassan",
+      "quoted_amount": "131988155.866",
+      "discount_pct": "2.660",
+      "discount_amount": "3510884.946",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 29,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "131988154.868",
+      "discount_pct": "2.530",
+      "discount_amount": "3339300.318",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 30,
+      "name": "M/S. Shahid Brothers",
+      "quoted_amount": "131988154.868",
+      "discount_pct": "2.480",
+      "discount_amount": "3273306.240",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 31,
+      "name": "M/S. Tazul Islam",
+      "quoted_amount": "131988155.866",
+      "discount_pct": "2.110",
+      "discount_amount": "2784950.088",
+      "net_quoted": "1.000"
+    },
+    {
+      "serial": 32,
+      "name": "Natural",
+      "quoted_amount": "144830555.793",
+      "discount_pct": "0.000",
+      "discount_amount": "0.000",
+      "net_quoted": "1.000"
+    }
+  ],
+  "estimated_cost": 131990000.0
+}

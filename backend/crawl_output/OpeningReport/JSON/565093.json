@@ -1,0 +1,33 @@
+{
+  "tender_id": "565093",
+  "ref_no": "EE/CTG-2/T-6/870; Dated:25/04/2021",
+  "closing_date": "09-May-2021 15:30",
+  "opening_date": "09-May-2021 15:30",
+  "procuring_entity": "Chattogram O&M Division -2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BR/CTG-2-09",
+  "lot_no": "& Bank Protective work at the left bank of Feni river (Border River) from km. 29.800 to km 30.100 = 300m at Balturam in Upazilla- Ramgarh, Dist-khagrachari in connection with Border River Bank Protection and Development Project (Phase- ll) Under Chittagong O&M Division-II, BWDB, Chittagong during the year 2020-2021.(Package No: BR/CTG-2-09).(Remaining part)",
+  "zone": "Chattogram",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 3,
+      "name": "S. Ananta Bikash Tripura"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 51200000.0,
+  "estimated_cost": 53000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

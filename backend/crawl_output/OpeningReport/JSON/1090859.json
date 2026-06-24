@@ -1,0 +1,33 @@
+{
+  "tender_id": "1090859",
+  "ref_no": "42.01.8500.162.07.006.25-705 Date: 25-03-2025",
+  "closing_date": "24-Apr-2025 14:30",
+  "opening_date": "24-Apr-2025 14:30",
+  "procuring_entity": "Rangpur WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Rangpur/Regulator-14",
+  "lot_no": "& Construction of One (1) nos Cross Regulator at Bullai/Kharuabaj River at Uttar Mominpur nearest to Chankuti Govt. Primary School in Upazila:Rangpur Sadar, Dist: Rangpur Under Rangpur WD Division.",
+  "zone": "Rangpur",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M. M. Builders & Engineers Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "MCE & MAM (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    }
+  ],
+  "estimated_cost": null
+}

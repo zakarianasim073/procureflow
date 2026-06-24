@@ -1,0 +1,45 @@
+{
+  "tender_id": "125470",
+  "ref_no": "Memo No-463 date: 05/10/17",
+  "closing_date": "30-Oct-2017 12:30",
+  "opening_date": "30-Oct-2017 12:30",
+  "procuring_entity": "Meghna-Dhonagoda O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "MDIP/OM /W-04/ 2017-18",
+  "lot_no": "& Improving of irrigation Canal by Ferro Cement lining work in irrigation canal K1-1 from km 0.360 to km 0.420 60.00 m K12 from km 4.600 to km 4.613 13.00 m and Repair Maintenance of Ferro Cement lining work in irrigation canal K11 in-between km 1.100 to km 1.400 and km 3.250 to km 3.260 15.00 m",
+  "zone": null,
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Sabura enterprise"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Progati Traders"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Sumon Traders"
+    },
+    {
+      "serial": 5,
+      "name": "Md. Monir Hossain"
+    },
+    {
+      "serial": 6,
+      "name": "TANIA & CO."
+    },
+    {
+      "serial": 7,
+      "name": "Techbay International"
+    }
+  ],
+  "estimated_cost": null
+}

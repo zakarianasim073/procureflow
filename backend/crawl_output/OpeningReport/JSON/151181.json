@@ -1,0 +1,37 @@
+{
+  "tender_id": "151181",
+  "ref_no": "ID-76757",
+  "closing_date": "05-Feb-2018 14:45",
+  "opening_date": "05-Feb-2018 14:45",
+  "procuring_entity": "Office of the Upazila Engineer, LGED, Badalgachi, Naogaon",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Local Government, Rural Development and Co-operatives",
+  "agency_name": "Local Government Engineering Department (LGED)",
+  "package_no": "e-Tender/NBIDGPS/NGN/BAD/2017-18/W1.00232",
+  "lot_no": "& Construction of class room Gayeshpur Government primary school under NBIDGPS Project-1",
+  "zone": "Naogaon",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dhaly Construction Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "Dhrubo Construction Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "M/S Jewel Electronics"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Masuma Begum"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": null
+}

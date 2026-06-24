@@ -1,0 +1,169 @@
+{
+  "tender_id": "1236536",
+  "ref_no": "42.01.0600.000.112.07.0001.25-2111, Date-26/02/26",
+  "closing_date": "15-Mar-2026 14:00",
+  "opening_date": "15-Mar-2026 14:00",
+  "procuring_entity": "Barishal WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BSL/MHDJ/WD-22",
+  "lot_no": "& River bank protection work of Tetulia river (Right Bank) from Km 6.300 to Km 6.650 = 0.350 Km at Mehendigonj upazila of Barishal district in c/w \"River bank protection work at different location of Mehendigonj upazilla from erosion of Tetulia river in Barishal district\" under Barishal WD Division, BWDB, Barishal.",
+  "zone": "Barishal",
+  "bidder_count": 12,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Md. Jamil Iqbal"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 7,
+      "name": "MATIN CONSTRUCTION LIMITED"
+    },
+    {
+      "serial": 8,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 9,
+      "name": "MRN MMS JV(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 10,
+      "name": "Nabarun Traders Limited"
+    },
+    {
+      "serial": 11,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 12,
+      "name": "Unnayan International"
+    }
+  ],
+  "price_bid_count": 12,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "265983390.458",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "265983390.458"
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "297403903.300",
+      "discount_pct": "8.850",
+      "discount_amount": "26320245.442",
+      "net_quoted": "271083657.858"
+    },
+    {
+      "serial": 3,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "271235807.680",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "271235807.680"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Niaz Traders",
+      "quoted_amount": "297403324.632",
+      "discount_pct": "8.760",
+      "discount_amount": "26052531.237",
+      "net_quoted": "271350793.395"
+    },
+    {
+      "serial": 5,
+      "name": "Unnayan International",
+      "quoted_amount": "297403903.295",
+      "discount_pct": "8.620",
+      "discount_amount": "25636216.464",
+      "net_quoted": "271767686.831"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Amir Engineering Corporation",
+      "quoted_amount": "271819741.580",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "271819741.580"
+    },
+    {
+      "serial": 7,
+      "name": "MRN MMS JV",
+      "quoted_amount": "272378682.476",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "272378682.476"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. A. S. Construction",
+      "quoted_amount": "297403903.300",
+      "discount_pct": "8.350",
+      "discount_amount": "24833225.925",
+      "net_quoted": "272570677.375"
+    },
+    {
+      "serial": 9,
+      "name": "MATIN CONSTRUCTION LIMITED",
+      "quoted_amount": "298586435.575",
+      "discount_pct": "8.560",
+      "discount_amount": "25558998.885",
+      "net_quoted": "273027436.690"
+    },
+    {
+      "serial": 10,
+      "name": "Noona Traders",
+      "quoted_amount": "297401944.642",
+      "discount_pct": "8.070",
+      "discount_amount": "24000336.932",
+      "net_quoted": "273401607.710"
+    },
+    {
+      "serial": 11,
+      "name": "M/S. Md. Jamil Iqbal",
+      "quoted_amount": "277688042.660",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "277688042.660"
+    },
+    {
+      "serial": 12,
+      "name": "Nabarun Traders Limited",
+      "quoted_amount": "283822087.620",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "283822087.620"
+    }
+  ],
+  "award_winner": "M/S. A. S. CONSTRUCTION",
+  "award_amount": 272570000.0,
+  "estimated_cost": 297403903.3,
+  "winner_quoted": 297403903.3,
+  "winner_discount": 0.0,
+  "winner_discount_pct": 8.35
+}

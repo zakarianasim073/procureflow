@@ -1,0 +1,33 @@
+{
+  "tender_id": "638142",
+  "ref_no": "T-1/1582, Dated- 09/12/2021",
+  "closing_date": "12-Jan-2022 11:00",
+  "opening_date": "12-Jan-2022 11:00",
+  "procuring_entity": "Chattogram O&M Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "e-GP-13/ADP/RPW/Amilaish/Sangu/2021-2022",
+  "lot_no": "& Remaining Bank Protection work on the left bank of Sangu river at Amilaish village of Amilaish U.P. from KM 39.669 to KM 40.819 (=1150.00m.) in Satkania Upazila under the Project \"Bank Protection work on the Both Banks of Sangu & Dalu river in Lohagara and Satkania Upazillas of Chittagong District\" during the year 2021-2022.",
+  "zone": "Chattogram",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "DAWN CORPORATION-SHAMS ENGINEERING.JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M. M. Builders & Engineers Ltd. -M/S. Royal Associates (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": null
+}

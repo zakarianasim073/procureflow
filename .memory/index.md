@@ -1,0 +1,6 @@
+- [[eexperience-ecms-crawl]] — 40% crawl of eTenders completed + eCMS ongoing, separate storage + DB import
+- [[execution-intelligence]] — data_source model, service layer, API endpoints, agent integration for eExperience/eCMS
+- [[agent-db-disconnect]] — Critical finding: 31/34 agents never touch PostgreSQL DB; intelligence tables invisible to agents
+- [[unified-schema-package-no]] — package_no + work_name required across APP, Award, eExperience as primary join key
+- [[data-layers]] — 6 data layers identified: raw JSON → PostgreSQL → derived intel → API/service → agents → frontend
+- [[crawl-json-spec]] — Structured JSON schema for remaining eGP crawl (APP, Award, eExperience)

@@ -1,0 +1,25 @@
+{
+  "tender_id": "349564",
+  "ref_no": "T-3/357 Dated: 18.08.2019",
+  "closing_date": "19-Sep-2019 12:20",
+  "opening_date": "19-Sep-2019 12:20",
+  "procuring_entity": "Khulna O&M Division-2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "02/BGP/2019-20/K-2",
+  "lot_no": "& Construction of East Halia Drainage cum Flushing Regulator 2V-2.00m x 1.80m at km. 24.765 in Polder No. 34/2 Part in Batiaghata Khulna in c/w Blue Gold Program under Khulna O&M Division-2 BWDB Khulna during the year 2019-2020 & 2020-21.",
+  "zone": "Khulna",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": 27481866.0
+}

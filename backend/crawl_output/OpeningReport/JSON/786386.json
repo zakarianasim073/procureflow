@@ -1,0 +1,25 @@
+{
+  "tender_id": "786386",
+  "ref_no": "42.01.8500.162.07.006.23-1726, Dated:05-02-2023",
+  "closing_date": "07-Mar-2023 11:00",
+  "opening_date": "07-Mar-2023 11:00",
+  "procuring_entity": "Rangpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Regulator/ Akhi-21",
+  "lot_no": "& Construction of 01 (One) no Combined Water Control Structure (Regulator cum Weir cum Bridge) over Akhira River at nearest D/S of Shorifer para Bridge in Pirgonj upazila district Rangpur.",
+  "zone": "Rangpur",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "JV MMBL-SKEM(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": null
+}

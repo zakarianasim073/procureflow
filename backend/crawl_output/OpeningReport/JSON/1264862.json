@@ -1,0 +1,224 @@
+{
+  "tender_id": "1264862",
+  "ref_no": "42.01.0600.000.112.07.0001.25-2644, Date-27/04/26",
+  "closing_date": "19-May-2026 14:00",
+  "opening_date": "19-May-2026 14:00",
+  "procuring_entity": "Barishal WD Division",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BSL/MHDJ/WD-13",
+  "lot_no": "& River bank protection work of Tetulia river (Right Bank) from Km 3.600 to Km 3.900 total 0.300 Km at Mehendigonj upazila of Barishal district in c/w \"River bank protection work at different location of Mehendigonj upazilla from erosion of Tetulia river in Barishal district\" under Barishal WD Division, BWDB, Barishal.",
+  "zone": "Barishal",
+  "bidder_count": 17,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "B. J. Geo-Textile Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "KHANDAKER SHAHIN AHMED LIMITED"
+    },
+    {
+      "serial": 4,
+      "name": "M/S SADIKA AFIA SIMI-M/S. Shahid Brothers JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Aradhana Enterprise"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 9,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 10,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 11,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 12,
+      "name": "MRN MMS JV(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 13,
+      "name": "Nabarun Traders Limited"
+    },
+    {
+      "serial": 14,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD."
+    },
+    {
+      "serial": 15,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 16,
+      "name": "PROPERTY DEVELOPMENT LIMITED"
+    },
+    {
+      "serial": 17,
+      "name": "Unnayan International"
+    }
+  ],
+  "price_bid_count": 17,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Niaz Traders",
+      "quoted_amount": "244378258.951",
+      "discount_pct": "8.470",
+      "discount_amount": "20698838.533",
+      "net_quoted": "223679420.418"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Amir Engineering Corporation",
+      "quoted_amount": "224082956.340",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "224082956.340"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Aradhana Enterprise",
+      "quoted_amount": "224225618.340",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "224225618.340"
+    },
+    {
+      "serial": 4,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD.",
+      "quoted_amount": "224252161.850",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "224252161.850"
+    },
+    {
+      "serial": 5,
+      "name": "Noona Traders",
+      "quoted_amount": "244377841.810",
+      "discount_pct": "8.170",
+      "discount_amount": "19965669.675",
+      "net_quoted": "224412172.135"
+    },
+    {
+      "serial": 6,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "244383798.082",
+      "discount_pct": "7.730",
+      "discount_amount": "18890867.591",
+      "net_quoted": "225492930.491"
+    },
+    {
+      "serial": 7,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "225570792.960",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "225570792.960"
+    },
+    {
+      "serial": 8,
+      "name": "Nabarun Traders Limited",
+      "quoted_amount": "227458098.720",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "227458098.720"
+    },
+    {
+      "serial": 9,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "244383798.082",
+      "discount_pct": "6.910",
+      "discount_amount": "16886920.447",
+      "net_quoted": "227496877.635"
+    },
+    {
+      "serial": 10,
+      "name": "KHANDAKER SHAHIN AHMED LIMITED",
+      "quoted_amount": "244302952.600",
+      "discount_pct": "6.740",
+      "discount_amount": "16466019.005",
+      "net_quoted": "227836933.595"
+    },
+    {
+      "serial": 11,
+      "name": "Unnayan International",
+      "quoted_amount": "244383798.080",
+      "discount_pct": "6.700",
+      "discount_amount": "16373714.471",
+      "net_quoted": "228010083.609"
+    },
+    {
+      "serial": 12,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN",
+      "quoted_amount": "244302952.600",
+      "discount_pct": "6.560",
+      "discount_amount": "16026273.690",
+      "net_quoted": "228276678.910"
+    },
+    {
+      "serial": 13,
+      "name": "PROPERTY DEVELOPMENT LIMITED",
+      "quoted_amount": "228970733.600",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "228970733.600"
+    },
+    {
+      "serial": 14,
+      "name": "MRN MMS JV",
+      "quoted_amount": "229437633.530",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "229437633.530"
+    },
+    {
+      "serial": 15,
+      "name": "M/S SADIKA AFIA SIMI-M/S. Shahid Brothers JV",
+      "quoted_amount": "229476386.399",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "229476386.399"
+    },
+    {
+      "serial": 16,
+      "name": "B. J. Geo-Textile Ltd.",
+      "quoted_amount": "244383798.090",
+      "discount_pct": "5.250",
+      "discount_amount": "12830149.399",
+      "net_quoted": "231553648.691"
+    },
+    {
+      "serial": 17,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "238903589.617",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "238903589.617"
+    }
+  ],
+  "estimated_cost": 244383798.09
+}

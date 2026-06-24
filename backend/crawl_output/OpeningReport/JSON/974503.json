@@ -1,0 +1,45 @@
+{
+  "tender_id": "974503",
+  "ref_no": "T-1/591, Date: 17.04.2024",
+  "closing_date": "29-May-2024 12:00",
+  "opening_date": "29-May-2024 12:00",
+  "procuring_entity": "Cumilla O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "CUM/OM/OTM/2023-24/W-23",
+  "lot_no": "& Re-excavation of Old Dakatia river from Km 45.450 to Km 49.000 =3.550 km. at Upazila-Nangalkot, District- Cumilla in C/W Operation Expenditure Budget under Cumilla O&M Division, BWDB, Cumilla during the year 2023-2024 & 2024-25",
+  "zone": "Cumilla",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Ashim Singh"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Abul Kalam Azad"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 6,
+      "name": "NUM-MCT JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S ABUL KALAM AZAD",
+  "award_amount": 39280000.0,
+  "estimated_cost": 43650000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

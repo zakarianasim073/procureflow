@@ -1,0 +1,53 @@
+{
+  "tender_id": "373299",
+  "ref_no": "W-01/4358 Dated: 24-10-19",
+  "closing_date": "02-Dec-2019 11:30",
+  "opening_date": "02-Dec-2019 11:30",
+  "procuring_entity": "Sirajganj O&M Division",
+  "tender_status": "To be Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "PWS-18",
+  "lot_no": "& Bank protection Work of Lengh 0.800 km along the Left/Right Bank of Karaotoa river at Chandaikona in District Sirajganj",
+  "zone": "Sirajganj",
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Ataur Rahman Khan Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "JV M A ENTERPRISE-MAZID SONS CONSTRUCTION LTD (JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "JV MM Builders & Engineers Ltd-Sk Emdadul Haque Al Mamun(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "LA & SR JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "MD. MOYENUDDIN (BASHI) LIMITED"
+    },
+    {
+      "serial": 7,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 8,
+      "name": "S. S. Engineering & Construction Ltd."
+    },
+    {
+      "serial": 9,
+      "name": "Unnayan-Goodman JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

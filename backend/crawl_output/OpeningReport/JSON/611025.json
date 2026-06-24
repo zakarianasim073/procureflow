@@ -1,0 +1,57 @@
+{
+  "tender_id": "611025",
+  "ref_no": "T-2/273, Dated: 21-09-2021",
+  "closing_date": "11-Oct-2021 10:00",
+  "opening_date": "11-Oct-2021 10:00",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "DCP-Bor-RBP-06",
+  "lot_no": "& Bank Protection work from km 44.450 to km 44.550 equal to 0.100 km in connection with \"Protection of Daulatkhan Pourashava, Chokighat and other more vulnerable area from the erosion of the Meghna river in Bhola District\" project under Bhola O&M Division-I, BWDB, Bhola.",
+  "zone": "Bhola",
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "SS-NATIONTECH (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "B. J. Geo-Textile Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "M. M. Builders & Engineers Ltd."
+    },
+    {
+      "serial": 4,
+      "name": "M/S Abul Kalam Azad"
+    },
+    {
+      "serial": 5,
+      "name": "M/S Mohiuddin Ahmed"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Nuruzzaman Khan"
+    },
+    {
+      "serial": 9,
+      "name": "Niaz Traders - Mysha Traders (J.V.)(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. NURUZZAMAN KHAN",
+  "award_amount": 112000000.0,
+  "estimated_cost": 109200000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

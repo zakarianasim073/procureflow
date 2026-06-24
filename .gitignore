@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+*.so
+.venv/
+venv/
+env/
+
+# Runtime
+runtime/
+tenderai_outputs/
+uploads/
+outputs/
+data/
+*.db
+*.sqlite3
+
+# Environment
+.env
+.env.local
+.env.prod
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Desktop
+desktop/dist/
+desktop/release/
+
+# Secrets
+**/credentials.json
+**/service-account.json
+
+# Scraped data
+backend/app/scraped_tenders/
+# Nested repo artifacts
+*.zip
+.git.bak/
+scraped_tenders/
+
+# SOR PDF files (large, not version controlled)
+backend/app/sor/*/*.pdf
+*.pdf
+
+# SOR extracted data (regenerated from PDFs)
+backend/app/sor/*/rates.json

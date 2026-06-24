@@ -1,0 +1,37 @@
+{
+  "tender_id": "842215",
+  "ref_no": "RMDIP/T-1/1180 date: 05/06/2023",
+  "closing_date": "11-Jul-2023 11:05",
+  "opening_date": "11-Jul-2023 11:05",
+  "procuring_entity": "Meghna-Dhonagoda O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "RMDIP/W-21/2022-23",
+  "lot_no": "& Bank Protective works of Dhonagoda River from KM 16.250 to KM 16.500 = 0.250 KM at Shipahikandi under Meghna-Dhonagoda O&M Division, BWDB, Chandpur.",
+  "zone": null,
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Niaz- Khan Traders ( jv)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Shahid Brothers(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "S. Ananta Bikash Tripura-M/S M.Alam (JV)(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "S. ANANTA BIKASH TRIPURA-M/S M.ALAM (JV)",
+  "award_amount": 72580000.0,
+  "estimated_cost": 75449700.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

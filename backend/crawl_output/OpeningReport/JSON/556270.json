@@ -1,0 +1,61 @@
+{
+  "tender_id": "556270",
+  "ref_no": "1553 Date- 15/03/2021",
+  "closing_date": "05-May-2021 13:30",
+  "opening_date": "05-May-2021 13:30",
+  "procuring_entity": "Jashore O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "K02/W-07/20-21",
+  "lot_no": "& Re-excavation of Shalikha Branch river from km 4.000 to km 8.000 4.000 km in C/W Removal of Drainage Congestion from Kobadak River Basin Phase-2 under Jashore O&M Division during the year 2020-21.",
+  "zone": "Jashore",
+  "bidder_count": 11,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Abul Kalam Azad (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Al-mamun enterprise ltd. & Mollah Shorower Morshed (Mukta) & M/S F.H Enterprise (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "Asian Dredgers Ltd - M/S. Niaz Traders JV(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "Ataur Rahman Khan Ltd-M/S Rupali Construction JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "GM-JB (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Ariyan Builders"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 8,
+      "name": "M/s. SS & MT (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "NZK-M.RAHMAN JV(JVCA - View Details)"
+    },
+    {
+      "serial": 10,
+      "name": "SALEH AHMED-TAJWAR TRADE JV(JVCA - View Details)"
+    },
+    {
+      "serial": 11,
+      "name": "Unnayan International"
+    }
+  ],
+  "estimated_cost": null
+}

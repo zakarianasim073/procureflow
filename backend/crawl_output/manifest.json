@@ -1,0 +1,79 @@
+{
+  "crawl_timestamp": "2026-06-23T05:43:31.478343",
+  "sources": [
+    "APP",
+    "Award",
+    "eExperience"
+  ],
+  "agencies_crawled": 27,
+  "totals": {
+    "app": 60282,
+    "award": 0,
+    "experience_completed": 0,
+    "experience_ongoing": 0
+  },
+  "files": {
+    "app_per_agency": "D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\crawl_output\\APP",
+    "award_per_agency": "D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\crawl_output\\Award",
+    "experience_completed": "D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\crawl_output\\Experience\\all_completed.json",
+    "experience_ongoing": "D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\crawl_output\\Experience\\all_ongoing.json",
+    "app_aggregate": "D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\crawl_output\\all_app.json",
+    "award_aggregate": "D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\crawl_output\\all_awards.json"
+  },
+  "schema": {
+    "app": {
+      "fields": [
+        "tender_id",
+        "package_no",
+        "work_name",
+        "agency",
+        "location",
+        "district",
+        "estimated_cost_bdt",
+        "title",
+        "status",
+        "financial_year",
+        "app_code",
+        "category",
+        "published_date",
+        "deadline"
+      ],
+      "join_key": "tender_id"
+    },
+    "award": {
+      "fields": [
+        "tender_id",
+        "package_no",
+        "work_name",
+        "amount_bdt",
+        "contractor_name",
+        "procurement_method",
+        "award_date",
+        "agency_code",
+        "district",
+        "pe_office"
+      ],
+      "join_key": "tender_id"
+    },
+    "experience": {
+      "fields": [
+        "package_no",
+        "work_name",
+        "contract_value_bdt",
+        "completed_value_bdt",
+        "contractor_name",
+        "completion_status",
+        "completed_on_time",
+        "actual_completion_date",
+        "planned_completion_date",
+        "contract_start_date",
+        "contract_end_date",
+        "progress_pct",
+        "district",
+        "agency_code",
+        "pe_name"
+      ],
+      "join_key": "tender_id"
+    }
+  }
+}

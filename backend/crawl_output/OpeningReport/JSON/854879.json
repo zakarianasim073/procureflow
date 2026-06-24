@@ -1,0 +1,33 @@
+{
+  "tender_id": "854879",
+  "ref_no": "T-1/285; Date: 18/07/2023",
+  "closing_date": "22-Aug-2023 12:00",
+  "opening_date": "22-Aug-2023 12:00",
+  "procuring_entity": "Kurigram O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W-05_RHD Regulator",
+  "lot_no": "& Re-construction / Expansion of 4 nos regulator over Jamalpur-Dhanua-Kamalpur-Rowmari-Datbhanga road under Kurigram O&M Division, BWDB, Kurigram (Delegated from RHD, Kurigram)",
+  "zone": "Kurigram",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M-A Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M-H JV(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "award_winner": "M-A JOINT VENTURE",
+  "award_amount": 157880000.0,
+  "estimated_cost": 175441000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

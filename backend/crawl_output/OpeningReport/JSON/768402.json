@@ -1,0 +1,33 @@
+{
+  "tender_id": "768402",
+  "ref_no": "MQ-52/3819;Date-22/12/2022",
+  "closing_date": "12-Jan-2023 14:10",
+  "opening_date": "12-Jan-2023 14:10",
+  "procuring_entity": "Barguna O&M Division",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BTBPW-02",
+  "lot_no": "& Riverbank protective work at Betagi Pouroshova under Polder 41/7A from Km 10.100 to Km 10.500 = 0.400km in connection with \"Rehabilitation of Polder 41/6A, 41/6B & 41/7A and protection of vulnerable portion including Betagi town from the erosion of Bishkhali & Payra river under Barguna district\" under Barguna O&M Division, BWDB, Barguna",
+  "zone": "Barguna",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "BISWAS TRADING & CONSTRUCTION"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Amir Engineering Corporation-M. M. Builders & Engineers Ltd (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "S.Ananta Bikash Tripura & M/S K.K. Enterprise (JV)(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 307500000.0
+}

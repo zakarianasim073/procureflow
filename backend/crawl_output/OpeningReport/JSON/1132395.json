@@ -1,0 +1,57 @@
+{
+  "tender_id": "1132395",
+  "ref_no": "42.01.5100.599.07.003.25-223, Date: 31-07-2025",
+  "closing_date": "04-Sep-2025 14:00",
+  "opening_date": "04-Sep-2025 14:00",
+  "procuring_entity": "Laksmipur WD Division, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W-35/Lot-04",
+  "lot_no": "& Construction of Kalir Khal Regulator (3 Vent) & Hazir Khal Outlet in Upazila-Ramgati, Dist.-Lakshmipur under Lakshmipur WD Division, BWDB, Lakshmipur (Package No:W-35/Lot-04).",
+  "zone": "Laksmipur WD",
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dockyard & Engineering Works Limited"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Al-Mamun Enterprise LTD"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 7,
+      "name": "Marco International-M/S Meksha Co (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "MMA-SBL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "SIGMA ENGINEERS LTD."
+    }
+  ],
+  "award_winner": "M/S RAHMAN ENGINEERING",
+  "award_amount": 107060000.0,
+  "estimated_cost": 126000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

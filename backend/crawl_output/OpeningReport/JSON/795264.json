@@ -1,0 +1,37 @@
+{
+  "tender_id": "795264",
+  "ref_no": "T-9/305 Dated: 27-02-2023",
+  "closing_date": "29-Mar-2023 12:30",
+  "opening_date": "29-Mar-2023 12:30",
+  "procuring_entity": "Manikganj WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "KR-Manikganj-04",
+  "lot_no": "& Bank Protection work along the Right bank of Kaliganga River from km. 12.000 to km. 12.500 = 0.500 km at Tora Shosan Ghat, under Ghior Upazila District: Manikganj under Manikganj WD Division, BWDB, Manikganj during the year 2022-23, 23-24 & 24-25.",
+  "zone": "Manikganj",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Aradhana Enterprise"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "Noona Traders"
+    }
+  ],
+  "award_winner": "NOONA TRADERS",
+  "award_amount": 142170000.0,
+  "estimated_cost": 148095000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

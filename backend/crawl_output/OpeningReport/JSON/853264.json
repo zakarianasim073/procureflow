@@ -1,0 +1,29 @@
+{
+  "tender_id": "853264",
+  "ref_no": "42.01.9400.181.07.004.19-707,Date 12/07/2023",
+  "closing_date": "11-Sep-2023 11:00",
+  "opening_date": "11-Sep-2023 11:00",
+  "procuring_entity": "Thakurgaon O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Thk- W -11",
+  "lot_no": "& Construction of Combined Water Control Structure at Nischintapur over Tangon River in Upazila Thakurgaon sadar, Dist. Thakurgaon. (2nd Retender)",
+  "zone": "Thakurgaon",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "DEWL-MRC JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "MBEL-JH JV (JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

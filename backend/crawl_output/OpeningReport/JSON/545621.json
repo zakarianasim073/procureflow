@@ -1,0 +1,73 @@
+{
+  "tender_id": "545621",
+  "ref_no": "T-01/5621, Date: 16/02/2021",
+  "closing_date": "22-Mar-2021 11:30",
+  "opening_date": "22-Mar-2021 11:30",
+  "procuring_entity": "Kurigram O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Kuri/ ADP/Dharla-17",
+  "lot_no": "& River Bank Protective work along the Right bank of Flood Control Embankment of Dharla River from Km 28.600 to km 29.200 600.00 m at Charboraibari Area in UP.Vogdanga UZ. Kurigram Sadar Dist. Kurigram under Kurigram O&M Division BWDBKurigram during 2020-2021",
+  "zone": "Kurigram",
+  "bidder_count": 13,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "KK Enterprise & Sunflower Construction Ltd.(JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Rupantor"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Khandaker Shahin Ahmed"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 8,
+      "name": "Md. Jamal Hossain"
+    },
+    {
+      "serial": 9,
+      "name": "Md. Khairul Kabir Rana"
+    },
+    {
+      "serial": 10,
+      "name": "Noona Niaz & Saykat JVCA(JVCA - View Details)"
+    },
+    {
+      "serial": 11,
+      "name": "STANDARD-SASI JVCA(JVCA - View Details)"
+    },
+    {
+      "serial": 12,
+      "name": "TAJWAR TRADE SYSTEMS LIMITED"
+    },
+    {
+      "serial": 13,
+      "name": "TM-AB Constn. JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. KHANDAKER SHAHIN AHMED",
+  "award_amount": 118280000.0,
+  "estimated_cost": 131424470.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

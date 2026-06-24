@@ -1,0 +1,49 @@
+{
+  "tender_id": "256382",
+  "ref_no": "EE/WDB/Chapai/Da-2/1790; Date: 27-11-2018",
+  "closing_date": "23-Dec-2018 12:00",
+  "opening_date": "23-Dec-2018 12:00",
+  "procuring_entity": "Nawabganj O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Chapainawab-W-05/2018-19",
+  "lot_no": "& Re-Excavation of Pagla Dara khal from km 0.00 to km 12.00 egual 12.00 Km in Ghughudima regulator of Sadar Upzila of Chapainawabganj district in C/W Re-Excavation of small rivers canals and water bodies in 64 districts Project under Nawabganj O&M Division BWDB Chapainawabganj during the FY-2018-2019 & 2019-2020.",
+  "zone": "Nawabganj",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Paradise Traders & Sajid Enterprise (Joint Venture)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Kamrul Enterprise"
+    },
+    {
+      "serial": 4,
+      "name": "Md. Shamim Ahsan"
+    },
+    {
+      "serial": 5,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 6,
+      "name": "NH-AC (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "Shaikh Mohammad Ishaque"
+    }
+  ],
+  "award_winner": "NH-AC (JV)",
+  "award_amount": 30760000.0,
+  "estimated_cost": 34100000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

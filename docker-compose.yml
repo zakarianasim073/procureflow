@@ -1,0 +1,136 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: procurementflow-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    env_file: .env
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://procurementflow:procurementflow@postgres:5432/procurementflow
+      - REDIS_URL=redis://redis:6379/0
+      - MINIO_ENDPOINT=minio:9000
+      - PROCUREFLOW_ENV=production
+    volumes:
+      - backend_data:/data
+      - ./backend/app/sor:/app/sor
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - procurementflow-net
+
+  worker:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: procurementflow-worker
+    restart: unless-stopped
+    command: celery -A app.celery_app worker --loglevel=info --concurrency=4
+    env_file: .env
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://procurementflow:procurementflow@postgres:5432/procurementflow
+      - REDIS_URL=redis://redis:6379/0
+      - MINIO_ENDPOINT=minio:9000
+      - PROCUREFLOW_ENV=production
+    volumes:
+      - backend_data:/data
+      - ./backend/app/sor:/app/sor
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - procurementflow-net
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: procurementflow-frontend
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - procurementflow-net
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: procurementflow-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: procurementflow
+      POSTGRES_PASSWORD: procurementflow
+      POSTGRES_DB: procurementflow
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./deploy/init-db.sql:/docker-entrypoint-initdb.d/init-db.sql
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U procurementflow"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - procurementflow-net
+
+  redis:
+    image: redis:7-alpine
+    container_name: procurementflow-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - procurementflow-net
+
+  minio:
+    image: minio/minio:latest
+    container_name: procurementflow-minio
+    restart: unless-stopped
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: procurementflow
+      MINIO_ROOT_PASSWORD: procureflow123
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - minio_data:/data
+    networks:
+      - procurementflow-net
+
+  flower:
+    image: mher/flower:latest
+    container_name: procurementflow-flower
+    restart: unless-stopped
+    ports:
+      - "5555:5555"
+    environment:
+      - CELERY_BROKER_URL=redis://redis:6379/0
+      - FLOWER_PORT=5555
+    depends_on:
+      - redis
+    networks:
+      - procurementflow-net
+
+volumes:
+  postgres_data:
+  redis_data:
+  minio_data:
+  backend_data:
+
+networks:
+  procurementflow-net:
+    driver: bridge

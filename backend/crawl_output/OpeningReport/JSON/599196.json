@@ -1,0 +1,57 @@
+{
+  "tender_id": "599196",
+  "ref_no": "ET/LAK/RKBLK/315, Dt: 19/08/2021",
+  "closing_date": "27-Sep-2021 14:20",
+  "opening_date": "27-Sep-2021 14:20",
+  "procuring_entity": "Laksmipur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Lak/W-25/Lot-03/2021-2022",
+  "lot_no": "& River bank protective work along the left bank of Meghna river from km 151.887 to km 152.187 = 300 m in c/w \"Protection work at the bank of Meghna river at Borokheri, Ludhua bazar and Kader ponditer hat areas in Ramgati and Kamal Nagar upazila under Lakshmipur District\" Project in Upazila-Kamalnagar, Dist.-Lakshmipur under Lakshmipur O&M Division, BWDB, Lakshmipur during the year 2021-2022 (Package No.- Lak/W-25/Lot-3/2021-2022)",
+  "zone": "Laksmipur",
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "BISWAS TRADING & CONSTRUCTION"
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Saleh Ahmed"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. KHANDAKER SHAHIN AHMED LIMITED - A.H. TRADING CORPORATION JV(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    },
+    {
+      "serial": 8,
+      "name": "NIAZ-AWRDL (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "WEL-YUSRA JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "NIAZ-AWRDL (JV)",
+  "award_amount": 266360000.0,
+  "estimated_cost": 295959890.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

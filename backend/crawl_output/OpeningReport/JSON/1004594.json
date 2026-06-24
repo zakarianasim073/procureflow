@@ -1,0 +1,37 @@
+{
+  "tender_id": "1004594",
+  "ref_no": "T-2/138, Dated: 29-07-2024",
+  "closing_date": "19-Aug-2024 14:00",
+  "opening_date": "19-Aug-2024 14:00",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BS-Tula-SRBP-03",
+  "lot_no": "& Strengthening of River bank protection work of Meghna River from km 10.114 to km 10.514 = 0.400 km of Polder No 56/57 in Bhola Sadar Upazilla in c/w \"Protection of Bhola Sadar Upazila from erosion of the Meghna River\" under Bhola O&M Division-I, BWDB, Bhola.",
+  "zone": "Bhola",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD."
+    },
+    {
+      "serial": 3,
+      "name": "Niaz Traders - Mysha Traders (J.V.)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "TAJWAR TRADE SYSTEMS LIMITED(Sub Contractor/Consultant - View Details)"
+    }
+  ],
+  "award_winner": "NIAZ TRADERS - MYSHA TRADERS (J.V.)",
+  "award_amount": 246620000.0,
+  "estimated_cost": 248000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

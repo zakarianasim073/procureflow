@@ -1,0 +1,45 @@
+{
+  "tender_id": "261225",
+  "ref_no": "T-9/602, date:09.12.2018",
+  "closing_date": "14-Jan-2019 11:20",
+  "opening_date": "14-Jan-2019 11:20",
+  "procuring_entity": "Manikganj WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Manikganj/W-10/2018-19",
+  "lot_no": "& Re-excavation of Gazikhali River from Km 0.000 to Km 15.000 15.000 Km in Upazilla Saturia Manikganj Sadar Singair District Manikganj under Manikganj WD Division BWDB Manikganj during the year 2018-19 Package No. Manikganj/W-10/2018-19.",
+  "zone": "Manikganj",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Asian Dredgers Ltd-M/s Ismail Hossain JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "KSA-TTSL Joint Venture(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Md. Jamil Iqbal"
+    },
+    {
+      "serial": 5,
+      "name": "NIAZ-NOONA JV. (JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "Western Engineering (Pvt.) Ltd-The Pipeline Engineers & Associates Ltd JV (JVCA - View Details)"
+    }
+  ],
+  "award_winner": "KSA-TTSL JOINT VENTURE",
+  "award_amount": 137060000.0,
+  "estimated_cost": 147697000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

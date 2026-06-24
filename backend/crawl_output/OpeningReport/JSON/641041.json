@@ -1,0 +1,49 @@
+{
+  "tender_id": "641041",
+  "ref_no": "T-1/1716 Dt.-21/12/2021",
+  "closing_date": "20-Jan-2022 15:00",
+  "opening_date": "20-Jan-2022 15:00",
+  "procuring_entity": "Chattogram O&M Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "e-GP-51/Lot-02/Reg./63-1A/ADP/Ctg-1",
+  "lot_no": "& Construction of 01-Vent Regulator (1.5m x 1.8m) Over Haldakhali khal at Km 11.100 of Polder No: 63/1A at Juindandi Union in Anowara upazila, Dist.-Chittagong, connection with \" Rehabilitation of Coastal Polder NO: 62(Patenga), 63/1A (Anowara) & 63/1B (Anowara & Patiya) in Chittagong District\" under Chittagong O&M Division-I, BWDB, Chittagong during the year 2021-2022.",
+  "zone": "Chattogram",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Alam and Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "MAKAZ-GARIBENEWAZ (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "SA-NEB-UB (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "SA-SI & AE JV (JVCA - View Details)"
+    }
+  ],
+  "award_winner": "SA-SI & AE JV",
+  "award_amount": 50759999.99999999,
+  "estimated_cost": 57000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

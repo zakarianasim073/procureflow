@@ -1,0 +1,29 @@
+{
+  "tender_id": "183598",
+  "ref_no": "T-44/1279 Date : 05/04/2018",
+  "closing_date": "23-May-2018 16:40",
+  "opening_date": "23-May-2018 16:40",
+  "procuring_entity": "Chandpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "H/W5/2017-18 to 2019-20",
+  "lot_no": "& River Bank Protection work on the left bank of the Meghna river from km.70.104 to km 70.534 430 m. at Charbhairabi in connection with Protection of Horina Ferryghat area in Sadar upazila and Charbhairabi Katakhal Bazar in Haimchar upazila in the district Chandpur from the erosion of the Meghna River under Chandpur O&M Division BWDB Chandpur during the year 2017-18 to 2019-20.",
+  "zone": "Chandpur",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "Moshiur Rahman Chowdhury"
+    },
+    {
+      "serial": 3,
+      "name": "SSECL-KSA-WEL JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 153972272.48
+}

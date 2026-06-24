@@ -1,0 +1,37 @@
+{
+  "tender_id": "325733",
+  "ref_no": "T-1/718, Date: 29.05.2019",
+  "closing_date": "24-Jun-2019 12:00",
+  "opening_date": "24-Jun-2019 12:00",
+  "procuring_entity": "Comilla O&M Division",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "CUM/OM/W-32/Jogdasha-01/2018-20",
+  "lot_no": "& Re-excavation of Jogdasha Golakata Bridge to Kemtoli of Khir Khal from Km. 0.000 to Km. 5.200 5200.00m and Budhnag to Kamalapur Khal from Km. 0.000 to Km. 2.900 2900.00m at Barura & Adarsha Sadar Upazilla in the District Cumilla under Cumilla O&M Division BWDB Cumilla during the year 2018-20",
+  "zone": "Comilla",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Shahid Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    }
+  ],
+  "estimated_cost": 12323000.0
+}

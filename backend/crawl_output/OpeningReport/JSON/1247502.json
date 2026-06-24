@@ -1,0 +1,80 @@
+{
+  "tender_id": "1247502",
+  "ref_no": "WDB/EE/T-12/1547, Date:-29/03/2026",
+  "closing_date": "16-Apr-2026 14:44",
+  "opening_date": "16-Apr-2026 14:44",
+  "procuring_entity": "Sylhet WD Division, BWDB",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "KUS/PW-21",
+  "lot_no": "& Bank Protective work along the R/B of Kushiyara River at Suprakandi from km 28.500 to km 28.880 = 380 m in Upazila-Zakiganj.",
+  "zone": "Sylhet",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 5,
+      "name": "Md. Nasir Uddin Molla"
+    }
+  ],
+  "price_bid_count": 5,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "196209456.306",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "196209456.306"
+    },
+    {
+      "serial": 2,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "215703876.224",
+      "discount_pct": "6.970",
+      "discount_amount": "15034560.172",
+      "net_quoted": "200669316.052"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. A. S. Construction",
+      "quoted_amount": "215703876.234",
+      "discount_pct": "6.550",
+      "discount_amount": "14128603.893",
+      "net_quoted": "201575272.341"
+    },
+    {
+      "serial": 4,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "215703876.233",
+      "discount_pct": "6.080",
+      "discount_amount": "13114795.674",
+      "net_quoted": "202589080.559"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN",
+      "quoted_amount": "215702991.851",
+      "discount_pct": "5.030",
+      "discount_amount": "10849860.490",
+      "net_quoted": "204853131.361"
+    }
+  ],
+  "estimated_cost": null
+}

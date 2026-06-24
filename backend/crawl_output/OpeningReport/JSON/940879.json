@@ -1,0 +1,33 @@
+{
+  "tender_id": "940879",
+  "ref_no": "T-37/176 Date: 23-01-2024",
+  "closing_date": "22-Feb-2024 15:00",
+  "opening_date": "22-Feb-2024 15:00",
+  "procuring_entity": "Syedpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Saidpur/Regulator-01",
+  "lot_no": "& Construction of Regulator cum weir cum Bridge at Kharkharia River under Saidpur O&M Division, BWDB, Saidpur, NIlphamari.",
+  "zone": "Syedpur",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "MCE & MAM (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "MMBEL-MR JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "MCE & MAM (JV)",
+  "award_amount": 175760000.0,
+  "estimated_cost": 188000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

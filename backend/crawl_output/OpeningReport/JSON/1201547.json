@@ -1,0 +1,217 @@
+{
+  "tender_id": "1201547",
+  "ref_no": "42.01.1500.567.000.07.0006.25.2945; Date: 21/12/25",
+  "closing_date": "07-Jan-2026 12:00",
+  "opening_date": "07-Jan-2026 12:00",
+  "procuring_entity": "Chattogram WD Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "NDR-27/PBPW/Fatikchari/Halda/2025-26",
+  "lot_no": "& Precautionary Bank Protective Work along the Right Bank of the Halda River from Km 52.900 to Km 53.050= 150.00 m at Ward No. 5 of Bhujpur Union under Fatikchari Upazila, Chattogram District, under the budget head \"Operational Expenditure for Goods and Services (Economic Code: 3258137)\" of Chattogram Water Development Division-I, BWDB, Chattogram, during FY 2025-2026.",
+  "zone": "Chattogram",
+  "bidder_count": 16,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "FIRST S.S ENTERPRISE (PVT.) LTD."
+    },
+    {
+      "serial": 2,
+      "name": "Khaza Tareq"
+    },
+    {
+      "serial": 3,
+      "name": "M/S AL MAMUN ENTER PRISE"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Alam and Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S Garibenewaz Enterprise"
+    },
+    {
+      "serial": 6,
+      "name": "M/S Mahabub Enterprise"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 8,
+      "name": "M/S. BELAL CONSTRUCTION"
+    },
+    {
+      "serial": 9,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 11,
+      "name": "M/s. Omar Enterprise"
+    },
+    {
+      "serial": 12,
+      "name": "M/s. United Brothers"
+    },
+    {
+      "serial": 13,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 14,
+      "name": "Nirmata Kusholi"
+    },
+    {
+      "serial": 15,
+      "name": "Rabbi Enterprise"
+    },
+    {
+      "serial": 16,
+      "name": "Whizz-Kid International"
+    }
+  ],
+  "price_bid_count": 16,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/s. United Brothers",
+      "quoted_amount": "11167201.109",
+      "discount_pct": "11.870",
+      "discount_amount": "1325546.772",
+      "net_quoted": "9841654.337"
+    },
+    {
+      "serial": 2,
+      "name": "FIRST S.S ENTERPRISE (PVT.) LTD.",
+      "quoted_amount": "9925880.000",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "9925880.000"
+    },
+    {
+      "serial": 3,
+      "name": "M/S AL MAMUN ENTER PRISE",
+      "quoted_amount": "11263675.863",
+      "discount_pct": "11.800",
+      "discount_amount": "1329113.752",
+      "net_quoted": "9934562.111"
+    },
+    {
+      "serial": 4,
+      "name": "Khaza Tareq",
+      "quoted_amount": "11263675.863",
+      "discount_pct": "11.710",
+      "discount_amount": "1318976.444",
+      "net_quoted": "9944699.419"
+    },
+    {
+      "serial": 5,
+      "name": "M/s. Omar Enterprise",
+      "quoted_amount": "11263675.894",
+      "discount_pct": "11.700",
+      "discount_amount": "1317850.080",
+      "net_quoted": "9945825.814"
+    },
+    {
+      "serial": 6,
+      "name": "M/S Alam and Brothers",
+      "quoted_amount": "11263675.863",
+      "discount_pct": "11.600",
+      "discount_amount": "1306586.400",
+      "net_quoted": "9957089.463"
+    },
+    {
+      "serial": 6,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "11263675.863",
+      "discount_pct": "11.600",
+      "discount_amount": "1306586.400",
+      "net_quoted": "9957089.463"
+    },
+    {
+      "serial": 6,
+      "name": "Whizz-Kid International",
+      "quoted_amount": "11263675.863",
+      "discount_pct": "11.600",
+      "discount_amount": "1306586.400",
+      "net_quoted": "9957089.463"
+    },
+    {
+      "serial": 9,
+      "name": "Nirmata Kusholi",
+      "quoted_amount": "11263675.863",
+      "discount_pct": "11.570",
+      "discount_amount": "1303207.297",
+      "net_quoted": "9960468.566"
+    },
+    {
+      "serial": 10,
+      "name": "M/S Mahabub Enterprise",
+      "quoted_amount": "11263675.863",
+      "discount_pct": "11.540",
+      "discount_amount": "1299828.195",
+      "net_quoted": "9963847.668"
+    },
+    {
+      "serial": 11,
+      "name": "M/S. BELAL CONSTRUCTION",
+      "quoted_amount": "11263675.857",
+      "discount_pct": "11.501",
+      "discount_amount": "1295435.360",
+      "net_quoted": "9968240.497"
+    },
+    {
+      "serial": 12,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "11263675.863",
+      "discount_pct": "11.450",
+      "discount_amount": "1289690.886",
+      "net_quoted": "9973984.977"
+    },
+    {
+      "serial": 13,
+      "name": "M/S Garibenewaz Enterprise",
+      "quoted_amount": "11263675.863",
+      "discount_pct": "11.400",
+      "discount_amount": "1284059.048",
+      "net_quoted": "9979616.815"
+    },
+    {
+      "serial": 14,
+      "name": "M/S. Mostafa & Sons",
+      "quoted_amount": "11263675.863",
+      "discount_pct": "11.370",
+      "discount_amount": "1280679.946",
+      "net_quoted": "9982995.917"
+    },
+    {
+      "serial": 15,
+      "name": "Rabbi Enterprise",
+      "quoted_amount": "9990880.490",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "9990880.490"
+    },
+    {
+      "serial": 16,
+      "name": "M/S. Amin & Co.",
+      "quoted_amount": "11263675.863",
+      "discount_pct": "11.200",
+      "discount_amount": "1261531.697",
+      "net_quoted": "10002144.166"
+    }
+  ],
+  "award_winner": "WHIZZ-KID INTERNATIONAL",
+  "award_amount": 9960000.0,
+  "estimated_cost": 11280000.0,
+  "winner_quoted": 11263675.863,
+  "winner_discount": 0.14,
+  "winner_discount_pct": 11.6
+}

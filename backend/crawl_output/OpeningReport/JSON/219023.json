@@ -1,0 +1,61 @@
+{
+  "tender_id": "219023",
+  "ref_no": "T-26/304 Dated: 23-09-2018",
+  "closing_date": "29-Oct-2018 13:15",
+  "opening_date": "29-Oct-2018 13:15",
+  "procuring_entity": "Dhaka O&M Division-2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "PLBP-05/2018-19",
+  "lot_no": "& Bank protection work along the Left bank of Padma river at Aurangabad to Brahabazar Ghat From Km. 1.500 to Km. 2.000 500 m. in Dohar Upazilla Dist-Dhaka under Dhaka O & M Division II BWDB Dhaka During the Year 2018-2019.",
+  "zone": "Dhaka",
+  "bidder_count": 10,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M. M. BUILDERS & ENGINEERS LTD- MD. LIAQUAT ALI-TAJWAR TRADE SYSTEMS LTD JV(MBEL-LA-TTSL Joint Venture) (JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Amena Enterprise & M/s. Aradhona Enterprise (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "Amin & Co. & Starlite Services Ltd. (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "Dolly Construction Ltd."
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/s. M.R. Construction"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Md. Jamil Iqbal(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "NATIONTECH-KKENT (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "NIAZ-NOONA-BHAWAL(JV).(JVCA - View Details)"
+    },
+    {
+      "serial": 10,
+      "name": "SA-BJGTL JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. M.R. CONSTRUCTION",
+  "award_amount": 69000000.0,
+  "estimated_cost": 76670253.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

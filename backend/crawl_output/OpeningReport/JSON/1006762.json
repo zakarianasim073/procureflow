@@ -1,0 +1,41 @@
+{
+  "tender_id": "1006762",
+  "ref_no": "T-4/595, Date: 27.08.2024",
+  "closing_date": "12-Sep-2024 11:00",
+  "opening_date": "12-Sep-2024 11:00",
+  "procuring_entity": "Kushtia O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "P16/Kushtia/2023-24",
+  "lot_no": "& Protective work along the Right bank of Padma River from KM. 10.030 to KM. 10.480 = 0.450 Km. at Bahalbaria, Upazilla: Mirpur, District: Kushtia under Kushtia O&M Division, BWDB, Kushtia during the FY 2023-24",
+  "zone": "Kushtia",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "JV SKEM-ML(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "MATIN CONSTRUCTION LIMITED"
+    },
+    {
+      "serial": 4,
+      "name": "WEL-VINCEN JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "YUSRA CONSTRUCTION LTD."
+    }
+  ],
+  "award_winner": "MATIN CONSTRUCTION LIMITED",
+  "award_amount": 563320000.0,
+  "estimated_cost": 590000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

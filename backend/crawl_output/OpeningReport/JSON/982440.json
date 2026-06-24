@@ -1,0 +1,33 @@
+{
+  "tender_id": "982440",
+  "ref_no": "1T-4/2066, dated:08-05-2024",
+  "closing_date": "10-Jun-2024 14:10",
+  "opening_date": "10-Jun-2024 14:10",
+  "procuring_entity": "Satkhira O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W Sat-1/44",
+  "lot_no": "& Construction of Drainage Cum Flushing Regulator 3-Vent (1.50mx1.80m) on Chakbara Khal at km 27.490 in polder no-15 under the project \"Rehabilitation of polder no. 15 in Satkhira District\" during the FY 2023-24.",
+  "zone": "Satkhira",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "AMEL & ACC & MT JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "MMA-MKH (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "UCL-RSE (JV)(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

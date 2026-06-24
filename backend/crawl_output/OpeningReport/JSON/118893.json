@@ -1,0 +1,33 @@
+{
+  "tender_id": "118893",
+  "ref_no": "440 date- 05/09/17",
+  "closing_date": "05-Oct-2017 13:00",
+  "opening_date": "05-Oct-2017 13:00",
+  "procuring_entity": "Habiganj O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "H-W-2/2017-18",
+  "lot_no": "& Bank Protective work along the Left bank of the Kushiyara River from Km 0.000 to km 0.375 375.00 m at Paharpur Bazar in c/w Kalni-Kushiyara River Management Project Under Habiganj O & M Division BWDB Habiganj during the year 2017-18.",
+  "zone": "Habiganj",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dolly Construction Ltd-SA-SI (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. BHAWAL CONSTRUCTION"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "award_winner": "DOLLY CONSTRUCTION LTD-SA-SI (JV)",
+  "award_amount": 58200000.0,
+  "estimated_cost": 63406704.37,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

@@ -1,0 +1,45 @@
+{
+  "tender_id": "1132396",
+  "ref_no": "42.01.5100.599.07.003.25-224, Date: 31-07-2025",
+  "closing_date": "04-Sep-2025 14:00",
+  "opening_date": "04-Sep-2025 14:00",
+  "procuring_entity": "Laksmipur WD Division, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W-36/Lot-01",
+  "lot_no": "& Construction of Matabbar Hat Khal Regulator (2 Vent) & Patabunia Khal Regulator (1 Vent) in Upazila-Kamalnagar, Dist.-Lakshmipur under Lakshmipur WD Division, BWDB, Lakshmipur (Package No:W-36/Lot-01).",
+  "zone": "Laksmipur WD",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dockyard & Engineering Works Limited"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 5,
+      "name": "MARCO.INTERNATIONAL"
+    },
+    {
+      "serial": 6,
+      "name": "MMA-SBL JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S RAHMAN ENGINEERING",
+  "award_amount": 142630000.0,
+  "estimated_cost": 166000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

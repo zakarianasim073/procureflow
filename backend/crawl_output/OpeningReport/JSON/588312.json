@@ -1,0 +1,89 @@
+{
+  "tender_id": "588312",
+  "ref_no": "EE/NO&MD/DA-2/2180, Date 14-06-2021",
+  "closing_date": "27-Jul-2021 12:00",
+  "opening_date": "27-Jul-2021 12:00",
+  "procuring_entity": "Naogaon O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Nao-W-8",
+  "lot_no": "& Re-sectioning of embankment form km. 0.00 to km. 5.000 = 5000.00 m. along the Right bank of Atrai river under Construction of Right Embankment of Atrai River Project in Union Khelna, in Upazila Dhamoirhat, District Naogaon in c/w Rehabilitation of 3 nos Project in Upazila: Dhamoirhat, Patnitala & Mohadevpur District: Naogaon and Bank Protection Project Including Dredging of Atrai River under Naogaon O & M Division BWDB, Naogaon During the FY-2020-21.",
+  "zone": "Naogaon",
+  "bidder_count": 17,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "(Basir- united brothers) JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Al-mamun enterprise ltd. & Noona Traders & Mollah Shorower Morshed (Mukta) JV(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "Ashim Singh"
+    },
+    {
+      "serial": 4,
+      "name": "Ataur Rahman Khan Ltd."
+    },
+    {
+      "serial": 5,
+      "name": "Belal-Khaza Tareq (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "M/S Abul Kalam Azad"
+    },
+    {
+      "serial": 7,
+      "name": "M/S Goodman Enterprise"
+    },
+    {
+      "serial": 8,
+      "name": "M/S ISMAIL HOSSAIN"
+    },
+    {
+      "serial": 9,
+      "name": "M/S Jewel Electronics"
+    },
+    {
+      "serial": 10,
+      "name": "M/S Rupali Construction-Kazi Nakibuzzaman (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 11,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 12,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 13,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 14,
+      "name": "Md.Shamimur Rahman"
+    },
+    {
+      "serial": 15,
+      "name": "NATIONTECH COMMUNICATIONS LTD-TAJWAR TRADE SYSTEMS LTD JV(JVCA - View Details)"
+    },
+    {
+      "serial": 16,
+      "name": "NZK-DAWN JV(JVCA - View Details)"
+    },
+    {
+      "serial": 17,
+      "name": "Techbay International(Sub Contractor/Consultant - View Details)"
+    }
+  ],
+  "award_winner": "M/S. AMIN & CO.",
+  "award_amount": 50500000.0,
+  "estimated_cost": 56109600.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

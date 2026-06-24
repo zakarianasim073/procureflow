@@ -1,0 +1,37 @@
+{
+  "tender_id": "260115",
+  "ref_no": "T-9/579, date:04.12.2018",
+  "closing_date": "14-Jan-2019 14:05",
+  "opening_date": "14-Jan-2019 14:05",
+  "procuring_entity": "Manikganj WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Manikganj/W-12/2018-19",
+  "lot_no": "& Re-excavation of Ichamati River from Km 19.000 to Km 38.000 19.00Km in Upazila- Daulatpur Shibaloy & Harrirampur District- Manikganj under Manikganj WD Division BWDB Manikganj during the FY 2018-19 Package No. Manikganj/W-12/2018-19.",
+  "zone": "Manikganj",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Asian Dredgers Ltd-M/s Ismail Hossain JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Md. Jamil Iqbal"
+    },
+    {
+      "serial": 4,
+      "name": "NIAZ-NOONA JV. (JVCA - View Details)"
+    }
+  ],
+  "award_winner": "NIAZ-NOONA JV.",
+  "award_amount": 112970000.0,
+  "estimated_cost": 125557000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

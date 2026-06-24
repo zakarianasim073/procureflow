@@ -1,0 +1,37 @@
+{
+  "tender_id": "633675",
+  "ref_no": "ET/LAK/RKBLK/2345, Dt: 01/12/2021",
+  "closing_date": "06-Jan-2022 13:00",
+  "opening_date": "06-Jan-2022 13:00",
+  "procuring_entity": "Laksmipur O&M Division",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Lak/W-05/Lot-01/2021-2022",
+  "lot_no": "& River bank protective work along the left bank of Meghna river from km 127.917 to km 128.247 = 330.00 m in c/w \"Protection work at the bank of Meghna river at Borokheri, Ludhuabazar and Kaderponditer hat areas in Ramgati and Kamal Nagar upazila under Lakshmipur District\" Project in Upazila-Ramgati, Dist.-Lakshmipur under Lakshmipur O & M Division, BWDB, Lakshmipur (Package No: Lak/W-05/Lot-1/2021-2022).",
+  "zone": "Laksmipur",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Saleh Ahmed(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    },
+    {
+      "serial": 5,
+      "name": "VCPL-SSRI JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 306258605.0
+}

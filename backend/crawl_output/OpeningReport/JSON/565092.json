@@ -1,0 +1,33 @@
+{
+  "tender_id": "565092",
+  "ref_no": "EE/CTG-2/T-6/869; Dated:25/04/2021",
+  "closing_date": "09-May-2021 15:20",
+  "opening_date": "09-May-2021 15:20",
+  "procuring_entity": "Chattogram O&M Division -2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BR/CTG-2-07",
+  "lot_no": "& Bank Protective work at the left bank of Feni river (Border River) from km 27.600 to 27.900 = 300m at kashibari in Upazilla- Ramgarh, Dist- Khagrachari in connection with Border River Bank Protection and Development Project (Phase-ll) Under Chittagong O&M Division-II, BWDB, Chittagong during the year 2020-2021. (Package No: BR/CTG-2-07).(Remaining part)",
+  "zone": "Chattogram",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Techno International"
+    }
+  ],
+  "award_winner": "M/S. MOSTAFA & SONS",
+  "award_amount": 41710000.0,
+  "estimated_cost": 45000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

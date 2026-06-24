@@ -1,0 +1,29 @@
+{
+  "tender_id": "887991",
+  "ref_no": "RMDIP/T-3/490; Date: 15/10/2023",
+  "closing_date": "21-Nov-2023 12:00",
+  "opening_date": "21-Nov-2023 12:00",
+  "procuring_entity": "Meghna-Dhonagoda O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "RMDIP/W-06/2022-23",
+  "lot_no": "& Ferro Cement Lining work of K21-2, K211-1, K211, K2-1, K2-2 irrigation canal of Meghna-Dhonagoda O&M Division.",
+  "zone": null,
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Shahid Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    }
+  ],
+  "estimated_cost": null
+}

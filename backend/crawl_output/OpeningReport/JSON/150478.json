@@ -1,0 +1,41 @@
+{
+  "tender_id": "150478",
+  "ref_no": "T-6/2221 dated 31-12-2017",
+  "closing_date": "06-Feb-2018 12:10",
+  "opening_date": "06-Feb-2018 12:10",
+  "procuring_entity": "Tangail O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Work-Shakharia-06/17-18",
+  "lot_no": "& River Bank Protective work at the left bank of Jamuna river at Shakharia from km. 1.080 to km. 1.350 270.00 m. in C/W Protection project of left bank of Jamuna River from Kaolibari to Shakharia Bharua-Bottala in Gopalpur & Bhuapur Upazila of Tangail District under Tangail O&M Divisin BWDB Tangail during the year 2017-2018.",
+  "zone": "Tangail",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M.M Builders & Engineers Ltd & M/S. A.S Construction -JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S.BHAWAL CONSTRUCTION- WESTERN ENGINEERING (PVT.) LTD- INFRATECH CONSTRUCTION COMPANY- Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "Md. Liaquat Ali"
+    },
+    {
+      "serial": 5,
+      "name": "Techbay-KSA JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S.BHAWAL CONSTRUCTION- WESTERN ENGINEERING (PVT.) LTD- INFRATECH CONSTRUCTION COMPANY- JOINT VENTURE",
+  "award_amount": 77500000.0,
+  "estimated_cost": 86106275.23,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

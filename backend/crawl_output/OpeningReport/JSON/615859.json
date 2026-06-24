@@ -1,0 +1,53 @@
+{
+  "tender_id": "615859",
+  "ref_no": "T-2/317, Dated: 04-10-2021",
+  "closing_date": "04-Nov-2021 10:00",
+  "opening_date": "04-Nov-2021 10:00",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "DCP-DP-SRBP-12",
+  "lot_no": "& Strengthening of Bank Protection work from km 28.840 to km 29.462 equal to 0.622 km in connection with \"Protection of Daulatkhan Pourashava, Chokighat and other more vulnerable area from the erosion of the Meghna river in Bhola District\" project under Bhola O&M Division-I, BWDB, Bhola.",
+  "zone": "Bhola",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Khokan Construction & Engineering Ltd-Noona Traders (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "KOHINOOR-MIZANUR-AEC (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M. M. BUILDERS & ENGINEERS LTD. - NABARUN TRADERS LIMITED JV(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    },
+    {
+      "serial": 6,
+      "name": "S. S. Engineering & Construction Ltd."
+    },
+    {
+      "serial": 7,
+      "name": "TTSL-LASL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "WEL-VCPL JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "NATIONTECH COMMUNICATIONS LTD",
+  "award_amount": 431790000.0,
+  "estimated_cost": 422500000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

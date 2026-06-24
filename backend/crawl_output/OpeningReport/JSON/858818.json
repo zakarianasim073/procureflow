@@ -1,0 +1,57 @@
+{
+  "tender_id": "858818",
+  "ref_no": "ET/LAK/RKBLK/320, Date: 03-08-2023",
+  "closing_date": "14-Sep-2023 12:30",
+  "opening_date": "14-Sep-2023 12:30",
+  "procuring_entity": "Laksmipur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Lak/W-12/Lot-01",
+  "lot_no": "& River bank protective work along the left bank of Meghna river from km 137.517 to 137.867 = 350 m in c/w \"Protection work at the bank of Meghna river at Borokheri, Ludhuabazar and Kaderponditer hat areas in Ramgati and Kamal Nagar upazila under Lakshmipur District\" Project in Upazila-Kamalnagar, Dist.-Lakshmipur under Lakshmipur O&M Division, BWDB, Lakshmipur (Package No.-Lak/W-12/Lot-1).",
+  "zone": "Laksmipur",
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "BJGTL - AE ( JV )(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. AKA-SA JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 6,
+      "name": "NIAZ-KCEL (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "SSECL-MHA JV(JVCA - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "TTSL-LASL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "Western Engineering ( Pvt.) Ltd.(Sub Contractor/Consultant - View Details)"
+    }
+  ],
+  "award_winner": "M/S RAHMAN ENGINEERING",
+  "award_amount": 345860000.0,
+  "estimated_cost": 360466000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

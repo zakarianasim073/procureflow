@@ -1,0 +1,33 @@
+{
+  "tender_id": "828311",
+  "ref_no": "Barguna/MQ-52/1158, Date: 09-05-2023.",
+  "closing_date": "15-Jun-2023 12:05",
+  "opening_date": "15-Jun-2023 12:05",
+  "procuring_entity": "Barguna O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "ATBPW-03/2022-23",
+  "lot_no": "& Slope protection of embankment and riverbank protective work at Ghotkhali under Polder 43/1 from km 32.700 to km 33.000 Total 0.300km in connection with \"Rehabilitation of Polder 43/1 and 44B and protection of vulnerable portion from erosion of the Payra river under Barguna District\" project under Barguna O&M Division, BWDB, Barguna during the year 2022-23.",
+  "zone": "Barguna",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "KHANDAKER SHAHIN-STANDARD JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M. M. Builders & Engineers Ltd.-M/S. Amir Engineering Corporation (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "award_winner": "KHANDAKER SHAHIN-STANDARD JV.",
+  "award_amount": 338190000.00000006,
+  "estimated_cost": 356400000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

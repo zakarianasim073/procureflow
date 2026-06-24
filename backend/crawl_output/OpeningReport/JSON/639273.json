@@ -1,0 +1,57 @@
+{
+  "tender_id": "639273",
+  "ref_no": "T-1/968 Dated:21-12-2021",
+  "closing_date": "20-Jan-2022 12:30",
+  "opening_date": "20-Jan-2022 12:30",
+  "procuring_entity": "Dhaka O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "PW_05/2021-22",
+  "lot_no": "& Protective work at Bejgaon village along the left bank of the Padma river from km. 16.765 to km. 17.365 = 600.00 m in Louhajong Upazila of Munshiganj District under Dhaka O & M Division-1, BWDB, Dhaka during the Year 2021-2022, 2022-2023.",
+  "zone": "Dhaka",
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "Khokan Construction & Engineering Ltd - M/S. Niaz Traders (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S K.K. Enterprise - M/s. M.R. Construction JV(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "S. S. Engineering & Construction Ltd."
+    },
+    {
+      "serial": 7,
+      "name": "SSL - UNNAYAN JV(JVCA - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "TTSL-KSAL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "Western Engineering ( Pvt.) Ltd."
+    }
+  ],
+  "award_winner": "M/S K.K. ENTERPRISE - M/S. M.R. CONSTRUCTION JV",
+  "award_amount": 280090000.0,
+  "estimated_cost": 293496000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

@@ -1,0 +1,33 @@
+{
+  "tender_id": "571667",
+  "ref_no": "Da-1/1464 Date :25-04-2021",
+  "closing_date": "27-May-2021 11:19",
+  "opening_date": "27-May-2021 11:19",
+  "procuring_entity": "Moulvibazar O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "MR-PW-25",
+  "lot_no": "& Bank Revetment work along the Right bank at Rajapur from km 6.00 to 6.400 = 400m & kalirkona 6.750 to 7.250= 500m with 2 nos. R/S stair . in C/W Protection Project at Moulvibazar Sadar Rajnagor & Kulaura Upazilla from erosion of Manu river under Moulvibazar O & M Division BWDB Moulvibazar during the FY 2020-21 , 2021-22 & 2022-23.",
+  "zone": "Moulvibazar",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Mominul Hoque"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "UI-ACC JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "UI-ACC JV",
+  "award_amount": 169840000.00000003,
+  "estimated_cost": 188788000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

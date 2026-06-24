@@ -1,0 +1,33 @@
+{
+  "tender_id": "568532",
+  "ref_no": "Da-1/1412 Date : 12-04-2021",
+  "closing_date": "16-May-2021 10:31",
+  "opening_date": "16-May-2021 10:31",
+  "procuring_entity": "Moulvibazar O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "ML-PW-28",
+  "lot_no": "& Bank Revetment work along the left bank at uttarchati from km 28.00 to 28.400= 400m. in C/W Protection Project at Moulvibazar Sadar Rajnagor & Kulaura Upazilla from erosion of Manu river under Moulvibazar O & M Division BWDB Moulvibazar during the FY 2020-21 & 2021-22.",
+  "zone": "Moulvibazar",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "OMC-G2G-SA JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "OMC-G2G-SA JV",
+  "award_amount": 72100000.0,
+  "estimated_cost": 77832000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

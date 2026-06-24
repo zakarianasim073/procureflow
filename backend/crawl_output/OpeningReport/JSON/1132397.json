@@ -1,0 +1,49 @@
+{
+  "tender_id": "1132397",
+  "ref_no": "42.01.5100.599.07.003.25-225, Date: 31-07-2025",
+  "closing_date": "04-Sep-2025 14:00",
+  "opening_date": "04-Sep-2025 14:00",
+  "procuring_entity": "Laksmipur WD Division, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W-36/Lot-02",
+  "lot_no": "& Construction of Katoria Khal Regulator (2 Vent) & MP Khal-1 Regulator (3 Vent) in Upazila-Kamalnagar, Dist.-Lakshmipur under Lakshmipur WD Division, BWDB, Lakshmipur (Package No:W-36/Lot-02).",
+  "zone": "Laksmipur WD",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dockyard & Engineering Works Limited"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Jewel Electronics"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 6,
+      "name": "Md Jamal Hossain - MS Noor Construction JV (JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "MMA-SBL JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S RAHMAN ENGINEERING",
+  "award_amount": 152640000.0,
+  "estimated_cost": 176000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

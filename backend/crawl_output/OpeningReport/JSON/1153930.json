@@ -1,0 +1,49 @@
+{
+  "tender_id": "1153930",
+  "ref_no": "42.01.1500.567.000.07.0006.25.1041, Dated:18/09/25",
+  "closing_date": "22-Oct-2025 11:00",
+  "opening_date": "22-Oct-2025 11:00",
+  "procuring_entity": "Chattogram WD Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Reg-26/Goruluda-Khal/Patiya-FCDI/25-26",
+  "lot_no": "& Construction of 2-Vent (Vent Size-2.00m x 2.00m) Regulator with Boatpass on Goruluda Khal in-connection with \"Flood Control, Drainage and Irrigation Project at Patiya Upazilla in Chittagong District\" at Kolagaon Union, Upazilla: Patiya, Dist. Chattogram under Chattogram WD Division-1, BWDB, Chattogram.",
+  "zone": "Chattogram",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "DEWL-MCL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "JH-NK JV(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "MAME (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 7,
+      "name": "NAT-AME-MAI (JV)(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S RAHMAN ENGINEERING",
+  "award_amount": 159500000.0,
+  "estimated_cost": 179000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

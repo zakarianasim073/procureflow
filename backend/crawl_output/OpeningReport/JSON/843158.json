@@ -1,0 +1,57 @@
+{
+  "tender_id": "843158",
+  "ref_no": "RMDIP/T-1/1181 Date: 06/06/2023",
+  "closing_date": "11-Jul-2023 10:01",
+  "opening_date": "11-Jul-2023 10:01",
+  "procuring_entity": "Meghna-Dhonagoda O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "RMDIP/W-36/2022-23",
+  "lot_no": "& Slope protection works of Flood Control Embankment at Shibpur area from KM 14.040 to KM 14.540 = 0.500 KM under Meghna-Dhonagoda O&M Division, BWDB, Chandpur.",
+  "zone": null,
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "A.H. Trading Corporation"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Goodman Enterprise(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Niaz & Khan Traders ( jv)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Dawn Corporation"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Tazul Islam(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "MRE and AHA (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "Shekh Emdadul Hauqe Al Mamun"
+    },
+    {
+      "serial": 9,
+      "name": "SRDL-NUM JV(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    }
+  ],
+  "award_winner": "M/S. DAWN CORPORATION",
+  "award_amount": 89570000.00000001,
+  "estimated_cost": 94513200.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

@@ -1,0 +1,29 @@
+{
+  "tender_id": "121836",
+  "ref_no": "508 date- 20/09/17",
+  "closing_date": "09-Nov-2017 13:30",
+  "opening_date": "09-Nov-2017 13:30",
+  "procuring_entity": "Habiganj O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BWDB/Hobi/HFMLIP/PW-05",
+  "lot_no": "& Construction of New Regulators 4 vent1.50mX1.80m-1 no 1 vent1.50mX1.80m-5 nos and 2 vent1.50mX1.80m-1 no at Mokhar Haor in C/W Haor Flood Management and Livelihood Improvement Project BWDB Part in Upazila- Baniyachong & Nabigang District- Habiganj under Habiganj O&M Division BWDB Habiganj during the year 2017-18 & 2018-19. Package No-BWDB/Hobi/HFMLIP/PW-05",
+  "zone": "Habiganj",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "DAWN-MAMCL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Md. Jamil Iqbal(Sub Contractor/Consultant - View Details)"
+    }
+  ],
+  "estimated_cost": 134000000.0
+}

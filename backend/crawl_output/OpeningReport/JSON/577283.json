@@ -1,0 +1,61 @@
+{
+  "tender_id": "577283",
+  "ref_no": "ET-1/1421 Date 06-05-2021",
+  "closing_date": "14-Jun-2021 12:00",
+  "opening_date": "14-Jun-2021 12:00",
+  "procuring_entity": "Gaibandha O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Gobindi-06/2021-22",
+  "lot_no": "& Bank Protection work along the Right bank of the Jamuna River from Dowel km. 6.470 to dowel km 6.500 & BRE km 83.000 to km 83.220 equal to 250.00 m and D/S end termination 27.45 m at Gobindi in Upazilla: Shaghata , Dist. Gaibandha in connection with the project \" Protection of Katlamari area at Fulchari Upazilla, Gobindi & Holdia area at Shaghata Upazilla from erosion of the Right Bank of Jamuna River in Gaibandha District.\" under Gaibandha O&M Division, BWDB Gaibandha during the year 2020-2021 & 2021-2022.",
+  "zone": "Gaibandha",
+  "bidder_count": 10,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M. M. Builders & Engineers Ltd.-M/S. Rimi Nerman Sangstha JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Khandaker Shahin Ahmed"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. M.A. Enterprise"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 7,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    },
+    {
+      "serial": 8,
+      "name": "SA-TECHBAY (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "UI-ACC JV(JVCA - View Details)"
+    },
+    {
+      "serial": 10,
+      "name": "VCL- BLC JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "SA-TECHBAY (JV)",
+  "award_amount": 218370000.0,
+  "estimated_cost": 242635000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

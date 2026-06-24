@@ -1,0 +1,41 @@
+{
+  "tender_id": "191213",
+  "ref_no": "T-1/4898 dated 23.04.2018",
+  "closing_date": "24-May-2018 12:30",
+  "opening_date": "24-May-2018 12:30",
+  "procuring_entity": "Chittagong O&M Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "e-GP-14/ADP/RPW/Moktarerkum/Sangu/2017-18",
+  "lot_no": "& Bank Protection work on the Left bank of Sangu river at Moktarerkum area of Nalua U.P. from KM 44.437 to KM 45.037 600.00m. in Satkania Upazila under the Project Bank Protection Work of the Sangu and Dalu Rivers in Satkania and Lohagara Upazilas of Chittagong District during the year 2017-18.",
+  "zone": "Chittagong",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "AKA-ALML JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Babar-Ahsan-Zaman (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 5,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 6,
+      "name": "Moshiur Rahman Chowdhury"
+    }
+  ],
+  "estimated_cost": null
+}

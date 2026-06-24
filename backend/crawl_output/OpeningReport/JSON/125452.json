@@ -1,0 +1,53 @@
+{
+  "tender_id": "125452",
+  "ref_no": "Memo No-461 date:05/10/17",
+  "closing_date": "30-Oct-2017 11:30",
+  "opening_date": "30-Oct-2017 11:30",
+  "procuring_entity": "Meghna-Dhonagoda O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "MDIP/OM /W-02/ 2017-18",
+  "lot_no": "& Repair & Maintenance work of irrigation canal dyke & water structure turn out no-16 & 17 in U2 main irrigation canal in between from km 9.00 to km 12.50",
+  "zone": null,
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M.A. Mannan"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Sabura enterprise"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Chowdhury & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Sumon Traders"
+    },
+    {
+      "serial": 6,
+      "name": "MD. AYET ALI"
+    },
+    {
+      "serial": 7,
+      "name": "Md. Monir Hossain"
+    },
+    {
+      "serial": 8,
+      "name": "TANIA & CO."
+    },
+    {
+      "serial": 9,
+      "name": "Techbay International"
+    }
+  ],
+  "estimated_cost": null
+}

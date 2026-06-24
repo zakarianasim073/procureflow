@@ -1,0 +1,37 @@
+{
+  "tender_id": "552230",
+  "ref_no": "Da-1/1186 Date : 07-03-2021",
+  "closing_date": "05-Apr-2021 12:42",
+  "opening_date": "05-Apr-2021 12:42",
+  "procuring_entity": "Moulvibazar O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "MR-PW-48",
+  "lot_no": "& Bank Revetment work along the right bank at ujirpur from km 30.095 to 31.045 950m.in C/W Protection Project at Moulvibazar Sadar Rajnagor & Kulaura Upazilla from erosion of Manu river under Moulvibazar O & M Division BWDB Moulvibazar during the FY 2020-21 & 2021-22",
+  "zone": "Moulvibazar",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M. M. Builders & Engineers Ltd.-M/S. Rimi Nerman Sangstha JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Mominul Hoque"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "UI-ACC JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 164980000.0,
+  "estimated_cost": 176752000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

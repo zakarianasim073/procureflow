@@ -1,0 +1,128 @@
+{
+  "tender_id": "1247958",
+  "ref_no": "WDB/EE/T-12/1547, Date:-29/03/2026",
+  "closing_date": "16-Apr-2026 15:18",
+  "opening_date": "16-Apr-2026 15:18",
+  "procuring_entity": "Sylhet WD Division, BWDB",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "SUR/PW-03",
+  "lot_no": "& Bank Protective work along the Left Bank of Surma River at Atgram from km 29.600 to km 29.900 = 300m in Upazila-Zakiganj",
+  "zone": "Sylhet",
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "B. J. Geo-Textile Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "M/S ISMAIL HOSSAIN"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Jewel Electronics"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 8,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 9,
+      "name": "Techaby-City (JV)(JVCA - View Details)"
+    }
+  ],
+  "price_bid_count": 9,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "155155634.947",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "155155634.947"
+    },
+    {
+      "serial": 2,
+      "name": "M/S ISMAIL HOSSAIN",
+      "quoted_amount": "171345913.714",
+      "discount_pct": "6.991",
+      "discount_amount": "11978792.827",
+      "net_quoted": "159367120.887"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. A. S. Construction",
+      "quoted_amount": "171345913.721",
+      "discount_pct": "6.930",
+      "discount_amount": "11874271.820",
+      "net_quoted": "159471641.901"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Jewel Electronics",
+      "quoted_amount": "159948040.914",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "159948040.914"
+    },
+    {
+      "serial": 5,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "171345913.720",
+      "discount_pct": "6.510",
+      "discount_amount": "11154618.983",
+      "net_quoted": "160191294.737"
+    },
+    {
+      "serial": 6,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "171345913.720",
+      "discount_pct": "6.120",
+      "discount_amount": "10486369.919",
+      "net_quoted": "160859543.801"
+    },
+    {
+      "serial": 7,
+      "name": "Techaby-City (JV)",
+      "quoted_amount": "171345913.714",
+      "discount_pct": "4.990",
+      "discount_amount": "8550161.094",
+      "net_quoted": "162795752.620"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN",
+      "quoted_amount": "171310343.601",
+      "discount_pct": "4.400",
+      "discount_amount": "7537655.118",
+      "net_quoted": "163772688.483"
+    },
+    {
+      "serial": 9,
+      "name": "B. J. Geo-Textile Ltd.",
+      "quoted_amount": "171345913.713",
+      "discount_pct": "1.340",
+      "discount_amount": "2296035.243",
+      "net_quoted": "169049878.470"
+    }
+  ],
+  "estimated_cost": null
+}

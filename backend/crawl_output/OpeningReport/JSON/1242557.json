@@ -1,0 +1,145 @@
+{
+  "tender_id": "1242557",
+  "ref_no": "42.01.1500.567.000.07.0006.26.3655 Dated:08/03/26",
+  "closing_date": "29-Mar-2026 12:00",
+  "opening_date": "29-Mar-2026 12:00",
+  "procuring_entity": "Chattogram WD Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "NDR-44/Patiya/Amilaish/SW/2025-26",
+  "lot_no": "& Strengthening of existing bank protection work along the Sangu River from Km 0.000 to Km 0.100 (=100.00 m) to safeguard Amilaish Village Road in Amilaish Union, Satkania Upazila, Chattogram District in connection with \"Operational Expenditure for Repair and Maintenance of Goods and Services (Economic Code-3258137)\" under Chattogram WD Division-I, BWDB, Chattogram, during the year 2025-2026.",
+  "zone": "Chattogram",
+  "bidder_count": 10,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Alam and Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Babar & Others"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 4,
+      "name": "M/S. BELAL CONSTRUCTION"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 7,
+      "name": "M/s. Omar Enterprise"
+    },
+    {
+      "serial": 8,
+      "name": "Md. Abdul Khalek"
+    },
+    {
+      "serial": 9,
+      "name": "Rabbi Enterprise"
+    },
+    {
+      "serial": 10,
+      "name": "S. Ananta Bikash Tripura Limited"
+    }
+  ],
+  "price_bid_count": 10,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "Md. Abdul Khalek",
+      "quoted_amount": "14399751.139",
+      "discount_pct": "10.800",
+      "discount_amount": "1555173.123",
+      "net_quoted": "12844578.016"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Alam and Brothers",
+      "quoted_amount": "14399747.445",
+      "discount_pct": "10.770",
+      "discount_amount": "1550852.799",
+      "net_quoted": "12848894.646"
+    },
+    {
+      "serial": 3,
+      "name": "M/s. Omar Enterprise",
+      "quoted_amount": "14399747.448",
+      "discount_pct": "10.600",
+      "discount_amount": "1526373.229",
+      "net_quoted": "12873374.219"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Babar & Others",
+      "quoted_amount": "14399735.070",
+      "discount_pct": "10.400",
+      "discount_amount": "1497572.447",
+      "net_quoted": "12902162.623"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "14399751.140",
+      "discount_pct": "9.900",
+      "discount_amount": "1425575.362",
+      "net_quoted": "12974175.778"
+    },
+    {
+      "serial": 6,
+      "name": "Rabbi Enterprise",
+      "quoted_amount": "12981372.319",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "12981372.319"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Amin & Co.",
+      "quoted_amount": "14399747.445",
+      "discount_pct": "8.500",
+      "discount_amount": "1223978.532",
+      "net_quoted": "13175768.913"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Mostafa & Sons",
+      "quoted_amount": "14399751.139",
+      "discount_pct": "7.200",
+      "discount_amount": "1036782.082",
+      "net_quoted": "13362969.057"
+    },
+    {
+      "serial": 9,
+      "name": "S. Ananta Bikash Tripura Limited",
+      "quoted_amount": "13678928.790",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "13678928.790"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. BELAL CONSTRUCTION",
+      "quoted_amount": "14399751.140",
+      "discount_pct": "5.000",
+      "discount_amount": "719987.557",
+      "net_quoted": "13679763.583"
+    }
+  ],
+  "award_winner": "M/S. AMIN & CO.",
+  "award_amount": 13180000.0,
+  "estimated_cost": 14400000.0,
+  "winner_quoted": 14399747.445,
+  "winner_discount": 0.0,
+  "winner_discount_pct": 8.5
+}

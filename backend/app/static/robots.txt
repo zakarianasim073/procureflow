@@ -1,0 +1,4 @@
+# ── Procurement Flow Specialist BD — Robots ──────────────────────────────
+User-agent: *
+Allow: /
+Sitemap: https://procurementflow.com.bd/sitemap.xml

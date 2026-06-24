@@ -1,0 +1,41 @@
+{
+  "tender_id": "156094",
+  "ref_no": "T-19/2018/97 Date: 18-01-2018",
+  "closing_date": "19-Feb-2018 12:10",
+  "opening_date": "19-Feb-2018 12:10",
+  "procuring_entity": "Madaripur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "RKP/BPR-01//2017-18",
+  "lot_no": "& Construction of Boat Pass 1 Vent-3.00 m wide with Regulator 2 Vent- 1.5m X 1.80m over Ramnagor Khal at Km 13.00 of Embankment in Connection with Rajoir-Kotalipara Flood Control Drainage and Irrigation FCDI Project Upazila Kotalipara District Gopalganj under Madaripur O&M Division BWDB Madaripur During the Year 2017-2018 & 2018-2019.",
+  "zone": "Madaripur",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Liton Traders"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Al-Mamun Enterprise LTD"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Amin & Co.-M/s. Farjana Khan-Rana Builders (Pvt.) Ltd.-JVCA (JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "RAB-RC (PVT.) LTD- M/S. SARDAR ENTERPRISE - PTSL MAITREE (PVT) LTD JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. AMIN & CO.-M/S. FARJANA KHAN-RANA BUILDERS (PVT.) LTD.-JVCA",
+  "award_amount": 45190000.0,
+  "estimated_cost": 50206250.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

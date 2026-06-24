@@ -1,0 +1,49 @@
+{
+  "tender_id": "368382",
+  "ref_no": "T-01/3604, Date: 17/10/2019",
+  "closing_date": "24-Nov-2019 11:45",
+  "opening_date": "24-Nov-2019 11:45",
+  "procuring_entity": "Kurigram O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "KURI/ADP/ROWMARI/P-07",
+  "lot_no": "& Bank Revetment Work on Left Bank Brahmaputra River from KM 13.100 to KM 13.600 500.00m at Ghughumari Area in Union-Bondober Upazila- Rowmari District-Kurigram during 2019-2020 & 2020-2021",
+  "zone": "Kurigram",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Saleh Ahmed & M/S. Belal Construction (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "JV MM Builders & Engineers Ltd-Sk Emdadul Haque Al Mamun(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "JV of RBL-PDL(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. BHAWAL CONSTRUCTION"
+    },
+    {
+      "serial": 5,
+      "name": "m/s. Dawn Corporation & Sunflower Construction Ltd JV(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Khandaker Shahin Ahmed"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Md. Jamil Iqbal"
+    }
+  ],
+  "estimated_cost": null
+}

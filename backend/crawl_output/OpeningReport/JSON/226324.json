@@ -1,0 +1,33 @@
+{
+  "tender_id": "226324",
+  "ref_no": "T-2/366, Dated: 19-09-2018",
+  "closing_date": "08-Nov-2018 12:30",
+  "opening_date": "08-Nov-2018 12:30",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "RI-RBP-19",
+  "lot_no": "& Bank Protection work from km. 248.330 to km. 248.500 0.170 km in connection with Bank Protection work against erosion of Meghna river at Rajapur-Ilisha union of Bhola sadar upazilla in Bhola district Under Bhola O&M Division-I BWDB Bhola during the year 2018-2019.",
+  "zone": "Bhola",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "LA-JL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Dawn Corporation and M/s. M.R. Construction (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "Techbay International"
+    }
+  ],
+  "estimated_cost": 121526350.47
+}

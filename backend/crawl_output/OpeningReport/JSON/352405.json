@@ -1,0 +1,21 @@
+{
+  "tender_id": "352405",
+  "ref_no": "T-4/420, Dated: 11-09-2019.",
+  "closing_date": "16-Oct-2019 12:10",
+  "opening_date": "16-Oct-2019 12:10",
+  "procuring_entity": "Kushtia O&M Division",
+  "tender_status": "To be Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "GRDP-W8",
+  "lot_no": "& Excavation of Gorai River by excavator from km. 1.500 to km. 2.950 total 1.450 km in c/w Gorai River Dredging and Bank Protection Project under Kushtia O&M Division BWDB Kushtia during the year 2019-2020.",
+  "zone": "Kushtia",
+  "bidder_count": 1,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": 205103000.0
+}

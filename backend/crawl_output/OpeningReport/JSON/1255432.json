@@ -1,0 +1,44 @@
+{
+  "tender_id": "1255432",
+  "ref_no": "Barguna/MQ-52/690 1Date:21-04-2026",
+  "closing_date": "07-May-2026 12:00",
+  "opening_date": "07-May-2026 12:00",
+  "procuring_entity": "Barguna WD Division",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BTBPW-01/2022-23/Remaining/Lot-01",
+  "lot_no": "& Riverbank protective work at Betagi Pouroshova under Polder 41/7A from km 9.630 to km 9.880 = 0.250 km in connection with \"Rehabilitation of Polder 41/6A, 41/6B & 41/7A and protection of vulnerable portion including Betagi town from the erosion of Bishkhali & Payra river under Barguna District\" under Barguna WD Division, BWDB, Barguna. (Package No. BTBPW-01/2022-23/Remaining/Lot-01)",
+  "zone": "Barguna",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    }
+  ],
+  "price_bid_count": 2,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "154564089.235",
+      "discount_pct": "0.000",
+      "discount_amount": "0.000",
+      "net_quoted": "154564089.235"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN",
+      "quoted_amount": "163522392.690",
+      "discount_pct": "3.500",
+      "discount_amount": "5723283.744",
+      "net_quoted": "157799108.946"
+    }
+  ],
+  "estimated_cost": 163490000.0
+}

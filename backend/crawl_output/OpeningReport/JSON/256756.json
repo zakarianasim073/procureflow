@@ -1,0 +1,53 @@
+{
+  "tender_id": "256756",
+  "ref_no": "T-9/2563 dt-28-11-2018",
+  "closing_date": "24-Dec-2018 12:15",
+  "opening_date": "24-Dec-2018 12:15",
+  "procuring_entity": "Rangpur O&M Division",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Rangpur-W-08/2018-19",
+  "lot_no": "& Re-Excavation Of Burail River From Km. 20.000 To Km. 30.000 10000 m At Uz Pirgacha Dist. Rangpur Under Rangpur O&M Division BWDB Rangpur.",
+  "zone": "Rangpur",
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Khandaker Shahin Ahmed"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Shahid Brothers-Niaz Traders-Noona Traders (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 6,
+      "name": "MD. ANISUR RAHMAN CHOWDHURY - S.M. RASHED HOSSAIN & MD. HARUN-OR- RASHID (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "Md.Shamimur Rahman"
+    },
+    {
+      "serial": 8,
+      "name": "Moshiur Rahman Chowdhury"
+    },
+    {
+      "serial": 9,
+      "name": "SA & RB = JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 45800733.82
+}

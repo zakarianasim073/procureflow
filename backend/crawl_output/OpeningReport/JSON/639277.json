@@ -1,0 +1,45 @@
+{
+  "tender_id": "639277",
+  "ref_no": "T-1/971 Dated:21-12-2021",
+  "closing_date": "20-Jan-2022 13:00",
+  "opening_date": "20-Jan-2022 13:00",
+  "procuring_entity": "Dhaka O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "PW_08/2021-22",
+  "lot_no": "& Protective work at Samurbari village along the left bank of the Padma river from km. 21.155.00 to km. 21.705 = 550.00 m in Louhajong Upazila of Munshiganj District under Dhaka O & M Division-1, BWDB, Dhaka during the Year 2021-2022, 2022-2023.",
+  "zone": "Dhaka",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Khokan Construction & Engineering Ltd"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Tazul Islam(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "SSL - UNNAYAN JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "TTSL-KSAL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "Western Engineering ( Pvt.) Ltd."
+    }
+  ],
+  "award_winner": "WESTERN ENGINEERING ( PVT.) LTD.",
+  "award_amount": 272940000.0,
+  "estimated_cost": 278991000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

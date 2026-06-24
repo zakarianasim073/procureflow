@@ -1,0 +1,33 @@
+{
+  "tender_id": "1003029",
+  "ref_no": "T-2/37, Dated: 10-07-2024",
+  "closing_date": "19-Aug-2024 16:00",
+  "opening_date": "19-Aug-2024 16:00",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BS-DH-RBP-01",
+  "lot_no": "& River bank protection work from km 11.184 to km 11.484 = 0.300 km to protect Dhania union from erosion of the Meghna River at Bhola Sadar upazila in c/w \"Protection of Bhola Sadar Upazila from erosion of the Meghna River\" under Bhola O&M Division-I, BWDB, Bhola.",
+  "zone": "Bhola",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Abul Kalam Azad"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD."
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 276950000.0,
+  "estimated_cost": 282000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

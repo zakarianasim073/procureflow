@@ -1,0 +1,49 @@
+{
+  "tender_id": "611020",
+  "ref_no": "T-2/272, Dated: 21-09-2021",
+  "closing_date": "11-Oct-2021 10:00",
+  "opening_date": "11-Oct-2021 10:00",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "DCP-Bor-RBP-05",
+  "lot_no": "& Bank Protection work from km 44.350 to km 44.450 equal to 0.100 km in connection with \"Protection of Daulatkhan Pourashava, Chokighat and other more vulnerable area from the erosion of the Meghna river in Bhola District\" project under Bhola O&M Division-I, BWDB, Bhola.",
+  "zone": "Bhola",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "B. J. Geo-Textile Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "M/S Abul Kalam Azad"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Mohiuddin Ahmed"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "Md. Eunus Al Mamun"
+    },
+    {
+      "serial": 6,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 7,
+      "name": "TI-AE JVCA(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "TI-AE JVCA",
+  "award_amount": 112410000.0,
+  "estimated_cost": 113600000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

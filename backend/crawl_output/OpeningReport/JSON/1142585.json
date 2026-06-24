@@ -1,0 +1,45 @@
+{
+  "tender_id": "1142585",
+  "ref_no": "42.01.2200.578.07.003.25-1996 Dated: 24/08/2025",
+  "closing_date": "23-Sep-2025 16:00",
+  "opening_date": "23-Sep-2025 16:00",
+  "procuring_entity": "Cox's Bazar WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "COX-MP-W-36.",
+  "lot_no": "& Construction of 1 nos Regulator at Tanigkhali khal 6-vent (1.50m x 1.80m) at polder no-67/A (Ext) in c/w \"Rehabilitation of Polder's (67/A, 67, 67/B & 68) along border river Naf for Improving Bangladesh-Myanmar security at Upazilla Teknaf & Ukhia in Cox's Bazar District (2nd Revised)\" under Cox's Bazar WD Division-1, BWDB, Cox's Bazar during the year 2024-25.",
+  "zone": null,
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dockyard & Engineering Works Limited"
+    },
+    {
+      "serial": 2,
+      "name": "JH-HH JV(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Al-Mamun Enterprise LTD"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "MARCO-NOONA JV(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    }
+  ],
+  "award_winner": "MARCO-NOONA JV",
+  "award_amount": 107140000.0,
+  "estimated_cost": 119050000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

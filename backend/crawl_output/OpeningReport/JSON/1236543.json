@@ -1,0 +1,157 @@
+{
+  "tender_id": "1236543",
+  "ref_no": "42.01.0600.000.112.07.0001.25-2108, Date-26/02/26",
+  "closing_date": "15-Mar-2026 14:00",
+  "opening_date": "15-Mar-2026 14:00",
+  "procuring_entity": "Barishal WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BSL/MHDJ/WD-19",
+  "lot_no": "& River bank protection work of Tetulia river (Right Bank) from Km 5.400 to Km 5.700 = 0.300 Km at Mehendigonj upazila of Barishal district in c/w \"River bank protection work at different location of Mehendigonj upazilla from erosion of Tetulia river in Barishal district\" under Barishal WD Division, BWDB, Barishal.",
+  "zone": "Barishal",
+  "bidder_count": 11,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "B. J. Geo-Textile Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 7,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 8,
+      "name": "MRN MMS JV(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD."
+    },
+    {
+      "serial": 10,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 11,
+      "name": "Unnayan International"
+    }
+  ],
+  "price_bid_count": 11,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "230308146.734",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "230308146.734"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Niaz Traders",
+      "quoted_amount": "256642239.944",
+      "discount_pct": "9.950",
+      "discount_amount": "25535902.874",
+      "net_quoted": "231106337.070"
+    },
+    {
+      "serial": 3,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "233558165.910",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "233558165.910"
+    },
+    {
+      "serial": 4,
+      "name": "Unnayan International",
+      "quoted_amount": "256648122.770",
+      "discount_pct": "8.630",
+      "discount_amount": "22148732.995",
+      "net_quoted": "234499389.775"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. A. S. Construction",
+      "quoted_amount": "256648122.770",
+      "discount_pct": "8.550",
+      "discount_amount": "21943414.496",
+      "net_quoted": "234704708.274"
+    },
+    {
+      "serial": 6,
+      "name": "B. J. Geo-Textile Ltd.",
+      "quoted_amount": "256660327.992",
+      "discount_pct": "8.500",
+      "discount_amount": "21816127.879",
+      "net_quoted": "234844200.113"
+    },
+    {
+      "serial": 7,
+      "name": "Noona Traders",
+      "quoted_amount": "256642239.952",
+      "discount_pct": "8.450",
+      "discount_amount": "21686269.275",
+      "net_quoted": "234955970.677"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Amir Engineering Corporation",
+      "quoted_amount": "235335164.000",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "235335164.000"
+    },
+    {
+      "serial": 9,
+      "name": "MRN MMS JV",
+      "quoted_amount": "235839361.441",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "235839361.441"
+    },
+    {
+      "serial": 10,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "256648122.770",
+      "discount_pct": "8.050",
+      "discount_amount": "20660173.882",
+      "net_quoted": "235987948.888"
+    },
+    {
+      "serial": 11,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD.",
+      "quoted_amount": "237638174.250",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "237638174.250"
+    }
+  ],
+  "award_winner": "UNNAYAN INTERNATIONAL",
+  "award_amount": 234500000.0,
+  "estimated_cost": 256648122.77,
+  "winner_quoted": 256648122.77,
+  "winner_discount": 0.0,
+  "winner_discount_pct": 8.63
+}

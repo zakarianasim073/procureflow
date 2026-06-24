@@ -1,0 +1,37 @@
+{
+  "tender_id": "408395",
+  "ref_no": "T-1/1152, Dated: 02-01-2019",
+  "closing_date": "03-Feb-2020 13:00",
+  "opening_date": "03-Feb-2020 13:00",
+  "procuring_entity": "Bhola O&M Division-2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "TRBW-15-L3/2019-2020",
+  "lot_no": "& Slope Protection and River Bank Protective Work at Tajumuddin Upazilla sadar along the Meghna River from Km. 58.400 to Km. 58.600 in total 0.200 Km in Polder 56/57 during the year 2019-2020.Package No TRBW-15-L3/2019-2020.",
+  "zone": "Bhola",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "NATIONTECH COMMUNICATIONS LTD(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "NIAZ-NOONA JV. (JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "SSRI-VC (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "Western Engineering ( Pvt.) Ltd."
+    }
+  ],
+  "estimated_cost": null
+}

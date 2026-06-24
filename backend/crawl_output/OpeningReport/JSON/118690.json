@@ -1,0 +1,45 @@
+{
+  "tender_id": "118690",
+  "ref_no": "EE/WDB/Chapai/Da-2/1288; Date: 05-09-2017",
+  "closing_date": "05-Oct-2017 12:00",
+  "opening_date": "05-Oct-2017 12:00",
+  "procuring_entity": "Nawabganj O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "WP-23..",
+  "lot_no": "& New bank revetment work on the left bank of the Padma River from M.1350.00 To M.1650.00 300.00m. and 6 Six Nos. stair/ghat at different places of project area in connection with Protection of Alatuli area of Chapai Nawabganj district from the erosion of the Padma River project under Nawabganj O&M Division BWDB Chapai Nawabganj during FY 2017 -2018.",
+  "zone": "Nawabganj",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dolly Construction Ltd-Infratech (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S A.B. Construction"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "Niaz-Noona-BC JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "Unnayan International"
+    },
+    {
+      "serial": 6,
+      "name": "Western Engineering (Pvt.) Ltd.-M/S Khondoker Construction-Moshiur Rahman Chowdhury (Joint Venture)(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "UNNAYAN INTERNATIONAL",
+  "award_amount": 77000000.0,
+  "estimated_cost": 85559838.97,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

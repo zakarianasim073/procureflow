@@ -1,0 +1,25 @@
+{
+  "tender_id": "151162",
+  "ref_no": "APP ID: 77473",
+  "closing_date": "06-Mar-2018 15:00",
+  "opening_date": "06-Mar-2018 15:00",
+  "procuring_entity": "Office of the Executive Engineer, LGED, Naogaon",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Local Government, Rural Development and Co-operatives",
+  "agency_name": "Local Government Engineering Department (LGED)",
+  "package_no": "TULO/NAO/W-04",
+  "lot_no": "& a Construction of 1one storied Naogaon Poura Bhumi Office Building with 2two storied foundationwith 133m Boundary Wall b Construction of 1one storied Kirtipur Borshail Bhumi Office Building with 2 two storied foundation with 160m Boundary Wall & c Construction of 1one storied Dubalhati-Shikarpur Bhumi Office Building with 2two storied foundationwith 129m Boundary Wall in Naogaon-S Upazila of Naogaon District under Construction of Town and Union Land office across the Country Project. Naogaon-S",
+  "zone": "Naogaon",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dhrubo Construction Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": null
+}

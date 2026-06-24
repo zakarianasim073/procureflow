@@ -1,0 +1,205 @@
+{
+  "tender_id": "1236541",
+  "ref_no": "42.01.0600.000.112.07.0001.25-2116, Date-26/02/26",
+  "closing_date": "15-Mar-2026 14:00",
+  "opening_date": "15-Mar-2026 14:00",
+  "procuring_entity": "Barishal WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BSL/MHDJ/WD-27",
+  "lot_no": "& River bank protection work of Sultania Khal (Right Bank) from Km 1.500 to Km 2.000 = 0.500 Km at Mehendigonj upazila of Barishal district in c/w \"River bank protection work at different location of Mehendigonj upazilla from erosion of Tetulia river in Barishal district\" under Barishal WD Division, BWDB, Barishal.",
+  "zone": "Barishal",
+  "bidder_count": 15,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "B. J. Geo-Textile Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "M/S. A. S. Construction"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Md. Jamil Iqbal"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Shahid Brothers-SADIKA AFIA SIMI JV(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 10,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 11,
+      "name": "MRN MMS JV(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 12,
+      "name": "Nabarun Traders Limited"
+    },
+    {
+      "serial": 13,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD."
+    },
+    {
+      "serial": 14,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 15,
+      "name": "Unnayan International"
+    }
+  ],
+  "price_bid_count": 15,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "205126529.217",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "205126529.217"
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "228570987.950",
+      "discount_pct": "9.400",
+      "discount_amount": "21485672.867",
+      "net_quoted": "207085315.083"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Niaz Traders",
+      "quoted_amount": "228564650.963",
+      "discount_pct": "9.270",
+      "discount_amount": "21187943.144",
+      "net_quoted": "207376707.819"
+    },
+    {
+      "serial": 4,
+      "name": "Noona Traders",
+      "quoted_amount": "228567650.963",
+      "discount_pct": "8.850",
+      "discount_amount": "20228237.110",
+      "net_quoted": "208339413.853"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Amir Engineering Corporation",
+      "quoted_amount": "208349889.200",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "208349889.200"
+    },
+    {
+      "serial": 6,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "228570987.936",
+      "discount_pct": "8.770",
+      "discount_amount": "20045675.641",
+      "net_quoted": "208525312.295"
+    },
+    {
+      "serial": 7,
+      "name": "Unnayan International",
+      "quoted_amount": "228570987.942",
+      "discount_pct": "8.620",
+      "discount_amount": "19702819.160",
+      "net_quoted": "208868168.782"
+    },
+    {
+      "serial": 8,
+      "name": "B. J. Geo-Textile Ltd.",
+      "quoted_amount": "228571064.284",
+      "discount_pct": "8.500",
+      "discount_amount": "19428540.464",
+      "net_quoted": "209142523.820"
+    },
+    {
+      "serial": 9,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "209250926.600",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "209250926.600"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. Md. Jamil Iqbal",
+      "quoted_amount": "210162902.700",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "210162902.700"
+    },
+    {
+      "serial": 11,
+      "name": "MRN MMS JV",
+      "quoted_amount": "210523910.735",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "210523910.735"
+    },
+    {
+      "serial": 12,
+      "name": "M/S. A. S. Construction",
+      "quoted_amount": "228570987.950",
+      "discount_pct": "7.820",
+      "discount_amount": "17874251.257",
+      "net_quoted": "210696736.693"
+    },
+    {
+      "serial": 13,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD.",
+      "quoted_amount": "212891241.400",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "212891241.400"
+    },
+    {
+      "serial": 14,
+      "name": "M/S. Shahid Brothers-SADIKA AFIA SIMI JV",
+      "quoted_amount": "213828159.227",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "213828159.227"
+    },
+    {
+      "serial": 15,
+      "name": "Nabarun Traders Limited",
+      "quoted_amount": "218155600.400",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "218155600.400"
+    }
+  ],
+  "award_winner": "B. J. GEO-TEXTILE LTD.",
+  "award_amount": 209140000.00000003,
+  "estimated_cost": 228570987.95,
+  "winner_quoted": 228571064.284,
+  "winner_discount": -0.0,
+  "winner_discount_pct": 8.5
+}

@@ -1,0 +1,37 @@
+{
+  "tender_id": "143369",
+  "ref_no": "TD/NR/1903 Dt:26/11/17",
+  "closing_date": "14-Dec-2017 13:10",
+  "opening_date": "14-Dec-2017 13:10",
+  "procuring_entity": "Narsingdi O&M Division",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "eGP/NR/Bangnir khal/4",
+  "lot_no": "& Re-excavation of Bangnir khal from km 0.000 to km 0.8400.840km.& Branch khal from km 0.000 to km 0.3300.330 at Upazilla Belabo Dist Narsingdi in connection with Non-Development Revenue Budget under Narsingdi O&M Division BWDB Narsingdi during the year 2017-2018.",
+  "zone": "Narsingdi",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Asif Enterprise"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/s. Hossain Enterprise"
+    },
+    {
+      "serial": 4,
+      "name": "Md. Shamim Ahsan"
+    },
+    {
+      "serial": 5,
+      "name": "Noona Traders"
+    }
+  ],
+  "estimated_cost": 1485028.66
+}

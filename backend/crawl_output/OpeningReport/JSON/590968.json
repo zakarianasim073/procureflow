@@ -1,0 +1,73 @@
+{
+  "tender_id": "590968",
+  "ref_no": "2405 Date- 24/06/2021",
+  "closing_date": "09-Aug-2021 14:30",
+  "opening_date": "09-Aug-2021 14:30",
+  "procuring_entity": "Jashore O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Jess/W2/20-21",
+  "lot_no": "& Re-excavation of Upper Bhairab river from km 18.00 to km 23.000 total 5.000 km in C/W \u00e2??Drainage Improvement and sustainable water management of Bhairab River Basin\u00e2?? project (1st Revised), under Jashore O&M Division, BWDB, Jashore during the year 2020-21.",
+  "zone": "Jashore",
+  "bidder_count": 13,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Al-mamun enterprise ltd. & Mollah Shorower Morshed (Mukta) JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "BBL-BTC JV(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "LIAQUAT ALI & SONS LIMITED AND HAIDER CONSTRUCTION (PVT) LTD (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Saleh Ahmed"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. JAKAULLAH & BROTHERS (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. KHANDAKER SHAHIN AHMED & M/S. IBRAHIM TRADERS JV(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "NUM-NATURAL (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 10,
+      "name": "NZK-DAWN JV(JVCA - View Details)"
+    },
+    {
+      "serial": 11,
+      "name": "Shekh Emdadul Hauqe Al Mamun"
+    },
+    {
+      "serial": 12,
+      "name": "TAJWAR TRADE SYSTEMS LIMITED"
+    },
+    {
+      "serial": 13,
+      "name": "Unnayan-Brothers (JV)(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. AMIN & CO.",
+  "award_amount": 66400000.0,
+  "estimated_cost": 73782000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

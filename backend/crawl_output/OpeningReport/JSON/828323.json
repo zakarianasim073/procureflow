@@ -1,0 +1,45 @@
+{
+  "tender_id": "828323",
+  "ref_no": "Barguna/MQ-52/1169, Date: 09-05-2023",
+  "closing_date": "15-Jun-2023 13:00",
+  "opening_date": "15-Jun-2023 13:00",
+  "procuring_entity": "Barguna O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "ATBPW-15/2022-23",
+  "lot_no": "& Slope protection of embankment and riverbank protective work at Poshurbunia under Polder 44B from Km 21.000 to Km 21.300 Total 0.300 Km Under \"Rehabilitation of Polder 43/1 and 44B and protection of vulnerable portion from erosion of the Payra river under Barguna District\" project under Barguna O&M Division, BWDB, Barguna during the year 2022-23.",
+  "zone": "Barguna",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dockyard & Engineering Works Limited(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "KHANDAKER SHAHIN-STANDARD (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M. M. Builders & Engineers Ltd.-M/S. Amir Engineering Corporation (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Mohiuddin Ahmed"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.(Sub Contractor/Consultant - View Details)"
+    }
+  ],
+  "award_winner": "KHANDAKER SHAHIN-STANDARD (JV)",
+  "award_amount": 343070000.0,
+  "estimated_cost": 357800000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

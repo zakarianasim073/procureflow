@@ -1,0 +1,145 @@
+{
+  "tender_id": "1205394",
+  "ref_no": "T-2/785, Dated:30-12-25",
+  "closing_date": "19-Jan-2026 15:50",
+  "opening_date": "19-Jan-2026 15:50",
+  "procuring_entity": "Bhola WD Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "NDR/BHL-1/25-26/W-11",
+  "lot_no": "& Precautionary River Bank Protection Work along the Right Bank of Meghna River from km 15.185 to km 15.450 = 265.00 m at Shibpur area in Bhola sadar upazila under Bhola WD Division-I, BWDB, Bhola during the year 2025-2026.",
+  "zone": "Bhola",
+  "bidder_count": 10,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Goodman Enterprise"
+    },
+    {
+      "serial": 2,
+      "name": "M/S SAGAR ENTERPRISE"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Kohinoor Enterprise - M/S. Eli Enterprise (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. MYSHA TRADERS"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 7,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 8,
+      "name": "MGNE-MSE JV(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 10,
+      "name": "SE-MOU(JVCA - View Details)"
+    }
+  ],
+  "price_bid_count": 10,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "31885593.600",
+      "discount_pct": "12.000",
+      "discount_amount": "3826271.232",
+      "net_quoted": "28059322.368"
+    },
+    {
+      "serial": 2,
+      "name": "M/S SAGAR ENTERPRISE",
+      "quoted_amount": "31885594.100",
+      "discount_pct": "10.000",
+      "discount_amount": "3188559.410",
+      "net_quoted": "28697034.690"
+    },
+    {
+      "serial": 3,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "31885593.600",
+      "discount_pct": "9.350",
+      "discount_amount": "2981303.001",
+      "net_quoted": "28904290.599"
+    },
+    {
+      "serial": 4,
+      "name": "MGNE-MSE JV",
+      "quoted_amount": "31885006.100",
+      "discount_pct": "9.100",
+      "discount_amount": "2901535.555",
+      "net_quoted": "28983470.545"
+    },
+    {
+      "serial": 5,
+      "name": "SE-MOU",
+      "quoted_amount": "31885593.600",
+      "discount_pct": "8.450",
+      "discount_amount": "2694332.659",
+      "net_quoted": "29191260.941"
+    },
+    {
+      "serial": 6,
+      "name": "M/S Goodman Enterprise",
+      "quoted_amount": "31885593.600",
+      "discount_pct": "7.350",
+      "discount_amount": "2343591.129",
+      "net_quoted": "29542002.471"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Kohinoor Enterprise - M/S. Eli Enterprise (JV)",
+      "quoted_amount": "31900059.830",
+      "discount_pct": "6.170",
+      "discount_amount": "1968233.691",
+      "net_quoted": "29931826.139"
+    },
+    {
+      "serial": 8,
+      "name": "Noona Traders",
+      "quoted_amount": "31199996.545",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "31199996.545"
+    },
+    {
+      "serial": 9,
+      "name": "M/S. Niaz Traders",
+      "quoted_amount": "31499998.345",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "31499998.345"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. MYSHA TRADERS",
+      "quoted_amount": "31600037.935",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "31600037.935"
+    }
+  ],
+  "award_winner": "M/S GOODMAN ENTERPRISE",
+  "award_amount": 29540000.0,
+  "estimated_cost": 31900000.0,
+  "winner_quoted": 31885593.6,
+  "winner_discount": 0.05,
+  "winner_discount_pct": 7.35
+}

@@ -1,0 +1,81 @@
+{
+  "tender_id": "1290886",
+  "tender_info": {
+    "tender_id": "",
+    "invitation_ref": "",
+    "title": "",
+    "work_name": "",
+    "ministry": "",
+    "organization": "",
+    "procuring_entity": "",
+    "procuring_entity_district": "",
+    "division": "",
+    "procurement_method": "",
+    "package_no": "",
+    "project_code": "",
+    "project_name": "",
+    "closing_date": "",
+    "opening_date": "",
+    "publication_date": "",
+    "last_selling_date": "",
+    "estimated_cost": "",
+    "tender_security": "33.1 In",
+    "work_period_start": "",
+    "work_period_end": "",
+    "financial": {},
+    "eligibility": {},
+    "officials": {}
+  },
+  "filled_fields": {},
+  "validation_reports": {},
+  "uploaded_files": {
+    "notice": "uploads\\1290886\\notice.pdf",
+    "boq": "uploads\\1290886\\boq.pdf"
+  },
+  "artifacts": [
+    {
+      "kind": "pdf_text_docx",
+      "path": "outputs\\1290886\\NOTICE_TextExtract_1290886.docx",
+      "filename": "NOTICE_TextExtract_1290886.docx"
+    },
+    {
+      "kind": "pdf_text_docx",
+      "path": "outputs\\1290886\\BOQ_TextExtract_1290886.docx",
+      "filename": "BOQ_TextExtract_1290886.docx"
+    },
+    {
+      "kind": "excel",
+      "path": "runtime\\1290886\\BOQ_Analysis_1290886.xlsx",
+      "filename": "BOQ_Analysis_1290886.xlsx"
+    },
+    {
+      "kind": "docx",
+      "path": "runtime\\1290886\\BOQ_Analysis_1290886.docx",
+      "filename": "BOQ_Analysis_1290886.docx"
+    },
+    {
+      "kind": "workplan",
+      "path": "outputs\\1290886\\WorkPlan_1290886.xlsx",
+      "filename": "WorkPlan_1290886.xlsx"
+    }
+  ],
+  "comparison": {
+    "success": true,
+    "data": [],
+    "summary": {
+      "by_work_type": [],
+      "total_sor": 0.0,
+      "total_quoted": 0.0,
+      "discount_pct": 0
+    },
+    "flagged": [],
+    "excel_path": "runtime\\1290886\\BOQ_Analysis_1290886.xlsx",
+    "docx_path": "runtime\\1290886\\BOQ_Analysis_1290886.docx",
+    "tenderai_dir": "runtime\\1290886",
+    "total_items": 0,
+    "mismatches": 0,
+    "variances": 0,
+    "matches": 0,
+    "below_sor": 0
+  }
+}

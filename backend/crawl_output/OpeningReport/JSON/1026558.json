@@ -1,0 +1,41 @@
+{
+  "tender_id": "1026558",
+  "ref_no": "42.01.1500.582.07.020.24.1488, Date: 16-10-2024",
+  "closing_date": "14-Nov-2024 16:00",
+  "opening_date": "14-Nov-2024 16:00",
+  "procuring_entity": "Chattogram WD Division -2",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "CTG-2/ W-B-06",
+  "lot_no": "& Strengthening Work of Sea dyke from KM 105.400 to KM 105.900= 500.00 m at Polder no-64/1A, Moulavi Para Kadamrasul-Premasia, Union: Khankhanabad, Upazila: Banskhali, Dist: Chattogram in c/w \"Sustainable Water Management Project at Banshkhali and Anwara Upazila in South Chattogram (1st Phase)\" under Chattogram WD Division-2, BWDB, Chattogram during FY 2024-25.",
+  "zone": "Chattogram",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "KHANDAKER SHAHIN AHMED LIMITED - M/S. Md. Jamil Iqbal (KSAL-JI JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S K.K. Enterprise-S. Ananta Bikash Tripura Limited (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "Property-Western JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "Taher Brothers Ltd. - Mohammed Eunus & Brothers (Pvt.) Ltd. JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "PROPERTY-WESTERN JV",
+  "award_amount": 548330000.0,
+  "estimated_cost": 597600000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

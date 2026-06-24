@@ -1,0 +1,37 @@
+{
+  "tender_id": "359349",
+  "ref_no": "T-5/373;Date-17-09-2019",
+  "closing_date": "28-Oct-2019 11:00",
+  "opening_date": "28-Oct-2019 11:00",
+  "procuring_entity": "Bogra O&M Division",
+  "tender_status": "Rejected",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "PWB-25",
+  "lot_no": "& Bank protection work along the Left/Right Bank of Bangali River at Satbaki Nichintopur & Holidaboga in Sonatola Upazila of Total Length of 1.750 km in Bogura District in C/W with Dredging/Re-excavation of Bangali-Karotoa-Fuljor-Hurasagor River System & Bank protection Project under Bogura O&M Division BWDB Bogura During the year 2019-20 to 2021-22.",
+  "zone": "Bogra",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dolly Construction Ltd."
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "MBEL-SA JV(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "TI-Imdadul Haque JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "Unnayan-Goodman JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 285789350.0
+}

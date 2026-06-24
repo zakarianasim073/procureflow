@@ -1,0 +1,29 @@
+{
+  "tender_id": "183588",
+  "ref_no": "EE/WDB/Chapai/Da-2/523; Date: 05-04-2018",
+  "closing_date": "23-Apr-2018 13:00",
+  "opening_date": "23-Apr-2018 13:00",
+  "procuring_entity": "Nawabganj O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "NDR/07.",
+  "lot_no": "& Precautionary Protective Work on the right bank of the River Mahananda in between Km. 40.450 to Km 40.480 equal to 30 M at Ranibari Chadpur Kumarpara in connection with Morichar dara Sub-project at Shibganj Upazila under Nawabganj O&M Division BWDB Chapai Nawabganj during the FY 2017-2018.",
+  "zone": "Nawabganj",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "Unnayan International"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 2720000.0000000005,
+  "estimated_cost": 3018000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

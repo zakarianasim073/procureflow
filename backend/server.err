@@ -1,0 +1,139 @@
+INFO:     Will watch for changes in these directories: ['D:\\A1\\procurementflow_final_v3\\procurementflow\\backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [46616] using WatchFiles
+INFO:     Started server process [31420]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2026-06-13 16:23:03,001 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:08,100 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:10,902 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:11,283 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:11,642 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:12,663 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:13,031 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:13,393 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:18,077 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:23,120 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:28,378 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:32,920 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:33,291 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:33,683 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:34,496 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:34,853 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:39,034 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:39,951 [DEBUG] watchfiles.main: 2 changes detected: {(<Change.added: 1>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server_out.log'), (<Change.added: 1>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server_err.log')}
+2026-06-13 16:23:45,565 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:50,055 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server_err.log')}
+2026-06-13 16:23:50,452 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:23:55,416 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:00,323 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:00,691 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:01,249 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:01,607 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:02,379 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:02,741 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:07,133 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:08,699 [DEBUG] watchfiles.main: 2 changes detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server_out.log'), (<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server_err.log')}
+2026-06-13 16:24:13,114 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:16,806 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server_err.log')}
+2026-06-13 16:24:18,572 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:22,785 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:26,983 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:28,060 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:28,417 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:32,731 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:33,099 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:33,454 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:38,167 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:40,948 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:41,300 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:41,661 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:42,021 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:42,738 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:43,102 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:43,616 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:47,096 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:47,451 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:47,807 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:48,196 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:48,859 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:49,224 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:54,010 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:55,071 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:55,441 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:55,799 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:56,610 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:24:56,968 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:25:00,968 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:25:01,635 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:25:02,004 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:25:02,364 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:25:03,185 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:25:03,548 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:25:08,159 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:25:13,004 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:25:17,990 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:25:21,476 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\app\\models\\intelligence.py')}
+WARNING:  WatchFiles detected changes in 'app\models\intelligence.py'. Reloading...
+Skipping legacy file D:\A1\procurementflow_final_v3\procurementflow\backend\runtime\knowledge\app\structure.json: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.StringDataRightTruncationError'>: value too long for type character varying(50)
+[SQL: INSERT INTO app_records (procurement_tender_id, source_tender_id, title, estimated_cost_bdt, status, published_date, deadline, financial_year, app_code, category, created_at, updated_at, id) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::FLOAT, $5::VARCHAR, $6::VARCHAR, $7::VARCHAR, $8::VARCHAR, $9::VARCHAR, $10::VARCHAR, $11::TIMESTAMP WITHOUT TIME ZONE, $12::TIMESTAMP WITHOUT TIME ZONE, $13::VARCHAR)]
+[parameters: ('87eb0e6f-e368-4df3-a88a-7f2b2ae19b4e', '1.NBSPHANDRESTCOVERFORCHINANON-ACCOACHESASPERSAMPLE', None, 21.0, 'Live', None, '21-Jun-202', None, None, '', datetime.datetime(2026, 6, 13, 10, 25, 21, 754429), datetime.datetime(2026, 6, 13, 10, 25, 21, 754429), '722f995e-4d0c-4120-9537-a81d9fa07cef')]
+(Background on this error at: https://sqlalche.me/e/20/dbapi)
+\u274c Legacy JSON sync failed
+Traceback (most recent call last):
+  File "D:\A1\procurementflow_final_v3\procurementflow\backend\app\main.py", line 82, in _run_legacy_json_sync
+    summary = await IntelligenceDataService(session).import_existing_json_data(progress=progress)
+  File "D:\A1\procurementflow_final_v3\procurementflow\backend\app\services\intelligence_data_service.py", line 306, in import_existing_json_data
+    await self.db.commit()
+  File "C:\Users\znasi\AppData\Roaming\Python\Python310\site-packages\sqlalchemy\ext\asyncio\session.py", line 1009, in commit
+    await greenlet_spawn(self.sync_session.commit)
+  File "C:\Users\znasi\AppData\Roaming\Python\Python310\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 190, in greenlet_spawn
+    result = context.switch(*args, **kwargs)
+  File "C:\Users\znasi\AppData\Roaming\Python\Python310\site-packages\sqlalchemy\orm\session.py", line 2028, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "C:\Users\znasi\AppData\Roaming\Python\Python310\site-packages\sqlalchemy\orm\state_changes.py", line 103, in _go
+    self._raise_for_prerequisite_state(fn.__name__, current_state)
+  File "C:\Users\znasi\AppData\Roaming\Python\Python310\site-packages\sqlalchemy\orm\session.py", line 973, in _raise_for_prerequisite_state
+    raise sa_exc.PendingRollbackError(
+sqlalchemy.exc.PendingRollbackError: This Session's transaction has been rolled back due to a previous exception during flush. To begin a new transaction with this Session, first issue Session.rollback(). Original exception was: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.StringDataRightTruncationError'>: value too long for type character varying(50)
+[SQL: INSERT INTO app_records (procurement_tender_id, source_tender_id, title, estimated_cost_bdt, status, published_date, deadline, financial_year, app_code, category, created_at, updated_at, id) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::FLOAT, $5::VARCHAR, $6::VARCHAR, $7::VARCHAR, $8::VARCHAR, $9::VARCHAR, $10::VARCHAR, $11::TIMESTAMP WITHOUT TIME ZONE, $12::TIMESTAMP WITHOUT TIME ZONE, $13::VARCHAR)]
+[parameters: ('87eb0e6f-e368-4df3-a88a-7f2b2ae19b4e', '1.NBSPHANDRESTCOVERFORCHINANON-ACCOACHESASPERSAMPLE', None, 21.0, 'Live', None, '21-Jun-202', None, None, '', datetime.datetime(2026, 6, 13, 10, 25, 21, 754429), datetime.datetime(2026, 6, 13, 10, 25, 21, 754429), '722f995e-4d0c-4120-9537-a81d9fa07cef')]
+(Background on this error at: https://sqlalche.me/e/20/dbapi) (Background on this error at: https://sqlalche.me/e/20/7s2a)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [31420]
+2026-06-13 16:27:56,274 [DEBUG] watchfiles.main: 8 changes detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\app\\models\\__pycache__'), (<Change.deleted: 3>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\app\\models\\__pycache__\\intelligence.cpython-310.pyc'), (<Change.deleted: 3>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\app\\models\\__pycache__\\intelligence.cpython-310.pyc.1771526426096'), (<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server_err.log'), (<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err'), (<Change.added: 1>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\app\\models\\__pycache__\\intelligence.cpython-310.pyc'), (<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server_out.log'), (<Change.added: 1>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\app\\models\\__pycache__\\intelligence.cpython-310.pyc.1771526426096')}
+2026-06-13 16:27:56,637 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:27:56,994 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:27:57,654 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:27:58,012 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+INFO:     Started server process [21644]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2026-06-13 16:28:02,206 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:03,833 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:04,193 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:04,561 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:05,630 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:05,984 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:10,222 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:15,120 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:17,653 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:18,004 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:18,365 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:18,733 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:19,714 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:20,082 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:20,545 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:25,038 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:29,979 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:30,447 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:30,812 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:31,174 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:31,932 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:32,296 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}
+2026-06-13 16:28:36,976 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'D:\\A1\\procurementflow_final_v3\\procurementflow\\backend\\server.err')}

@@ -1,0 +1,49 @@
+{
+  "tender_id": "148358",
+  "ref_no": "1895, Date: 17/01/2018",
+  "closing_date": "12-Feb-2018 12:00",
+  "opening_date": "12-Feb-2018 12:00",
+  "procuring_entity": "Sylhet O&M Division, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "KB-Syl-W-34/2017-18",
+  "lot_no": "& Construction of 6-vent 1.50mX1.80m Flushing cum Drainage Regulator at km 32.000 of sub-mergible embankment over Bordolkara Khal of Kushiyara Bardol Haor under Pre-Monsoon flood protection and drainage improvement in haor areas 2nd revised in Upazila- Beanibazar Dist-Sylhet under Sylhet O&M Division BWDB Sylhet during the year 2017-2018.",
+  "zone": "Sylhet",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Abul Kalam Azad"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Janmabumi Nirmata, Ohiduzzaman Chowdhury & The Nirmitee (JON) JV(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Md. Jamil Iqbal"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Mohiuddin Ahmed & Md. Kamal Hossain (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Nimmi & Mumu Construction"
+    },
+    {
+      "serial": 7,
+      "name": "NIAZ-NOONA-RE JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S JANMABUMI NIRMATA, OHIDUZZAMAN CHOWDHURY & THE NIRMITEE (JON) JV",
+  "award_amount": 40039999.99999999,
+  "estimated_cost": 43320000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

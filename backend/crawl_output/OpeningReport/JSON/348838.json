@@ -1,0 +1,73 @@
+{
+  "tender_id": "348838",
+  "ref_no": "T-1/1308, Date-07/08/2019",
+  "closing_date": "09-Sep-2019 12:20",
+  "opening_date": "09-Sep-2019 12:20",
+  "procuring_entity": "Panchgarh O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BR-Pan-07",
+  "lot_no": "& Bank Protection of Korotoya River at Dangapara near segment -A to protect Mainaguri BGB BOP & Border Inspection Road Mainaguri to Mirgarh from Km. 12.226 to km.12.876 650 m in Upazila Tentulia dist. Panchagarh under Panchagarh O&M Division.",
+  "zone": "Panchgarh",
+  "bidder_count": 14,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Jewel Electronics-M/S Rupantor (JV) (JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Dolly Construction Ltd."
+    },
+    {
+      "serial": 3,
+      "name": "Goodman-M.Rahman (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/s. Farjana Khan-Rana Builders (Pvt.) Ltd.-M/S. Amin & Co.(JVCA)(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. M.A. Enterprise"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Shahid Brothers"
+    },
+    {
+      "serial": 9,
+      "name": "Md. Hasibul Hasan (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 10,
+      "name": "Md.Shamimur Rahman-Md. Jamal Hossain JV(JVCA - View Details)"
+    },
+    {
+      "serial": 11,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 12,
+      "name": "PVL- TI (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 13,
+      "name": "S. S. Engineering & Construction Ltd."
+    },
+    {
+      "serial": 14,
+      "name": "SA-RB-JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

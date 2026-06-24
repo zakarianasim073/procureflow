@@ -1,0 +1,45 @@
+{
+  "tender_id": "137168",
+  "ref_no": "Memo No-708 dt.13-11-2017",
+  "closing_date": "29-Nov-2017 12:00",
+  "opening_date": "29-Nov-2017 12:00",
+  "procuring_entity": "Meghna-Dhonagoda O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "MDIP/OM/W-14/ 17-18",
+  "lot_no": "& Re-sectioning of Embankment from Km 23.630 to Km 24.000 & Km 24.714 to Km 24.880 in total 536 m of Meghna-Dhonagoda Flood Control Embankment as per design & specifications under Meghna-Dhonagoda O&M Division during the year 2017-2018.",
+  "zone": null,
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Progati Traders"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Udayan Builders"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Chowdhury & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 6,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 7,
+      "name": "Techbay International"
+    }
+  ],
+  "estimated_cost": null
+}

@@ -1,0 +1,45 @@
+{
+  "tender_id": "107792",
+  "ref_no": "T-2/2234, Dated: 06-06-2017",
+  "closing_date": "17-Jul-2017 14:00",
+  "opening_date": "17-Jul-2017 14:00",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Dau-RBP-02",
+  "lot_no": "& Bank Revetment work from km 30.116 to km 30.770 = 0.654 km in connection with ''Protection of Embankment (from km 29.462 to km 39.000) of Polder No. 56/57 from Erosion of the Meghna River at Daulatkhan & Borhanuddin Upazila in Bhola District'' under Bhola O&M Division-1, BWDB, Bhola during the year 2016-2017",
+  "zone": "Bhola",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "BCCL-BCEL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Dolly Construction Ltd-Infratech (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "Md. Liaquat Ali"
+    },
+    {
+      "serial": 5,
+      "name": "Moshiur Rahman Chowdhury & M/S Paradise Traders (Joint Venture)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "S. S. Engineering & Construction Ltd."
+    }
+  ],
+  "award_winner": "MOSHIUR RAHMAN CHOWDHURY & M/S PARADISE TRADERS (JOINT VENTURE)",
+  "award_amount": 311530000.0,
+  "estimated_cost": 484277504.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

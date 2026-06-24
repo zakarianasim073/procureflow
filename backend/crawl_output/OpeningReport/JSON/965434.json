@@ -1,0 +1,61 @@
+{
+  "tender_id": "965434",
+  "ref_no": "T-2/3441; 08/04/2024",
+  "closing_date": "16-May-2024 12:00",
+  "opening_date": "16-May-2024 12:00",
+  "procuring_entity": "Shariatpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Zajira/RBP-21",
+  "lot_no": "& Protective Work along the Right Bank of Padma River from Km (-)15.660 to Km (-)16.000=0.340Km and U/S End Termination(Lengh=154m) at Barokandi Area in Zajira Upazila of Shariatpur District under Shariatpur O&M Division, BWDB, Shariatpur.",
+  "zone": "Shariatpur",
+  "bidder_count": 10,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "AS-RC-JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "JV TAZUL-SEHA(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M. M. Builders & Engineers Ltd."
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "MRE-MRN (JV)(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "PROPERTY DEVELOPMENT LIMITED"
+    },
+    {
+      "serial": 9,
+      "name": "S. S. Engineering & Construction Ltd."
+    },
+    {
+      "serial": 10,
+      "name": "TTSL-LASL Joint Venture(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. AMIR ENGINEERING CORPORATION",
+  "award_amount": 269070000.0,
+  "estimated_cost": 288671000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

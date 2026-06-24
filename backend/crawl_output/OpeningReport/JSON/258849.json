@@ -1,0 +1,29 @@
+{
+  "tender_id": "258849",
+  "ref_no": "T-1/1882, Date: 02/12/2018",
+  "closing_date": "07-Jan-2019 15:30",
+  "opening_date": "07-Jan-2019 15:30",
+  "procuring_entity": "Nilphamari O&M Division",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Nilphamari -W-06/2018-19",
+  "lot_no": "& Re-Excavation of Dewnai-Charalkata-Jamuneswari River from Km. 0.00 to Km 30.00 in Domar Upazilla of Nilphamari District",
+  "zone": "Nilphamari",
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Asian Dredgers Ltd-M/s Ismail Hossain JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "DAWN-MILON (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": null
+}

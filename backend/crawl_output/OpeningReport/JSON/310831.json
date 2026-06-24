@@ -1,0 +1,33 @@
+{
+  "tender_id": "310831",
+  "ref_no": "T-3/450, Dt-24/04/2019",
+  "closing_date": "16-May-2019 13:00",
+  "opening_date": "16-May-2019 13:00",
+  "procuring_entity": "Cox's Bazar O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "COXD-NDR-W-02/2018-19",
+  "lot_no": "& Construction of Sea-dyke & Closure with protection work 150m Closure and 280m Sea-dyke in connection with Sabrang Tourism Park of Bangladesh Economic Zone Authority BEZA in Upazilla-Teknaf District- Coxs Bazar under Coxs Bazar O&M Division BWDB Coxs Bazar during the year 2018-19 & 2019-20.",
+  "zone": null,
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "DIRD ENGINEERING LIMITED"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "SSECL-KSA-GC JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 316720000.0,
+  "estimated_cost": 298363000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

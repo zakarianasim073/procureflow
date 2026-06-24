@@ -1,0 +1,49 @@
+{
+  "tender_id": "1153923",
+  "ref_no": "42.01.1500.567.000.07.0006.25.1040, Dated:18/09/25",
+  "closing_date": "26-Oct-2025 16:00",
+  "opening_date": "26-Oct-2025 16:00",
+  "procuring_entity": "Chattogram WD Division-1, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Reg-25/Kerenja-Khal/Patiya-FCDI/25-26",
+  "lot_no": "& Construction of 2-Vent (Vent Size- 1.50m x 1.80m) Regulator with Boatpass on Kerenja Khal in-connection with \"Flood Control, Drainage and Irrigation Project at Patiya Upazilla in Chittagong District\" at Ashia Union, Upazilla: Patiya, Dist. Chattogram under Chattogram WD Division-1, BWDB, Chattogram.",
+  "zone": "Chattogram",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "JH-Nk JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Al-Mamun Enterprise LTD"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "MA JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 7,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD."
+    }
+  ],
+  "award_winner": "MOHAMMED EUNUS & BROTHERS (PVT.) LTD.",
+  "award_amount": 196900000.00000003,
+  "estimated_cost": 225000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

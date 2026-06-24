@@ -1,0 +1,29 @@
+{
+  "tender_id": "797360",
+  "ref_no": "1T-4/2135",
+  "closing_date": "04-Apr-2023 12:00",
+  "opening_date": "04-Apr-2023 12:00",
+  "procuring_entity": "Satkhira O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W Sat-1./18",
+  "lot_no": "& Permanent Protective work with rehabilitation of Embankment and constrution of Ghatla at Gabura from Km 20.580 to km 21.000 =0.420km in polder no 15 under Rehabilitation of Polder -15 at Satkhira District under Satkhira O&M Division-1, BWDB, Satkhira during the year 2022-2023.",
+  "zone": "Satkhira",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "Simec-Rahman JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "SIMEC-RAHMAN JV",
+  "award_amount": 270180000.0,
+  "estimated_cost": 270600000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

@@ -1,0 +1,49 @@
+{
+  "tender_id": "258893",
+  "ref_no": "T-4/768, Dated: 02-12-2018.",
+  "closing_date": "03-Jan-2019 12:40",
+  "opening_date": "03-Jan-2019 12:40",
+  "procuring_entity": "Kushtia O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Kushtia-W-12/2018-19",
+  "lot_no": "& Re-Excavation of D7K Drainage Khal from km. 9.000 to km. 17.500 in c/w Re-excavation of small river khal & water bodies in 64 Districts Phase-1 Project under Kushtia O&M Division BWDB Kushtia during the year 2018-19 & 2019-20.",
+  "zone": "Kushtia",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Liton Traders"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Mondol & Co."
+    },
+    {
+      "serial": 3,
+      "name": "M/S Rupali Construction"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 7,
+      "name": "Moshiur Rahman Chowdhury"
+    }
+  ],
+  "award_winner": "M/S. AMIN & CO.",
+  "award_amount": 20670000.000000004,
+  "estimated_cost": 22967666.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

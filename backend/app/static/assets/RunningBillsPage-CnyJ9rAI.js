@@ -1,0 +1,11 @@
+import{c as a,j as e,o as i}from"./index-XO6ShHs_.js";/**
+ * @license lucide-react v0.460.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const n=a("Clock3",[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["polyline",{points:"12 6 12 12 16.5 12",key:"1aq6pp"}]]);/**
+ * @license lucide-react v0.460.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const s=a("Landmark",[["line",{x1:"3",x2:"21",y1:"22",y2:"22",key:"j8o0r"}],["line",{x1:"6",x2:"6",y1:"18",y2:"11",key:"10tf0k"}],["line",{x1:"10",x2:"10",y1:"18",y2:"11",key:"54lgf6"}],["line",{x1:"14",x2:"14",y1:"18",y2:"11",key:"380y"}],["line",{x1:"18",x2:"18",y1:"18",y2:"11",key:"1kevvc"}],["polygon",{points:"12 2 20 7 4 7",key:"jkujk7"}]]);function c(){return e.jsxs("div",{className:"space-y-6",children:[e.jsxs("div",{children:[e.jsx("h1",{className:"text-2xl font-bold text-gray-900",children:"Running Bills"}),e.jsx("p",{className:"text-sm text-gray-500 mt-1",children:"Operational surface restored from the sibling app. Connect bill APIs next if you want live finance workflow data here."})]}),e.jsx("div",{className:"grid grid-cols-1 md:grid-cols-3 gap-4",children:[{icon:i,label:"Tracked Bills",value:"Ready for API"},{icon:n,label:"Pending Certification",value:"Needs backend feed"},{icon:s,label:"Payment Pipeline",value:"Schema ready"}].map(l=>e.jsxs("div",{className:"rounded-xl border border-gray-200 bg-white p-5",children:[e.jsx(l.icon,{size:18,className:"text-primary-600 mb-3"}),e.jsx("div",{className:"text-sm text-gray-500",children:l.label}),e.jsx("div",{className:"text-lg font-semibold text-gray-900 mt-1",children:l.value})]},l.label))})]})}export{c as default};

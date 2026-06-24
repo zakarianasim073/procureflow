@@ -1,0 +1,176 @@
+{
+  "tender_id": "1270889",
+  "ref_no": "42.01.0600.000.112.07.0001.25-2781, Date-07/05/26",
+  "closing_date": "04-Jun-2026 14:00",
+  "opening_date": "04-Jun-2026 14:00",
+  "procuring_entity": "Barishal WD Division",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BSL/MHDJ/WD-02",
+  "lot_no": "& River bank protection work of Tetulia river (Right Bank) from Km 0.300 to Km 0.600 total 0.300 Km at Mehendigonj upazila of Barishal district in c/w \"River bank protection work at different location of Mehendigonj upazilla from erosion of Tetulia river in Barishal district\" under Barishal WD Division, BWDB, Barishal.",
+  "zone": "Barishal",
+  "bidder_count": 13,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "B. J. Geo-Textile Ltd.(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Amir Engineering Corporation - Anchor Soil Bangladesh Ltd JV(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Aradhana Enterprise"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 8,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 9,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 10,
+      "name": "MRN MMS JV(JVCA - View Details)(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 11,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD."
+    },
+    {
+      "serial": 12,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 13,
+      "name": "PROPERTY DEVELOPMENT LIMITED"
+    }
+  ],
+  "price_bid_count": 13,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "236631612.439",
+      "discount_pct": "7.850",
+      "discount_amount": "18575581.576",
+      "net_quoted": "218056030.863"
+    },
+    {
+      "serial": 2,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD.",
+      "quoted_amount": "219036802.300",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "219036802.300"
+    },
+    {
+      "serial": 3,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD.",
+      "quoted_amount": "236631612.439",
+      "discount_pct": "7.370",
+      "discount_amount": "17439749.836",
+      "net_quoted": "219191862.603"
+    },
+    {
+      "serial": 4,
+      "name": "Noona Traders",
+      "quoted_amount": "236595334.831",
+      "discount_pct": "7.330",
+      "discount_amount": "17342438.043",
+      "net_quoted": "219252896.788"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Amir Engineering Corporation - Anchor Soil Bangladesh Ltd JV",
+      "quoted_amount": "237280854.387",
+      "discount_pct": "7.475",
+      "discount_amount": "17736743.865",
+      "net_quoted": "219544110.522"
+    },
+    {
+      "serial": 6,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "219637199.300",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "219637199.300"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Aradhana Enterprise",
+      "quoted_amount": "220246013.000",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "220246013.000"
+    },
+    {
+      "serial": 8,
+      "name": "PROPERTY DEVELOPMENT LIMITED",
+      "quoted_amount": "220246728.970",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "220246728.970"
+    },
+    {
+      "serial": 9,
+      "name": "MRN MMS JV",
+      "quoted_amount": "220320021.850",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "220320021.850"
+    },
+    {
+      "serial": 10,
+      "name": "M/S. Niaz Traders",
+      "quoted_amount": "236595000.000",
+      "discount_pct": "6.770",
+      "discount_amount": "16017481.500",
+      "net_quoted": "220577518.500"
+    },
+    {
+      "serial": 11,
+      "name": "B. J. Geo-Textile Ltd.",
+      "quoted_amount": "221856320.479",
+      "discount_pct": "0.500",
+      "discount_amount": "1109281.602",
+      "net_quoted": "220747038.877"
+    },
+    {
+      "serial": 12,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN",
+      "quoted_amount": "236632177.400",
+      "discount_pct": "5.840",
+      "discount_amount": "13819319.160",
+      "net_quoted": "222812858.240"
+    },
+    {
+      "serial": 13,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "224098659.475",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "224098659.475"
+    }
+  ],
+  "estimated_cost": 236631612.44
+}

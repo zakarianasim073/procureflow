@@ -1,0 +1,49 @@
+{
+  "tender_id": "373297",
+  "ref_no": "W-01/4359,Dt,24-10-2019",
+  "closing_date": "02-Dec-2019 11:45",
+  "opening_date": "02-Dec-2019 11:45",
+  "procuring_entity": "Sirajganj O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "PWS-30",
+  "lot_no": "& Bank protection work of Length 1.000 km along the Left/Right bank of the Karotoa river at Garidaha & Talgachi in District Sirajganj.",
+  "zone": "Sirajganj",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "JV M A ENTERPRISE-MAZID SONS CONSTRUCTION LTD (JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "JV MM Builders & Engineers Ltd-Sk Emdadul Haque Al Mamun(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "LA & SR JV(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 6,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 7,
+      "name": "TAJWAR TRADE SYSTEMS LIMITED - M/S CHOWDHURY AND COMPANY JV. (TTSL-C&C Joint Venture) (JVCA - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "Unnayan-Goodman JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

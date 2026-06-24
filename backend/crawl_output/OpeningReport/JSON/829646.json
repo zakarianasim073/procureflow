@@ -1,0 +1,45 @@
+{
+  "tender_id": "829646",
+  "ref_no": "MQ-52/1198, Date: 14-05-2023.",
+  "closing_date": "20-Jun-2023 12:35",
+  "opening_date": "20-Jun-2023 12:35",
+  "procuring_entity": "Barguna O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BTBPW-08/2022-23",
+  "lot_no": "& Riverbank protective work at Betagi Pouroshova under Polder 41/7A from Km 13.000 to Km 13.500 Total 0.500 km in connection with \"Rehabilitation of Polder 41/6A, 41/6B & 41/7A and protection of vulnerable portion including Betagi town from the erosion of Bishkhali & Payra river under Barguna district\" under Barguna O&M Division, BWDB, Barguna.",
+  "zone": "Barguna",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dawn-UI (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Dockyard & Engineering Works Limited(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M. M. Builders & Engineers Ltd.-M/S. Amir Engineering Corporation (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "MEBL-SEL (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "VCPL-SSRI JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M. M. BUILDERS & ENGINEERS LTD.-M/S. AMIR ENGINEERING CORPORATION (JV)",
+  "award_amount": 389810000.0,
+  "estimated_cost": 407100000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

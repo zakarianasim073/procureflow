@@ -1,0 +1,85 @@
+{
+  "tender_id": "1221770",
+  "ref_no": "EE/NOA/WD/IT-5/1764; Dated:02/02/2026",
+  "closing_date": "24-Feb-2026 16:00",
+  "opening_date": "24-Feb-2026 16:00",
+  "procuring_entity": "Noakhali WD Division, BWDB",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BSTRONG/BWDB/Noa/Hatiya/ W-05",
+  "lot_no": "& River Bank Protection work in Lower Meghna River from km 18.800 to km 19.800 = 1.000 km at Hatiya Upazila in Noakhali district under the project of Bangladesh Sustainable Recovery, Emergency Preparedness and Response Project (B-STRONG) (BWDB Part)",
+  "zone": "Noakhali",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Confidence Infrastructure PLC"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 5,
+      "name": "PROPERTY DEVELOPMENT LIMITED"
+    }
+  ],
+  "price_bid_count": 5,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "Confidence Infrastructure PLC",
+      "quoted_amount": "209133706.915",
+      "discount_pct": "16.000",
+      "discount_amount": "33461393.106",
+      "net_quoted": "175672313.808"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "188306240.583",
+      "discount_pct": "0.000",
+      "discount_amount": "0.000",
+      "net_quoted": "188306240.583"
+    },
+    {
+      "serial": 3,
+      "name": "PROPERTY DEVELOPMENT LIMITED",
+      "quoted_amount": "192273884.400",
+      "discount_pct": "0.000",
+      "discount_amount": "0.000",
+      "net_quoted": "192273884.400"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Rahman Engineering",
+      "quoted_amount": "194458534.281",
+      "discount_pct": "0.000",
+      "discount_amount": "0.000",
+      "net_quoted": "194458534.281"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Mostafa & Sons",
+      "quoted_amount": "198443176.000",
+      "discount_pct": "0.000",
+      "discount_amount": "0.000",
+      "net_quoted": "198443176.000"
+    }
+  ],
+  "award_winner": "CONFIDENCE INFRASTRUCTURE PLC",
+  "award_amount": 175670000.0,
+  "estimated_cost": 211000000.0,
+  "winner_quoted": 209133706.915,
+  "winner_discount": 0.88,
+  "winner_discount_pct": 16.0
+}

@@ -1,0 +1,49 @@
+{
+  "tender_id": "819983",
+  "ref_no": "ET-1/163 Date 18-04-2023",
+  "closing_date": "17-May-2023 12:05",
+  "opening_date": "17-May-2023 12:05",
+  "procuring_entity": "Gaibandha O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Shreepur-02/2022-23",
+  "lot_no": "& Bank protection work along the right bank of the river Jamuna from Km. 52.100 to Km.52.300 = 200.00m at Shreepur in Upazila Sundarganj. Dist. Gaibandha in connection with the project \"Protection of Goghat and adjacent area including Khanabari from the right bank erosion of the Jamuna River at Gaibandha Sadar & Sundarganj Upazila in Gaibandha District(1st Revised)\" under Gaibandha O&M Division, Gaibandha during the Year 2022-2023.",
+  "zone": "Gaibandha",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "ALH-NT (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "MMB-SA JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 6,
+      "name": "MS. SB-MCE-JV(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "Shekh Emdadul Hauqe Al Mamun"
+    },
+    {
+      "serial": 8,
+      "name": "TBI-BC JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

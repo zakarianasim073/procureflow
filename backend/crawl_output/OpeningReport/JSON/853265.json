@@ -1,0 +1,33 @@
+{
+  "tender_id": "853265",
+  "ref_no": "42.01.9400.181.07.004.19-707,Date 12/07/2023",
+  "closing_date": "04-Sep-2023 11:15",
+  "opening_date": "04-Sep-2023 11:15",
+  "procuring_entity": "Thakurgaon O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Thk- W -26",
+  "lot_no": "& Construction of Combined Water Control Structure at Rautnagor over Kulic River in Upazila Ranisankoil, Dist. Thakurgaon. (1st Retender)",
+  "zone": "Thakurgaon",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dockyard & Engineering Works Limited(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "MAK Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "MBEL-JH JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

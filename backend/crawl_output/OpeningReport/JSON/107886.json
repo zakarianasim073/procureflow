@@ -1,0 +1,37 @@
+{
+  "tender_id": "107886",
+  "ref_no": "T-2/2238, Dated: 06-06-2017",
+  "closing_date": "17-Jul-2017 15:00",
+  "opening_date": "17-Jul-2017 15:00",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Dau-RBP-10",
+  "lot_no": "& Bank Revetment Work from km 30.770 to km 31.424 0.654 km in connection with Protection of Embankment from km 29.462 to km 39.000 of Polder No. 56/57 from Erosion of the Meghna River at Daulatkhan & Borhanuddin Upazila in Bhola District under Bhola O & M Division-I BWDB Bhola during the year 2016-2017.",
+  "zone": "Bhola",
+  "bidder_count": 4,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Dolly Construction Ltd-Infratech (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "Md. Liaquat Ali"
+    },
+    {
+      "serial": 4,
+      "name": "S. S. Engineering & Construction Ltd."
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 325170000.00000006,
+  "estimated_cost": 299539620.47,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

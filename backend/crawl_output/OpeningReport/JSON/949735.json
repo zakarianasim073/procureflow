@@ -1,0 +1,25 @@
+{
+  "tender_id": "949735",
+  "ref_no": "T-37/293 Date:11-02-2024",
+  "closing_date": "13-Mar-2024 12:00",
+  "opening_date": "13-Mar-2024 12:00",
+  "procuring_entity": "Syedpur O&M Division",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Saidpur/Regulator-02",
+  "lot_no": "& Construction of Weir cum Regulator cum Bridge at Chickly River under Saidpur O&M Division, BWDB, Saidpur, NIlphamari.",
+  "zone": "Syedpur",
+  "bidder_count": 2,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M. M. Builders & Engineers Ltd.(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": 364700000.0
+}

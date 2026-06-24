@@ -1,0 +1,45 @@
+{
+  "tender_id": "795267",
+  "ref_no": "T-9/308 Dated: 27-02-2023",
+  "closing_date": "29-Mar-2023 13:00",
+  "opening_date": "29-Mar-2023 13:00",
+  "procuring_entity": "Manikganj WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "KR-Manikganj-07",
+  "lot_no": "& Bank Protection work along the Left bank of Kaliganga River from km. 19.840 to km. 20.840 = 1.000 km at Kusher Char & Bengroi, under Manikganj Sadar Upazila District: Manikganj under Manikganj WD Division, BWDB, Manikganj during the year 2022-23, 23-24 & 24-25.",
+  "zone": "Manikganj",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "JV. M/S MD JAMIL IQBAL-SK. EMDADUL HAQUE AL MAMUN(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. M.A. Enterprise"
+    },
+    {
+      "serial": 6,
+      "name": "TAJWAR TRADE SYSTEMS LIMITED"
+    }
+  ],
+  "award_winner": "GOLAM RABBANI CONSTRUCTION LTD.",
+  "award_amount": 277030000.0,
+  "estimated_cost": 295394500.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

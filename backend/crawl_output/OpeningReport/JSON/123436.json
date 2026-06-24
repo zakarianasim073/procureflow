@@ -1,0 +1,41 @@
+{
+  "tender_id": "123436",
+  "ref_no": "T-6/983 Dated 25-09-2017",
+  "closing_date": "02-Nov-2017 12:00",
+  "opening_date": "02-Nov-2017 12:00",
+  "procuring_entity": "Tangail O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "BRRP-PWSB/18-19",
+  "lot_no": "& Protective work for the protection of sediment basin by CC block for the length of 1493.00 m from erosion ot the left bank of New Dhaleswari River in Upazila - Kalihati District - Tangail under Tangail O & M Division BWDB Tangail during the Year 2017-18.",
+  "zone": "Tangail",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "HOSSAIN TRADING CORPORATION"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. BHAWAL CONSTRUCTION"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "Tazul-Noona JV(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "Techbay-KSA JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "TECHBAY-KSA JV",
+  "award_amount": 219100000.0,
+  "estimated_cost": 243443253.28,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

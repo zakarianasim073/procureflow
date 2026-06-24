@@ -1,0 +1,45 @@
+{
+  "tender_id": "846528",
+  "ref_no": "ET-1/1993; Date:14-06-2023",
+  "closing_date": "17-Jul-2023 12:10",
+  "opening_date": "17-Jul-2023 12:10",
+  "procuring_entity": "Gaibandha O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Munshirhat-1/2022-23",
+  "lot_no": "& Bank protection work along the right bank of the jamuna river from km. 85.831 to km. 85.976 = 145 m and U/S end termination 166.51 m Total Length = 311.51m at Munshir hat in upazilla shaghata Dist. Gaibandha in connection with the project \"Protection of Katlamari area at Fulchari Upazilla, Gobindi & Holdia area at Shaghata Upazilla from erosion of the Right Bank of Jamuna River in Gaibandha District(1st Revised)\" under Gaibandha O&M Division, BWDB, Gaibandha during the Year 2022-2023.",
+  "zone": "Gaibandha",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "BJGTL - RAHMAN ( JV )(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Dockyard & Engineering Works Limited"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "MATIN CONSTRUCTION LIMITED"
+    },
+    {
+      "serial": 5,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    },
+    {
+      "serial": 6,
+      "name": "UNNAYAN-ARC JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 251880000.0,
+  "estimated_cost": 279872000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

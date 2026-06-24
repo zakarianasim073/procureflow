@@ -1,0 +1,45 @@
+{
+  "tender_id": "795277",
+  "ref_no": "T-9/314 Dated: 27-02-2023",
+  "closing_date": "29-Mar-2023 14:00",
+  "opening_date": "29-Mar-2023 14:00",
+  "procuring_entity": "Manikganj WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "KR-Manikganj-14",
+  "lot_no": "& Bank Protection work along the Right bank of Kaliganga River from km. 50.700 to km. 51.450 = 0.750 km at Jamsa Bazar, under Singair Upazila District: Manikganj under Manikganj WD Division, BWDB, Manikganj during the year 2022-23, 23-24 & 24-25.",
+  "zone": "Manikganj",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "DIRD ENGINEERING LIMITED"
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "HH-AE JV(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "Starlite Services Limited"
+    },
+    {
+      "serial": 6,
+      "name": "TAJWAR TRADE SYSTEMS LIMITED"
+    }
+  ],
+  "award_winner": "HH-AE JV",
+  "award_amount": 191520000.0,
+  "estimated_cost": 198496100.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

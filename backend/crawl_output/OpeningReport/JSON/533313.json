@@ -1,0 +1,41 @@
+{
+  "tender_id": "533313",
+  "ref_no": "Barishal/Durgapasha/T-3/33,dt.-06/01/2021",
+  "closing_date": "14-Feb-2021 12:05",
+  "opening_date": "14-Feb-2021 12:05",
+  "procuring_entity": "Barisal O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Dur-PW-2",
+  "lot_no": "& Protection of Durgapasha area at Bakergonj upazilla in Barishal district from erosion of Tentulia river from km. 0.500 to km. 1.000 0.500 km. in connection with Protection of Dhulia launchghat Bauphal Upazila Patuakhali District to Durgapasha of Bakergonj Upazila in Barisal District from erosion of Tetulia river under Barishal O&M Division BWDB Barishal during the year 2020-2021 & 2021-22.",
+  "zone": "Barisal",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "KCEL & AKA (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M. M. Builders & Engineers Ltd-M/S. Amir Engineering Corporation(JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "SS-NATIONTECH (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "VCL-SS JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 413780000.0,
+  "estimated_cost": 441380000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

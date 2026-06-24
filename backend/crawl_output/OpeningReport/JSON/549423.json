@@ -1,0 +1,61 @@
+{
+  "tender_id": "549423",
+  "ref_no": "ET-1/653 Date 16-02-2021",
+  "closing_date": "22-Mar-2021 12:15",
+  "opening_date": "22-Mar-2021 12:15",
+  "procuring_entity": "Gaibandha O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Gobindi-02/2020-21",
+  "lot_no": "& Bank Protection work along the Right bank of the Jamuna River from BRE dowel km. 5.070 to km 5.420 equal to 350.00 m at Gobindi in Upazilla Shaghata Dist. Gaibandha in connection with the project Protection of Katlamari area at Fulchari Upazilla Gobindi & Holdia area at Shaghata Upazilla from erosion of the Right Bank of Jamuna River in Gaibandha District. under Gaibandha O&M Division BWDB Gaibandha during the year 2020-2021 & 2021-2022.",
+  "zone": "Gaibandha",
+  "bidder_count": 10,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 2,
+      "name": "Joint Venture of DEDA and SSL20(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "JV. M/S MD JAMIL IQBAL-SK. EMDADUL HAQUE AL MAMUN(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Saleh Ahmed"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "MMA-MKE-AWR (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "S. S. Engineering & Construction Ltd."
+    },
+    {
+      "serial": 8,
+      "name": "SKC-EEL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "UI-ACC JV(JVCA - View Details)"
+    },
+    {
+      "serial": 10,
+      "name": "VCL-SS JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S SALEH AHMED",
+  "award_amount": 230480000.0,
+  "estimated_cost": 256090000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

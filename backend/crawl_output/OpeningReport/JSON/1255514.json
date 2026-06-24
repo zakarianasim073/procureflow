@@ -1,0 +1,332 @@
+{
+  "tender_id": "1255514",
+  "ref_no": "Arial beel T-1/2599 ; Dated: 15.04.2026",
+  "closing_date": "07-May-2026 14:15",
+  "opening_date": "07-May-2026 14:15",
+  "procuring_entity": "Dhaka WD Division, BWDB",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "DHK/EXCA/Package-5",
+  "lot_no": "& Re-Excavation of Dohar Khal from Km 0.000 to Km 7.882 = 7.882 km at Upazila|-Dohar in Dist. Dhaka",
+  "zone": "Dhaka",
+  "bidder_count": 26,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "AS-PE JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Corporate Construction -Ceamac Engineering Ltd- JV(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "Dockyard & Engineering Works Limited"
+    },
+    {
+      "serial": 4,
+      "name": "FAIR CONSTRUCTION"
+    },
+    {
+      "serial": 5,
+      "name": "FIRST S.S ENTERPRISE (PVT.) LTD."
+    },
+    {
+      "serial": 6,
+      "name": "ICCL-MBC JV(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 8,
+      "name": "M/S. Dawn Corporation"
+    },
+    {
+      "serial": 9,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 10,
+      "name": "M/s. M.R. Construction"
+    },
+    {
+      "serial": 11,
+      "name": "M/S. Mostafa & Sons"
+    },
+    {
+      "serial": 12,
+      "name": "M/S. Niaz Traders"
+    },
+    {
+      "serial": 13,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 14,
+      "name": "M/S.A.HAI & SONS"
+    },
+    {
+      "serial": 15,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 16,
+      "name": "Md.Shamimur Rahman"
+    },
+    {
+      "serial": 17,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 18,
+      "name": "MS. CITY TRADE INTERNATIONAL"
+    },
+    {
+      "serial": 19,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD."
+    },
+    {
+      "serial": 20,
+      "name": "Noona Traders"
+    },
+    {
+      "serial": 21,
+      "name": "S. S. Rahman International Limited"
+    },
+    {
+      "serial": 22,
+      "name": "SA-SI (Pvt) Limited(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 23,
+      "name": "Sapna Construction Ltd."
+    },
+    {
+      "serial": 24,
+      "name": "SHAHID KHUSHI & CO"
+    },
+    {
+      "serial": 25,
+      "name": "Sonar Bangla Navigation"
+    },
+    {
+      "serial": 26,
+      "name": "Unnayan International"
+    }
+  ],
+  "price_bid_count": 26,
+  "price_bids": [
+    {
+      "serial": 1,
+      "name": "Md.Shamimur Rahman",
+      "quoted_amount": "70715157.234",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "70715157.234"
+    },
+    {
+      "serial": 2,
+      "name": "FAIR CONSTRUCTION",
+      "quoted_amount": "71574953.596",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "71574953.596"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Amin & Co.",
+      "quoted_amount": "72183028.271",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "72183028.271"
+    },
+    {
+      "serial": 4,
+      "name": "Md. Nasir Uddin Molla",
+      "quoted_amount": "72747734.030",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "72747734.030"
+    },
+    {
+      "serial": 5,
+      "name": "MS. CITY TRADE INTERNATIONAL",
+      "quoted_amount": "87563704.835",
+      "discount_pct": "16.250",
+      "discount_amount": "14229102.035",
+      "net_quoted": "73334602.800"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Mostafa & Sons",
+      "quoted_amount": "73381587.433",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "73381587.433"
+    },
+    {
+      "serial": 7,
+      "name": "SA-SI (Pvt) Limited",
+      "quoted_amount": "87980686.619",
+      "discount_pct": "15.550",
+      "discount_amount": "13680996.769",
+      "net_quoted": "74299689.850"
+    },
+    {
+      "serial": 8,
+      "name": "M/s. M.R. Construction",
+      "quoted_amount": "86874232.329",
+      "discount_pct": "13.823",
+      "discount_amount": "12008625.134",
+      "net_quoted": "74865607.195"
+    },
+    {
+      "serial": 9,
+      "name": "Sonar Bangla Navigation",
+      "quoted_amount": "87154776.089",
+      "discount_pct": "14.000",
+      "discount_amount": "12201668.652",
+      "net_quoted": "74953107.437"
+    },
+    {
+      "serial": 10,
+      "name": "Corporate Construction -Ceamac Engineering Ltd- JV",
+      "quoted_amount": "87563700.000",
+      "discount_pct": "14.000",
+      "discount_amount": "12258918.000",
+      "net_quoted": "75304782.000"
+    },
+    {
+      "serial": 11,
+      "name": "ICCL-MBC JV",
+      "quoted_amount": "87560974.169",
+      "discount_pct": "13.750",
+      "discount_amount": "12039633.948",
+      "net_quoted": "75521340.221"
+    },
+    {
+      "serial": 12,
+      "name": "S. S. Rahman International Limited",
+      "quoted_amount": "75617577.800",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "75617577.800"
+    },
+    {
+      "serial": 13,
+      "name": "M/S. Niaz Traders",
+      "quoted_amount": "87114776.091",
+      "discount_pct": "13.170",
+      "discount_amount": "11473016.011",
+      "net_quoted": "75641760.080"
+    },
+    {
+      "serial": 14,
+      "name": "Noona Traders",
+      "quoted_amount": "87114776.091",
+      "discount_pct": "13.070",
+      "discount_amount": "11385901.235",
+      "net_quoted": "75728874.856"
+    },
+    {
+      "serial": 15,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN",
+      "quoted_amount": "87563566.436",
+      "discount_pct": "13.040",
+      "discount_amount": "11418289.063",
+      "net_quoted": "76145277.373"
+    },
+    {
+      "serial": 16,
+      "name": "AS-PE JV",
+      "quoted_amount": "76387140.731",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "76387140.731"
+    },
+    {
+      "serial": 17,
+      "name": "M/S. Dawn Corporation",
+      "quoted_amount": "76475970.611",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "76475970.611"
+    },
+    {
+      "serial": 18,
+      "name": "NATIONAL DEVELOPMENT ENGINEERS LTD.",
+      "quoted_amount": "78103645.250",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "78103645.250"
+    },
+    {
+      "serial": 19,
+      "name": "Unnayan International",
+      "quoted_amount": "96293000.001",
+      "discount_pct": "18.750",
+      "discount_amount": "18054937.500",
+      "net_quoted": "78238062.501"
+    },
+    {
+      "serial": 20,
+      "name": "M/S. Hassan & Brothers",
+      "quoted_amount": "87114776.089",
+      "discount_pct": "9.890",
+      "discount_amount": "8615651.355",
+      "net_quoted": "78499124.734"
+    },
+    {
+      "serial": 21,
+      "name": "SHAHID KHUSHI & CO",
+      "quoted_amount": "79013306.270",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "79013306.270"
+    },
+    {
+      "serial": 22,
+      "name": "M/S.A.HAI & SONS",
+      "quoted_amount": "87134776.089",
+      "discount_pct": "9.300",
+      "discount_amount": "8103534.176",
+      "net_quoted": "79031241.913"
+    },
+    {
+      "serial": 23,
+      "name": "Sapna Construction Ltd.",
+      "quoted_amount": "96293000.000",
+      "discount_pct": "16.250",
+      "discount_amount": "15647612.500",
+      "net_quoted": "80645387.500"
+    },
+    {
+      "serial": 24,
+      "name": "Dockyard & Engineering Works Limited",
+      "quoted_amount": "82796437.998",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "82796437.998"
+    },
+    {
+      "serial": 25,
+      "name": "FIRST S.S ENTERPRISE (PVT.) LTD.",
+      "quoted_amount": "89943050.310",
+      "discount_pct": "4.290",
+      "discount_amount": "3858556.858",
+      "net_quoted": "86084493.452"
+    },
+    {
+      "serial": 26,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.",
+      "quoted_amount": "95329985.141",
+      "discount_pct": "0.0",
+      "discount_amount": "0.0",
+      "net_quoted": "95329985.141"
+    }
+  ],
+  "estimated_cost": null
+}

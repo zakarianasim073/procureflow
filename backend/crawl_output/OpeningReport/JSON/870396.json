@@ -1,0 +1,41 @@
+{
+  "tender_id": "870396",
+  "ref_no": "RMDIP/T-2/318 Date: 05/09/2023",
+  "closing_date": "15-Oct-2023 12:30",
+  "opening_date": "15-Oct-2023 12:30",
+  "procuring_entity": "Meghna-Dhonagoda O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "RMDIP/W-10/2022-23",
+  "lot_no": "& Ferro Cement Lining work of K12-1, K12-2, K12-3, K12-4, K12-21, K11-1, K11-2, K11-3, K11-4, K11-21, K11-22, K11-5 irrigation canal of Meghna Dhonagoda O&M Division.",
+  "zone": null,
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "DCL & NUM (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "Khokan Construction & Engineering Ltd"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Abul Kalam Azad"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 6,
+      "name": "MRC-NIRMATA JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

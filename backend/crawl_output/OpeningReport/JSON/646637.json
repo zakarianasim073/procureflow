@@ -1,0 +1,45 @@
+{
+  "tender_id": "646637",
+  "ref_no": "T-1/1988, Dated- 09/01/2022",
+  "closing_date": "08-Feb-2022 11:00",
+  "opening_date": "08-Feb-2022 11:00",
+  "procuring_entity": "Chattogram O&M Division-1, BWDB",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "EMB-05/Boalkhali/Patiya/2021-22",
+  "lot_no": "& Construction of Embankment Beside the Right Bank of Shikalbaha-Murali-Chandkhali-Boalkhali River in between Km 19.300 to Km 25.450 (=5250m) at Habilashdwip & Kolagaon Union of Patiya Upazilla, Dist-Chattogram in connection with \"Flood Control, Drainage and Irrigation Project at Patiya Upazilla in Chittagong District\" under Chattogram O&M Division-1, BWDB, Chattogram during FY 2021-22.",
+  "zone": "Chattogram",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Rahman Engineering - M/S Belal Construction (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. MA-AME JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Shahid Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "MMA & MAC JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "SALEH-MAKAZ (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "SSECL & MC JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 131150000.0
+}

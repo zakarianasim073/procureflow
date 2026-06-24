@@ -1,0 +1,37 @@
+{
+  "tender_id": "858286",
+  "ref_no": "T-3/257, Dt. 09-08-2023",
+  "closing_date": "11-Sep-2023 12:00",
+  "opening_date": "11-Sep-2023 12:00",
+  "procuring_entity": "Satkhira O&M Division-2",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Sat-2/06",
+  "lot_no": "& River bank protection work from km 1.125 to km 1.575=450.00 meter in polder No-14/1 under Rehabilitation of polder No-14/1 in khulna District under Satkhira O&M Division-2, BWDB, Satkhira.",
+  "zone": "Satkhira",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "BJGTL - AB ( JV )(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Amir Engineering Corporation"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "MATIN CONSTRUCTION LIMITED"
+    },
+    {
+      "serial": 5,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    }
+  ],
+  "estimated_cost": 400000000.0
+}

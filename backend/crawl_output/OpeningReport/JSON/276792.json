@@ -1,0 +1,21 @@
+{
+  "tender_id": "276792",
+  "ref_no": "T-1/ 268 Date 22.01.2019",
+  "closing_date": "07-Feb-2019 14:10",
+  "opening_date": "07-Feb-2019 14:10",
+  "procuring_entity": "Nilphamari O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Nilphamari -W-02/2018-19",
+  "lot_no": "& Re-Excavation of Bamondanga River part from Km. 0.00 to Km 6.90 of Bamondanga-Chara River in Nilphamari Sadar Upazilla",
+  "zone": "Nilphamari",
+  "bidder_count": 1,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    }
+  ],
+  "estimated_cost": null
+}

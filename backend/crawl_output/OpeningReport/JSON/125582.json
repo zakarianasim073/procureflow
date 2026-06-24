@@ -1,0 +1,61 @@
+{
+  "tender_id": "125582",
+  "ref_no": "Memo No-468 date:07/10/17",
+  "closing_date": "31-Oct-2017 11:00",
+  "opening_date": "31-Oct-2017 11:00",
+  "procuring_entity": "Meghna-Dhonagoda O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "MDIP/OM /W-07/ 2017-18",
+  "lot_no": "& Repair Maintenance work with Dyke Repair. in irrigation canal K21 from km 0.650 to km 0.700 50m dyke repair in K211 irrigation canal in between from km 0.200 to km 0.400 18m dyke repair in irrigation canal K21 from km 3.600 to km 3.627 27m Manufacturing & Placing of Ferro cement Lining in irrigation canal K21-2 in between from km 2.200 to km 2.240 20.00 m canal dyke & water structure turn out no- 8 & 12 in K21 irrigation canal in between from km 0.000 to km 3.500 canal dyke & water structure turn out no- 21 & 23 in K21 irrigation canal in between from km 3.500 to km 5.88",
+  "zone": null,
+  "bidder_count": 11,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "ABUL KASHEM MOLLA"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Sabura enterprise"
+    },
+    {
+      "serial": 3,
+      "name": "M/S M. A. K. Enterprise"
+    },
+    {
+      "serial": 4,
+      "name": "M/S Progati Traders"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Chowdhury & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Sumon Traders"
+    },
+    {
+      "serial": 8,
+      "name": "MD. AYET ALI"
+    },
+    {
+      "serial": 9,
+      "name": "Md. Monir Hossain"
+    },
+    {
+      "serial": 10,
+      "name": "TANIA & CO."
+    },
+    {
+      "serial": 11,
+      "name": "Techbay International"
+    }
+  ],
+  "estimated_cost": null
+}

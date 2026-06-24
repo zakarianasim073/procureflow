@@ -1,0 +1,41 @@
+{
+  "tender_id": "974915",
+  "ref_no": "EE/Chandpur/T-2/803,Date:18.04.2024",
+  "closing_date": "27-May-2024 14:30",
+  "opening_date": "27-May-2024 14:30",
+  "procuring_entity": "Chandpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "RTPP/Puran/W-14",
+  "lot_no": "& Rehabilitation of River Bank Protection work along the Left bank of Meghna River from KM 0.555 to KM 0.900 = 345 m at Puran Bazar area i/c \" Rehabilitation of Chandpur Town Protection Project\" under Chandpur O&M Division, BWDB, Chandpur.",
+  "zone": "Chandpur",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "JV MMBL-SKEM(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "S. S. Engineering & Construction Ltd."
+    },
+    {
+      "serial": 4,
+      "name": "TTSL-LASL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "Western Engineering ( Pvt.) Ltd."
+    }
+  ],
+  "award_winner": "JV MMBL-SKEM",
+  "award_amount": 799539999.9999999,
+  "estimated_cost": 844300000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

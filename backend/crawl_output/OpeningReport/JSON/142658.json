@@ -1,0 +1,37 @@
+{
+  "tender_id": "142658",
+  "ref_no": "TD/NR/1900 Dt:26/11/17",
+  "closing_date": "14-Dec-2017 13:15",
+  "opening_date": "14-Dec-2017 13:15",
+  "procuring_entity": "Narsingdi O&M Division",
+  "tender_status": "Being processed",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "eGP/NR/SATPARA/2",
+  "lot_no": "& Re-excavation of Satpara khal from Km. 3.600 to Km. 7.2003.600 Km. at Upazilla-Narsingdi Sadar Dist Narsingdi in connection with Non-Development Revenue Budget under Narsingdi O&M Division BWDB Narsingdi during the year 2017-2018.",
+  "zone": "Narsingdi",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Asian Dredgers Ltd"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Shahid Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "Md. Shamim Ahsan"
+    },
+    {
+      "serial": 5,
+      "name": "Noona Traders"
+    }
+  ],
+  "estimated_cost": 18810008.24
+}

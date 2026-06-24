@@ -1,0 +1,45 @@
+{
+  "tender_id": "619237",
+  "ref_no": "T-2/379, Dated: 12-10-2021",
+  "closing_date": "04-Nov-2021 10:00",
+  "opening_date": "04-Nov-2021 10:00",
+  "procuring_entity": "Bhola O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "DCP-Bor-RBP-01",
+  "lot_no": "& Bank Protection work from km 43.800 to km 44.050 equal to 0.250 km in connection with \"Protection of Daulatkhan Pourashava, Chokighat and other more vulnerable area from the erosion of the Meghna river in Bhola district\" project under Bhola O&M Division-I, BWDB, Bhola.",
+  "zone": "Bhola",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "KOHINOOR-MIZANUR-AEC (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Abul Kalam Azad"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    },
+    {
+      "serial": 5,
+      "name": "TTSL-LASL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "Western Engineering ( Pvt.) Ltd."
+    }
+  ],
+  "award_winner": "WESTERN ENGINEERING ( PVT.) LTD.",
+  "award_amount": 287910000.0,
+  "estimated_cost": 292000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

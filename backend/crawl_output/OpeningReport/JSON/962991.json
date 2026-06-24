@@ -1,0 +1,45 @@
+{
+  "tender_id": "962991",
+  "ref_no": "T-1/1347, Date: 28-03-2024.",
+  "closing_date": "28-Apr-2024 20:50",
+  "opening_date": "28-Apr-2024 20:50",
+  "procuring_entity": "Habiganj O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Habi/Bibiyana/WD-28/2023-24",
+  "lot_no": "& River Bank Protective work at the Left Bank of Kushiyara River from km. 71.400 to km. 71.675 total 0.275 km. at Hilalnagar of Baniyachong Upazilla in Habiganj District under Habiganj O&M Division, BWDB, Habiganj in FY 2023-24.",
+  "zone": "Habiganj",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Khokan Construction & Engineering Ltd-Baset Prokousholi Limited JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. SK EMDADUL HAQUE AL MAMUN"
+    },
+    {
+      "serial": 4,
+      "name": "Niaz-Noona JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "PROPERTY DEVELOPMENT LIMITED"
+    },
+    {
+      "serial": 6,
+      "name": "Techaby-City (JV)(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "TECHABY-CITY (JV)",
+  "award_amount": 219800000.0,
+  "estimated_cost": 230430000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

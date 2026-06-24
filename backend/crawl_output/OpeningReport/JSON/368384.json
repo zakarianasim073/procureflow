@@ -1,0 +1,53 @@
+{
+  "tender_id": "368384",
+  "ref_no": "T-01/3606, Date: 17/10/2019",
+  "closing_date": "24-Nov-2019 12:15",
+  "opening_date": "24-Nov-2019 12:15",
+  "procuring_entity": "Kurigram O&M Division",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "KURI/ADP/ROWMARI/P-09",
+  "lot_no": "& Bank Revetment Work on Left Bank Brahmaputra River from KM 14.000 to KM 14.500 500.000m at Ghughumari Area in Union-Bondober Upazila-Rowmari District-Kurigram during 2019-2020 & 2020-2021",
+  "zone": "Kurigram",
+  "bidder_count": 9,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S Saleh Ahmed & M/S. Belal Construction (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "JV MM Builders & Engineers Ltd-Sk Emdadul Haque Al Mamun(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "JV of RBL-PDL(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. BHAWAL CONSTRUCTION"
+    },
+    {
+      "serial": 5,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Khandaker Shahin Ahmed"
+    },
+    {
+      "serial": 7,
+      "name": "M/S. Md. Jamil Iqbal"
+    },
+    {
+      "serial": 8,
+      "name": "Orient Trading & Builders Ltd. and B. J. Geo-Textile Ltd. JV(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "SARKER STEEL Ltd."
+    }
+  ],
+  "estimated_cost": null
+}

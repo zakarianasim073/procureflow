@@ -1,0 +1,41 @@
+{
+  "tender_id": "599184",
+  "ref_no": "ET/LAK/RKBLK/303, Dt: 19/08/2021",
+  "closing_date": "27-Sep-2021 12:20",
+  "opening_date": "27-Sep-2021 12:20",
+  "procuring_entity": "Laksmipur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Lak/W-16/Lot-03/2021-2022",
+  "lot_no": "& River bank protective work along the left bank of Mehgna river from km 142.000 to km 142.267 = 267 m in c/w \"Protection work at the bank of Meghna river at Borokheri, Ludhuabazar and Kaderponditer hat areas in Ramgati and Kamal Nagar upazila under Lakshmipur District\" Project in Upazila-Ramgati, Dist.-Lakshmipur under Lakshmipur O & M Division, BWDB, Lakshmipur.(Package No:Lak/W-16/Lot-3/2021-2022)",
+  "zone": "Laksmipur",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M. M. Builders & Engineers Ltd. - M/S Saleh Ahmed JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    },
+    {
+      "serial": 4,
+      "name": "SSL-AWRDL (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "VCPL-SSRI JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "SSL-AWRDL (JV)",
+  "award_amount": 220040000.0,
+  "estimated_cost": 244489180.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

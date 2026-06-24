@@ -1,0 +1,53 @@
+{
+  "tender_id": "1045241",
+  "ref_no": "42.01.7300.157.07.006.24-1469 Date: 05-12-2024",
+  "closing_date": "07-Jan-2025 12:00",
+  "opening_date": "07-Jan-2025 12:00",
+  "procuring_entity": "Syedpur WD Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Saidpur/Regulator-03",
+  "lot_no": "& Construction of Regulator at Kharkaria-Sonarban River under Saidpur WD Division, BWDB, Saidpur, Nilphamari.",
+  "zone": "Syedpur WD",
+  "bidder_count": 8,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "AKA-AME JV.(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "JE-HH (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M. M. Builders & Engineers Ltd."
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "MARCO-NOONA JV(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "MCE - MAM -BC(JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 7,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 8,
+      "name": "NA-JH JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "MOHAMMED EUNUS & BROTHERS (PVT.) LTD.",
+  "award_amount": 60770000.0,
+  "estimated_cost": 67540000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

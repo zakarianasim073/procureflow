@@ -1,0 +1,37 @@
+{
+  "tender_id": "793257",
+  "ref_no": "MQ-52/319; Date: 19/02/2023",
+  "closing_date": "13-Mar-2023 12:10",
+  "opening_date": "13-Mar-2023 12:10",
+  "procuring_entity": "Barguna O&M Division",
+  "tender_status": "Rejected",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "ATBPW-04",
+  "lot_no": "& Slope protection of embankment and riverbank protective work at Ghotkhali under Polder 43/1 from km 33.000 to km 33.300 = 0.300km in connection with \"Rehabilitation of Polder 43/1 and 44B and protection of vulnerable portion from erosion of the Payra river under Barguna District\" project.",
+  "zone": "Barguna",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Confidence Infrastructure PLC"
+    },
+    {
+      "serial": 2,
+      "name": "GOLAM RABBANI CONSTRUCTION LTD."
+    },
+    {
+      "serial": 3,
+      "name": "M. M. Builders & Engineers Ltd-M/S. Amir Engineering Corporation(JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 5,
+      "name": "MD. MIZANUR ALAM (JV)(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": null
+}

@@ -1,0 +1,41 @@
+{
+  "tender_id": "577284",
+  "ref_no": "ET-1/1422 Date 06-05-2021",
+  "closing_date": "14-Jun-2021 12:15",
+  "opening_date": "14-Jun-2021 12:15",
+  "procuring_entity": "Gaibandha O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Holdia-04/2021-22",
+  "lot_no": "& Bank Protection work along the Right bank of the Jamuna River from BRE km. 93.173 to km 93.423 equal to 250.00 m at Holdia in Upazilla: Shaghata , Dist. Gaibandha in connection with the project \" Protection of Katlamari area at Fulchari Upazilla, Gobindi & Holdia area at Shaghata Upazilla from erosion of the Right Bank of Jamuna River in Gaibandha District.\" under Gaibandha O&M Division, BWDB Gaibandha during the year 2020-2021 & 2021-2022.",
+  "zone": "Gaibandha",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Aradhana Enterprise & Ring Tech Limited JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S Rahman Engineering"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 4,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    },
+    {
+      "serial": 5,
+      "name": "UI-ACC JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. HASSAN & BROTHERS",
+  "award_amount": 174110000.00000003,
+  "estimated_cost": 193460000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

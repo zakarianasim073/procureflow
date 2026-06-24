@@ -1,0 +1,41 @@
+{
+  "tender_id": "974917",
+  "ref_no": "EE/Chandpur/T-2/805,Date:18.04.2024",
+  "closing_date": "27-May-2024 14:30",
+  "opening_date": "27-May-2024 14:30",
+  "procuring_entity": "Chandpur O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "RTPP/Puran/W-18",
+  "lot_no": "& Rehabilitation of River Bank Protection work along the left bank of Meghna River from KM 1.250 to KM 1.430 = 180 m at Puran Bazar area i/c \" Rehabilitation of Chandpur Town Protection Project\" under Chandpur O&M Division, BWDB, Chandpur.",
+  "zone": "Chandpur",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    },
+    {
+      "serial": 3,
+      "name": "PROPERTY DEVELOPMENT LIMITED"
+    },
+    {
+      "serial": 4,
+      "name": "TTSL-LASL Joint Venture(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "YUSRA-VCPL JV(JVCA - View Details)"
+    }
+  ],
+  "award_winner": "PROPERTY DEVELOPMENT LIMITED",
+  "award_amount": 417449999.99999994,
+  "estimated_cost": 436100000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

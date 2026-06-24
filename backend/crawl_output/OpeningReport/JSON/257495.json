@@ -1,0 +1,45 @@
+{
+  "tender_id": "257495",
+  "ref_no": "T-8/313; Date:29-11-2018",
+  "closing_date": "10-Jan-2019 13:00",
+  "opening_date": "10-Jan-2019 13:00",
+  "procuring_entity": "Chuadanga O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Chuadanga-W-04/2018-19",
+  "lot_no": "& Re-Excavation of Kumar River from Km. 0.000 to Km.12.000 at AlamdangaUpazilla of Chuadanga District i/c with the Project Re-excavation of Small Rivers Khal& Water bodies in 64 Districts Phase-1 under Chuadanga O&M Division BWDB Chuadanga during The FY 2018-19.",
+  "zone": "Chuadanga",
+  "bidder_count": 7,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Amin-Natural (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Kamrul Enterprise"
+    },
+    {
+      "serial": 4,
+      "name": "Md. Mahfug Khan Ltd"
+    },
+    {
+      "serial": 5,
+      "name": "Md. Nasir Uddin Molla"
+    },
+    {
+      "serial": 6,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd."
+    },
+    {
+      "serial": 7,
+      "name": "SR-SHJ Joint Venture (JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 86257000.0
+}

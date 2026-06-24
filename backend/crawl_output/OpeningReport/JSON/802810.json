@@ -1,0 +1,45 @@
+{
+  "tender_id": "802810",
+  "ref_no": "1T-4/2345, Date: 13/03/2023",
+  "closing_date": "13-Apr-2023 13:00",
+  "opening_date": "13-Apr-2023 13:00",
+  "procuring_entity": "Satkhira O&M Division-1",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W Sat-1./36",
+  "lot_no": "& Slope Protection work along the Left bank of the Kholpetua river at Kalibari from km 22.870 to km 25.690 = 2.820 km in Polder-15 under \" Rehabilitation of polder-15 at Satkhira District\" under Satkhira O&M Division-1, BWDB, Satkhira during the year 2022-23.",
+  "zone": "Satkhira",
+  "bidder_count": 6,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "KSA & AMEL JV(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Nuruzzaman Khan"
+    },
+    {
+      "serial": 4,
+      "name": "Mohammed Eunus & Brothers (Pvt.) Ltd.(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "MRE - SABT (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 6,
+      "name": "NATIONTECH COMMUNICATIONS LTD"
+    }
+  ],
+  "award_winner": "KSA & AMEL JV",
+  "award_amount": 419900000.0,
+  "estimated_cost": 425500000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

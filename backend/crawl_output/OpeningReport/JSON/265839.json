@@ -1,0 +1,41 @@
+{
+  "tender_id": "265839",
+  "ref_no": "E-1/1792 Dated 23-12-18",
+  "closing_date": "28-Jan-2019 16:02",
+  "opening_date": "28-Jan-2019 16:02",
+  "procuring_entity": "Natore O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "Singra-W-03",
+  "lot_no": "& Re-excavation of the Nagor River from Km. 0.00 to Km. 8.00 8.00 Km. under Natore O&M Division BWDB Natore during the FY 2018-19",
+  "zone": "Natore",
+  "bidder_count": 5,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 2,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 3,
+      "name": "M/S. Tazul Islam"
+    },
+    {
+      "serial": 4,
+      "name": "Noor Hossain-Goodman (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 5,
+      "name": "TTSL-SR Joint Venture (JVCA - View Details)"
+    }
+  ],
+  "award_winner": "M/S. AMIN & CO.",
+  "award_amount": 62200000.0,
+  "estimated_cost": 70000000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}

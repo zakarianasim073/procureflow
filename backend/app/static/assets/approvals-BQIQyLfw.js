@@ -1,0 +1,1 @@
+import{v as e}from"./index-iE19VxrT.js";const r={list:async a=>(await e.get("/approvals/",{params:a})).data,getMyPending:async a=>(await e.get("/approvals/my-pending",{params:a})).data,decide:async(a,s,n)=>(await e.post(`/approvals/${a}/decide`,{decision:s,comments:n})).data};export{r as a};

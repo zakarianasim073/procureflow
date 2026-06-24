@@ -1,0 +1,29 @@
+{
+  "tender_id": "103558",
+  "ref_no": "PMO-FRERMIP/T-1/597, Dated-16 July 2017",
+  "closing_date": "22-Aug-2017 12:00",
+  "opening_date": "22-Aug-2017 12:00",
+  "procuring_entity": "Flood and Riverbank Erosion Risk Management Investment Program (FRERMIP)",
+  "tender_status": "Re-Tendered",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "W-04/2016-17",
+  "lot_no": "& Construction/Re-construction of Baral/Hurasagar Left Bank Embankment from Km 12.50 to Km 17.30 4.80 km Baghabari to Verakhola-D/S Reach and construction of 1 No. 4 vent regulator 1.50mx1.80m at Verakhola in Upazilla- Shahjadpur District- Sirajganj under Construction Division FRERMIP BWDB Koitola Bera Pabna during the year 2016-2017.",
+  "zone": null,
+  "bidder_count": 3,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 2,
+      "name": "TAHER BROTHERS LTD-M/S NUFA CONSTRUCTION-M.A.ENTERPRISE JV (TBL-NC-MAE JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "WEL-LA-TTSL JV(JVCA - View Details)"
+    }
+  ],
+  "estimated_cost": 336000000.0
+}

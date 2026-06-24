@@ -1,0 +1,69 @@
+{
+  "tender_id": "557300",
+  "ref_no": "1595 Date- 18/03/2021",
+  "closing_date": "03-May-2021 15:30",
+  "opening_date": "03-May-2021 15:30",
+  "procuring_entity": "Jashore O&M Division",
+  "tender_status": "Contract Awarded",
+  "ministry_name": "Ministry of Water Resources",
+  "agency_name": "Bangladesh Water Development Board (BWDB)",
+  "package_no": "K02/W-09/21-22",
+  "lot_no": "& Re-excavation of Upper Bhairab River from km 87.00 to km 95.00 Total 8.00 km in C/W Removal of Drainage Congestion from Kobadak River Basin Phase-2 under Jashore O & M Division BWDB Jashore during the year 2020-21.",
+  "zone": "Jashore",
+  "bidder_count": 12,
+  "bidders": [
+    {
+      "serial": 1,
+      "name": "Al-mamun enterprise ltd. & Mollah Shorower Morshed (Mukta) & M/S F.H Enterprise (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 2,
+      "name": "GM-JB (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 3,
+      "name": "M/S Saleh Ahmed(Sub Contractor/Consultant - View Details)"
+    },
+    {
+      "serial": 4,
+      "name": "M/S. Amin & Co."
+    },
+    {
+      "serial": 5,
+      "name": "M/S. BELAL CONSTRUCTION"
+    },
+    {
+      "serial": 6,
+      "name": "M/S. Hassan & Brothers"
+    },
+    {
+      "serial": 7,
+      "name": "M/s. SS & MT (JV)(JVCA - View Details)"
+    },
+    {
+      "serial": 8,
+      "name": "NZK-DAWN JV(JVCA - View Details)"
+    },
+    {
+      "serial": 9,
+      "name": "S. S. Engineering & Construction Ltd."
+    },
+    {
+      "serial": 10,
+      "name": "Shekh Emdadul Hauqe Al Mamun"
+    },
+    {
+      "serial": 11,
+      "name": "TAJWAR TRADE SYSTEMS LIMITED"
+    },
+    {
+      "serial": 12,
+      "name": "Unnayan International"
+    }
+  ],
+  "award_winner": "M/S SALEH AHMED",
+  "award_amount": 91400000.0,
+  "estimated_cost": 101561000.0,
+  "winner_quoted": 0.0,
+  "winner_discount_pct": 0.0
+}
